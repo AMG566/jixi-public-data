@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "version": "2026-08-20",
+  "source": "手工维护的公开分红数据",
+  "source_updated_at": "2026-08-20T08:00:00Z",
+  "fetched_at": "2026-08-20T08:00:00Z",
+  "checksum": null,
+  "stocks": [
+    {
+      "code": "600036",
+      "name": "招商银行"
+    },
+    {
+      "code": "600900",
+      "name": "长江电力"
+    }
+  ],
+  "dividends": [
+    {
+      "id": "600036-2026-annual",
+      "stock_code": "600036",
+      "stock_name": "招商银行",
+      "record_date": "2026-06-30",
+      "ex_date": "2026-07-01",
+      "pay_date": "2026-07-01",
+      "cash_dividend_per_share": 1.003,
+      "status": "announcedPending",
+      "last_verified_at": "2026-08-20T08:00:00Z"
+    },
+    {
+      "id": "600900-2026-annual",
+      "stock_code": "600900",
+      "stock_name": "长江电力",
+      "record_date": null,
+      "ex_date": null,
+      "pay_date": null,
+      "cash_dividend_per_share": 0.79,
+      "status": "insufficientData",
+      "last_verified_at": "2026-08-20T08:00:00Z"
+    }
+  ]
+}
