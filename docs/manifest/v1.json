@@ -1,23 +1,23 @@
 {
   "changelog": {
-    "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/docs/changelog/v1/latest.json"
+    "url": "https://amg566.github.io/jixi-public-data/docs/changelog/v1/latest.json"
   },
   "channel": "stable",
   "coverage": {
-    "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/docs/coverage/v1/latest.json"
+    "url": "https://amg566.github.io/jixi-public-data/docs/coverage/v1/latest.json"
   },
   "dataset": {
-    "sha256": "56bc4c321e98783a30ea2b583366cefbf6d48e08582a1080427cc8389b5ff188",
-    "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/docs/datasets/v1/latest.json",
-    "versioned_url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/docs/datasets/v1/latest.json"
+    "sha256": "9987978ffe7b23c5b1f2d6e023ae1aebc52e4f55f482dfd52eff144e5c25b4fd",
+    "url": "https://amg566.github.io/jixi-public-data/docs/datasets/v1/latest.json",
+    "versioned_url": "https://amg566.github.io/jixi-public-data/docs/datasets/v1/20260821-031128.json"
   },
-  "generated_at": "2026-08-20T11:31:24Z",
-  "latest_version": "2026-08-20",
+  "generated_at": "2026-08-21T03:11:28Z",
+  "latest_version": "20260821-031128",
   "minimum_app_version": "1.0.0",
   "recommended_refresh_after_hours": 12,
   "schema_version": 1,
   "stocks": {
-    "sha256": "70f97f11fc51308e12dafbedf63ac3be6f558eeea8ee73d3691ad172b94f74b9",
-    "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/docs/stocks/v1/latest.json"
+    "sha256": "9c9c1d820e5aa87d384863d68a6ea55218fb967324e5cb102a2c7cd70d95326e",
+    "url": "https://amg566.github.io/jixi-public-data/docs/stocks/v1/latest.json"
   }
 }
