@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "asset_id": "CN:SSE:600036",
+      "asset_code": "600036",
+      "asset_name": "招商银行",
+      "short_name": "招商银行",
+      "asset_category": "stock",
+      "market": "CN",
+      "exchange": "SSE",
+      "trading_currency": "CNY",
+      "status": "listed",
+      "listing_date": null,
+      "search_aliases": [
+        "600036",
+        "招商银行"
+      ]
+    },
+    {
+      "asset_id": "CN:SSE:510720",
+      "asset_code": "510720",
+      "asset_name": "国泰上证国有企业红利ETF",
+      "short_name": "国企红利ETF",
+      "asset_category": "etf",
+      "market": "CN",
+      "exchange": "SSE",
+      "trading_currency": "CNY",
+      "status": "listed",
+      "listing_date": null,
+      "search_aliases": [
+        "510720",
+        "国企红利ETF",
+        "国泰上证国有企业红利ETF"
+      ]
+    }
+  ]
+}
