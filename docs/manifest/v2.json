@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "data_version": "2026.08.26.1",
+  "generated_at": "2026-08-26T13:00:00Z",
+  "minimum_app_version": "1.0.0",
+  "recommended_refresh_after_hours": 12,
+  "resources": [
+    {
+      "resource_id": "assets-all",
+      "kind": "assets",
+      "scope": {},
+      "mode": "snapshot",
+      "depends_on": [],
+      "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/assets/all.json",
+      "sha256": "9b90e25328a982e6f9629a57b07a2c7dc956a76ed6b9da591804cba1225ef5cb",
+      "record_count": 2,
+      "generated_at": "2026-08-26T13:00:00Z"
+    },
+    {
+      "resource_id": "events-2026",
+      "kind": "distribution_events",
+      "scope": {
+        "year": 2026
+      },
+      "mode": "snapshot",
+      "depends_on": [
+        "assets-all"
+      ],
+      "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2026.json",
+      "sha256": "6bc588b5ee1737d464a6f5fe2c7cf9ffe555a9c4993030d3f793c33c6074667f",
+      "record_count": 1,
+      "generated_at": "2026-08-26T13:00:00Z"
+    }
+  ]
+}
