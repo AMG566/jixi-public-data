@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "event_id": "CN:SSE:510720:fund_distribution:2026-01-19:demo-001",
+      "event_scope_year": 2026,
+      "asset_id": "CN:SSE:510720",
+      "asset_code": "510720",
+      "asset_name": "国泰上证国有企业红利ETF",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": "2026-01-15",
+      "record_date": "2026-01-18",
+      "ex_date": "2026-01-19",
+      "pay_date": "2026-01-22",
+      "cash_per_unit": "0.0360",
+      "distribution_currency": "CNY",
+      "status": "scheduled",
+      "source": "manual_seed",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-26T13:00:00Z",
+      "source_event_reference": "demo-001",
+      "supersedes_event_id": null
+    }
+  ]
+}
