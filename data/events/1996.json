@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "asset_id": "CN:SSE:600887",
+      "asset_code": "600887",
+      "asset_name": "伊利股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "1996-05-16",
+      "record_date": null,
+      "ex_date": null,
+      "pay_date": null,
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "600887-fa8a318fc13fff38",
+      "supersedes_event_id": null,
+      "event_scope_year": 1996,
+      "cash_per_unit": "0.2",
+      "status": "paid",
+      "event_id": "CN:SSE:600887:equity_dividend:1996:600887-fa8a318fc13fff38"
+    }
+  ]
+}

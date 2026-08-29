@@ -1,0 +1,86 @@
+{
+  "events": [
+    {
+      "asset_id": "CN:SSE:600887",
+      "asset_code": "600887",
+      "asset_name": "伊利股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "1999-07-08",
+      "record_date": "1999-07-15",
+      "ex_date": "1999-07-16",
+      "pay_date": "1999-07-20",
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "600887-ad1034ed7af84e03",
+      "supersedes_event_id": null,
+      "event_scope_year": 1999,
+      "cash_per_unit": "0.26",
+      "status": "paid",
+      "event_id": "CN:SSE:600887:equity_dividend:1999:600887-ad1034ed7af84e03"
+    },
+    {
+      "asset_id": "CN:SZSE:000858",
+      "asset_code": "000858",
+      "asset_name": "五 粮 液",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "1999-09-22",
+      "record_date": "1999-09-27",
+      "ex_date": "1999-09-28",
+      "pay_date": null,
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "cash_per_unit_missing",
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "000858-ea2ed438335d04c3",
+      "supersedes_event_id": null,
+      "event_scope_year": 1999,
+      "cash_per_unit": null,
+      "status": "paid",
+      "event_id": "CN:SZSE:000858:equity_dividend:1999:000858-ea2ed438335d04c3"
+    },
+    {
+      "asset_id": "CN:SZSE:000858",
+      "asset_code": "000858",
+      "asset_name": "五 粮 液",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "1999-05-29",
+      "record_date": "1999-06-07",
+      "ex_date": "1999-06-08",
+      "pay_date": "1999-06-14",
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "000858-dbac263c92de36eb",
+      "supersedes_event_id": null,
+      "event_scope_year": 1999,
+      "cash_per_unit": "1.25",
+      "status": "paid",
+      "event_id": "CN:SZSE:000858:equity_dividend:1999:000858-dbac263c92de36eb"
+    }
+  ]
+}

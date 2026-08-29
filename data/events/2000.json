@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "asset_id": "CN:SSE:600887",
+      "asset_code": "600887",
+      "asset_name": "伊利股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2000-06-23",
+      "record_date": "2000-06-27",
+      "ex_date": "2000-06-28",
+      "pay_date": "2000-06-28",
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "600887-8dcd87475d457f15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2000,
+      "cash_per_unit": "0.28",
+      "status": "paid",
+      "event_id": "CN:SSE:600887:equity_dividend:2000:600887-8dcd87475d457f15"
+    }
+  ]
+}

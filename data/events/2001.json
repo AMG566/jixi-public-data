@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "asset_id": "CN:SSE:600887",
+      "asset_code": "600887",
+      "asset_name": "伊利股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2001-06-02",
+      "record_date": "2001-06-08",
+      "ex_date": "2001-06-11",
+      "pay_date": "2001-06-18",
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "600887-3a06c70b9e2b6fd8",
+      "supersedes_event_id": null,
+      "event_scope_year": 2001,
+      "cash_per_unit": "0.35",
+      "status": "paid",
+      "event_id": "CN:SSE:600887:equity_dividend:2001:600887-3a06c70b9e2b6fd8"
+    },
+    {
+      "asset_id": "CN:SZSE:000858",
+      "asset_code": "000858",
+      "asset_name": "五 粮 液",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2001-08-28",
+      "record_date": "2001-09-03",
+      "ex_date": "2001-09-04",
+      "pay_date": null,
+      "distribution_currency": "CNY",
+      "source": "akshare_cninfo_v1_import",
+      "source_urls": [],
+      "quality_flags": [
+        "source_url_missing",
+        "manual_review_required"
+      ],
+      "revision": 1,
+      "revision_status": "original",
+      "updated_at": "2026-08-27T03:27:27Z",
+      "source_event_reference": "000858-f8cbbe3eb8d44f86",
+      "supersedes_event_id": null,
+      "event_scope_year": 2001,
+      "cash_per_unit": "0.1",
+      "status": "paid",
+      "event_id": "CN:SZSE:000858:equity_dividend:2001:000858-f8cbbe3eb8d44f86"
+    }
+  ]
+}
