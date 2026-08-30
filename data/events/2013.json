@@ -12,15 +12,17 @@
       "pay_date": "2013-07-12",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-06/62563218.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601988-c8e5b4e74b5a4d10",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62563218",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.175",
@@ -39,15 +41,17 @@
       "pay_date": "2013-07-12",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-17/62587296.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601939-d9ac369b9528537c",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62587296",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.268",
@@ -66,15 +70,17 @@
       "pay_date": "2013-07-19",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-19/62593909.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601398-fac8233d4f4ae6d6",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62593909",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.239",
@@ -93,15 +99,17 @@
       "pay_date": "2013-07-22",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-20/62596990.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601288-bcf646ddcc1d5e4b",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62596990",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.1565",
@@ -122,12 +130,12 @@
       "source": "akshare_cninfo_v1_import",
       "source_urls": [],
       "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_announcement_not_found"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "601088-fab9eba3742f286f",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
@@ -147,15 +155,17 @@
       "pay_date": "2013-07-04",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-25/62609832.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600900-76250ce21d86de99",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62609832",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.33157",
@@ -174,15 +184,17 @@
       "pay_date": "2013-06-06",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-05-27/62526251.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600887-f2455266918647af",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62526251",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.28",
@@ -201,15 +213,17 @@
       "pay_date": "2013-06-17",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-03/62549147.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600519-7ec51d8fbdd01193",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62549147",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "6.419",
@@ -228,15 +242,17 @@
       "pay_date": "2013-07-05",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-25/62609802.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600050-613cc6436f6825f5",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62609802",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.0399",
@@ -255,15 +271,17 @@
       "pay_date": "2013-06-19",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-04/62553776.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600036-d16f8945b71d7cd6",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62553776",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.63",
@@ -282,15 +300,17 @@
       "pay_date": "2013-09-17",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-09-06/63053456.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-f0161964d853233b",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:63053456",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.09",
@@ -309,15 +329,17 @@
       "pay_date": "2013-06-25",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-13/62575020.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-7499dcc1ff37be46",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62575020",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.2",
@@ -336,15 +358,17 @@
       "pay_date": "2013-06-07",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2013-06-01/62542384.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "000858-588e47b131a18074",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:62542384",
       "supersedes_event_id": null,
       "event_scope_year": 2013,
       "cash_per_unit": "0.8",

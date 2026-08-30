@@ -12,15 +12,17 @@
       "pay_date": "2008-07-08",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-06-23/40695149.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601988-f153ca0b186539bc",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:40695149",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.1",
@@ -39,15 +41,17 @@
       "pay_date": "2008-11-25",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-11-11/46204660.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601939-c6702e495bdf7b96",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:46204660",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.1105",
@@ -66,15 +70,17 @@
       "pay_date": "2008-07-08",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-06-18/40585863.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601939-32b89e41ae77c760",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:40585863",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.065",
@@ -93,15 +99,17 @@
       "pay_date": "2008-06-26",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-06-11/40404147.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601398-ee4b23fbe826face",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:40404147",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.133",
@@ -122,12 +130,12 @@
       "source": "akshare_cninfo_v1_import",
       "source_urls": [],
       "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_announcement_not_found"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "601088-871f176c07846088",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
@@ -147,15 +155,17 @@
       "pay_date": "2008-07-28",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-07-16/41303072.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600900-0dd37f101313d5c8",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:41303072",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.29682",
@@ -177,12 +187,12 @@
       "source_urls": [],
       "quality_flags": [
         "cash_per_unit_missing",
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_record_incomplete"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "600887-1e99d5f25ee8a3a7",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
@@ -202,15 +212,17 @@
       "pay_date": "2008-06-20",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-06-10/40365142.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600519-a30f522509204230",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:40365142",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.836",
@@ -229,15 +241,17 @@
       "pay_date": "2008-07-04",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-06-24/40741886.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600050-f86b7ff3ab337c0f",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:40741886",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.0672",
@@ -256,15 +270,17 @@
       "pay_date": "2008-08-01",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-07-22/41452906.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600036-dffe72662babba5c",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:41452906",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.28",
@@ -283,15 +299,17 @@
       "pay_date": "2008-09-26",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-09-16/43389257.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-da3367494cd034ca",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:43389257",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.03",
@@ -310,15 +328,17 @@
       "pay_date": "2008-06-30",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2008-06-10/40365114.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-c10d1a2396f9add6",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:40365114",
       "supersedes_event_id": null,
       "event_scope_year": 2008,
       "cash_per_unit": "0.115",

@@ -12,15 +12,17 @@
       "pay_date": "2024-07-17",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-10/1220589099.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601988-f701c0025df46968",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220589099",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.2364",
@@ -39,15 +41,17 @@
       "pay_date": "2024-07-12",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-06/1220540452.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601939-7f9e729cf247df96",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220540452",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.4",
@@ -66,15 +70,17 @@
       "pay_date": "2024-09-11",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-09-04/1221123100.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601728-fa571586aef3a3ba",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1221123100",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.1671",
@@ -93,15 +99,17 @@
       "pay_date": "2024-06-13",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-06-06/1220271468.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601728-ea6eccee8b430a3c",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220271468",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.09",
@@ -120,15 +128,17 @@
       "pay_date": "2024-07-16",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-09/1220559950.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601398-3b16216d44c34a15",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220559950",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.3064",
@@ -147,15 +157,17 @@
       "pay_date": "2024-06-07",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-05-30/1220196916.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601288-9ef2d87f6a96ea2a",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220196916",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.2309",
@@ -174,15 +186,17 @@
       "pay_date": "2024-10-23",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-10-15/1221382700.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601225-75fae601ab32a5b6",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1221382700",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.109",
@@ -201,15 +215,17 @@
       "pay_date": "2024-06-28",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-06-22/1220425631.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "601225-704062613b145279",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220425631",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "1.315",
@@ -230,12 +246,12 @@
       "source": "akshare_cninfo_v1_import",
       "source_urls": [],
       "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_announcement_not_found"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "601088-84c6a97a3acd442b",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
@@ -257,12 +273,12 @@
       "source": "akshare_cninfo_v1_import",
       "source_urls": [],
       "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_announcement_not_found"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "600941-30ec87558b99a58f",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
@@ -284,12 +300,12 @@
       "source": "akshare_cninfo_v1_import",
       "source_urls": [],
       "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_announcement_not_found"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "600941-5b1ab6c4cf807cd3",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
@@ -309,15 +325,17 @@
       "pay_date": "2024-07-19",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-11/1220602045.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600900-c93baa77972e0d78",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220602045",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.82",
@@ -336,15 +354,17 @@
       "pay_date": "2024-06-05",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-05-29/1220185740.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600887-116e4a18585b11a9",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220185740",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "1.2",
@@ -363,15 +383,17 @@
       "pay_date": "2024-12-20",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-12-14/1222015210.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600519-20fb16289ec197c7",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1222015210",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "23.882",
@@ -390,15 +412,17 @@
       "pay_date": "2024-06-19",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-06-12/1220324741.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600519-f7a6b665ae45bf2a",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220324741",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "30.876",
@@ -417,15 +441,17 @@
       "pay_date": "2024-10-30",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-10-23/1221474679.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600050-8b39404a79e0dfb0",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1221474679",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0959",
@@ -444,15 +470,17 @@
       "pay_date": "2024-07-19",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-12/1220615873.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600050-71394600bff27a0f",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220615873",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0524",
@@ -471,15 +499,17 @@
       "pay_date": "2024-07-11",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-04/1220527141.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600036-541fd49f49dc8d08",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220527141",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "1.972",
@@ -498,15 +528,17 @@
       "pay_date": "2024-09-13",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-09-05/1221137865.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-fc8756c8575538f6",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1221137865",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.146",
@@ -525,15 +557,17 @@
       "pay_date": "2024-07-16",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-09/1220559791.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-e4659ba1a7849567",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220559791",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.2",
@@ -552,15 +586,17 @@
       "pay_date": "2024-06-19",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-06-12/1220324441.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600025-5b05c5b5c37d60f4",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220324441",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.18",
@@ -579,15 +615,17 @@
       "pay_date": "2024-07-12",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2024-07-06/1220541984.PDF"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "000858-3dd47cbf3589ceb8",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "cninfo:1220541984",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "4.67",
@@ -606,16 +644,17 @@
       "pay_date": "2024-09-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159307.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159307:2024-09-19",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159307:2024-09-18:2024-09-19:2024-09-23:per_unit-0.014",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.014",
@@ -634,16 +673,17 @@
       "pay_date": "2024-12-20",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159307.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159307:2024-12-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159307:2024-12-17:2024-12-18:2024-12-20:per_unit-0.012",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.012",
@@ -662,16 +702,17 @@
       "pay_date": "2024-09-20",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159331.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159331:2024-09-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159331:2024-09-13:2024-09-18:2024-09-20:per_unit-0.001",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.001",
@@ -690,16 +731,17 @@
       "pay_date": "2024-10-08",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159331.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159331:2024-09-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159331:2024-09-26:2024-09-27:2024-10-08:per_unit-0.0019",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0019",
@@ -718,16 +760,17 @@
       "pay_date": "2024-11-08",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159331.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159331:2024-11-06",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159331:2024-11-05:2024-11-06:2024-11-08:per_unit-0.0022",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0022",
@@ -746,16 +789,17 @@
       "pay_date": "2024-12-06",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159331.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159331:2024-12-04",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159331:2024-12-03:2024-12-04:2024-12-06:per_unit-0.0021",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0021",
@@ -774,16 +818,17 @@
       "pay_date": "2024-12-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159362.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159362:2024-12-16",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159362:2024-12-13:2024-12-16:2024-12-18:per_unit-0.0066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0066",
@@ -802,16 +847,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159545.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159545:2024-08-14",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159545:2024-08-13:2024-08-14:2024-08-16:per_unit-0.016",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.016",
@@ -830,16 +876,17 @@
       "pay_date": "2024-11-15",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159545.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159545:2024-11-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159545:2024-11-12:2024-11-13:2024-11-15:per_unit-0.018",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.018",
@@ -858,16 +905,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159576.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159576:2024-08-14",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159576:2024-08-13:2024-08-14:2024-08-16:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -886,16 +934,17 @@
       "pay_date": "2024-11-15",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159576.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159576:2024-11-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159576:2024-11-12:2024-11-13:2024-11-15:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -914,16 +963,17 @@
       "pay_date": "2024-06-04",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-05-31",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-05-30:2024-05-31:2024-06-04:per_unit-0.003",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.003",
@@ -942,16 +992,17 @@
       "pay_date": "2024-06-28",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-06-26",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-06-25:2024-06-26:2024-06-28:per_unit-0.003",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.003",
@@ -970,16 +1021,17 @@
       "pay_date": "2024-07-19",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-07-17",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-07-16:2024-07-17:2024-07-19:per_unit-0.003",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.003",
@@ -998,16 +1050,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-08-14",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-08-13:2024-08-14:2024-08-16:per_unit-0.003",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.003",
@@ -1026,16 +1079,17 @@
       "pay_date": "2024-09-13",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-09-11",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-09-10:2024-09-11:2024-09-13:per_unit-0.003",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.003",
@@ -1054,16 +1108,17 @@
       "pay_date": "2024-10-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-10-16",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-10-15:2024-10-16:2024-10-18:per_unit-0.0035",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0035",
@@ -1082,16 +1137,17 @@
       "pay_date": "2024-11-15",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-11-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-11-12:2024-11-13:2024-11-15:per_unit-0.0055",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0055",
@@ -1110,16 +1166,17 @@
       "pay_date": "2024-12-13",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159581:2024-12-11",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159581:2024-12-10:2024-12-11:2024-12-13:per_unit-0.006",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.006",
@@ -1138,16 +1195,17 @@
       "pay_date": "2024-07-17",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159589:2024-07-15",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159589:2024-07-12:2024-07-15:2024-07-17:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -1166,16 +1224,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159589:2024-08-14",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159589:2024-08-13:2024-08-14:2024-08-16:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -1194,16 +1253,17 @@
       "pay_date": "2024-09-13",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159589:2024-09-11",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159589:2024-09-10:2024-09-11:2024-09-13:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -1222,16 +1282,17 @@
       "pay_date": "2024-10-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159589:2024-10-21",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159589:2024-10-18:2024-10-21:2024-10-23:per_unit-0.0022",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0022",
@@ -1250,16 +1311,17 @@
       "pay_date": "2024-11-15",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159589:2024-11-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159589:2024-11-12:2024-11-13:2024-11-15:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -1278,16 +1340,17 @@
       "pay_date": "2024-12-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159589:2024-12-16",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159589:2024-12-13:2024-12-16:2024-12-18:per_unit-0.002",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.002",
@@ -1306,16 +1369,17 @@
       "pay_date": "2024-10-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159596.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159596:2024-10-21",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159596:2024-10-18:2024-10-21:2024-10-23:per_unit-0.0202",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0202",
@@ -1334,16 +1398,17 @@
       "pay_date": "2024-09-19",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159602.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159602:2024-09-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159602:2024-09-13:2024-09-18:2024-09-19:per_unit-0.016",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.016",
@@ -1362,16 +1427,17 @@
       "pay_date": "2024-04-29",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159691.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159691:2024-04-25",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159691:2024-04-24:2024-04-25:2024-04-29:per_unit-0.0103",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0103",
@@ -1390,16 +1456,17 @@
       "pay_date": "2024-10-08",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159905.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159905:2024-09-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159905:2024-09-26:2024-09-27:2024-10-08:per_unit-0.074",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.074",
@@ -1418,16 +1485,17 @@
       "pay_date": "2024-11-01",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159905.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159905:2024-10-30",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159905:2024-10-29:2024-10-30:2024-11-01:per_unit-0.085",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.085",
@@ -1446,16 +1514,17 @@
       "pay_date": "2024-12-03",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159905.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159905:2024-11-29",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159905:2024-11-28:2024-11-29:2024-12-03:per_unit-0.078",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.078",
@@ -1474,16 +1543,17 @@
       "pay_date": "2024-12-25",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159905.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159905:2024-12-23",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159905:2024-12-20:2024-12-23:2024-12-25:per_unit-0.069",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.069",
@@ -1502,16 +1572,17 @@
       "pay_date": "2024-09-19",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159919.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159919:2024-09-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159919:2024-09-13:2024-09-18:2024-09-19:per_unit-0.0453",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0453",
@@ -1530,16 +1601,17 @@
       "pay_date": "2024-12-03",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159922.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159922:2024-12-02",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159922:2024-11-29:2024-12-02:2024-12-03:per_unit-0.1292",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.1292",
@@ -1558,16 +1630,17 @@
       "pay_date": "2024-08-14",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159925.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159925:2024-08-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159925:2024-08-12:2024-08-13:2024-08-14:per_unit-0.074",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.074",
@@ -1586,16 +1659,17 @@
       "pay_date": "2024-06-26",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159960.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:159960:2024-06-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:159960:2024-06-21:2024-06-24:2024-06-26:per_unit-0.0715",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0715",
@@ -1614,16 +1688,17 @@
       "pay_date": "2024-12-05",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510050.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510050:2024-12-02",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510050:2024-11-29:2024-12-02:2024-12-05:per_unit-0.055",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.055",
@@ -1642,16 +1717,17 @@
       "pay_date": "2024-11-12",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510100.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510100:2024-11-07",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510100:2024-11-06:2024-11-07:2024-11-12:per_unit-0.035",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.035",
@@ -1670,16 +1746,17 @@
       "pay_date": "2024-11-20",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510180.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510180:2024-11-15",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510180:2024-11-14:2024-11-15:2024-11-20:per_unit-0.15",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.15",
@@ -1698,16 +1775,17 @@
       "pay_date": "2024-01-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510300.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510300:2024-01-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510300:2024-01-17:2024-01-18:2024-01-23:per_unit-0.069",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.069",
@@ -1726,16 +1804,17 @@
       "pay_date": "2024-10-22",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510310.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510310:2024-10-21",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510310:2024-10-18:2024-10-21:2024-10-22:per_unit-0.0804",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0804",
@@ -1754,16 +1833,17 @@
       "pay_date": "2024-06-25",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510350.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510350:2024-06-20",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510350:2024-06-19:2024-06-20:2024-06-25:per_unit-0.1901",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.1901",
@@ -1782,16 +1862,17 @@
       "pay_date": "2024-10-09",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510350.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510350:2024-09-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510350:2024-09-26:2024-09-27:2024-10-09:per_unit-0.1455",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.1455",
@@ -1810,16 +1891,17 @@
       "pay_date": "2024-05-22",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510500.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510500:2024-05-17",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510500:2024-05-16:2024-05-17:2024-05-22:per_unit-0.087",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.087",
@@ -1838,16 +1920,17 @@
       "pay_date": "2024-06-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510590.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510590:2024-06-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510590:2024-06-21:2024-06-24:2024-06-27:per_unit-0.11",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.11",
@@ -1866,16 +1949,17 @@
       "pay_date": "2024-05-31",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-05-28",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-05-27:2024-05-28:2024-05-31:per_unit-0.0031",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0031",
@@ -1894,16 +1978,17 @@
       "pay_date": "2024-06-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-06-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-06-12:2024-06-13:2024-06-18:per_unit-0.0041",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0041",
@@ -1922,16 +2007,17 @@
       "pay_date": "2024-07-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-07-15",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-07-12:2024-07-15:2024-07-18:per_unit-0.0041",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0041",
@@ -1950,16 +2036,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-08-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-08-12:2024-08-13:2024-08-16:per_unit-0.0039",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0039",
@@ -1978,16 +2065,17 @@
       "pay_date": "2024-09-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-09-11",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-09-10:2024-09-11:2024-09-18:per_unit-0.0038",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0038",
@@ -2006,16 +2094,17 @@
       "pay_date": "2024-10-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-10-15",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-10-14:2024-10-15:2024-10-18:per_unit-0.004",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.004",
@@ -2034,16 +2123,17 @@
       "pay_date": "2024-11-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-11-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-11-12:2024-11-13:2024-11-18:per_unit-0.0039",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0039",
@@ -2062,16 +2152,17 @@
       "pay_date": "2024-12-18",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510720:2024-12-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:13:01Z",
+      "source_event_reference": "eastmoney:510720:2024-12-12:2024-12-13:2024-12-18:per_unit-0.0039",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0039",
@@ -2090,16 +2181,17 @@
       "pay_date": "2024-05-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510760.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510760:2024-05-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510760:2024-05-24:2024-05-27:2024-05-30:per_unit-0.046",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.046",
@@ -2118,16 +2210,17 @@
       "pay_date": "2024-08-19",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510760.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510760:2024-08-14",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510760:2024-08-13:2024-08-14:2024-08-19:per_unit-0.046",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.046",
@@ -2146,16 +2239,17 @@
       "pay_date": "2024-12-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510760.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510760:2024-12-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510760:2024-12-23:2024-12-24:2024-12-27:per_unit-0.05",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.05",
@@ -2174,16 +2268,17 @@
       "pay_date": "2024-11-25",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510810.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510810:2024-11-20",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510810:2024-11-19:2024-11-20:2024-11-25:per_unit-0.03",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.03",
@@ -2202,16 +2297,17 @@
       "pay_date": "2024-01-26",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510880.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:510880:2024-01-23",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:510880:2024-01-22:2024-01-23:2024-01-26:per_unit-0.131",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.131",
@@ -2230,16 +2326,17 @@
       "pay_date": "2024-06-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512390.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512390:2024-06-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512390:2024-06-21:2024-06-24:2024-06-27:per_unit-0.1818",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.1818",
@@ -2258,16 +2355,17 @@
       "pay_date": "2024-09-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512400.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512400:2024-09-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512400:2024-09-13:2024-09-18:2024-09-23:per_unit-0.01",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.01",
@@ -2286,16 +2384,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512700.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512700:2024-08-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512700:2024-08-12:2024-08-13:2024-08-16:per_unit-0.067",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.067",
@@ -2314,16 +2413,17 @@
       "pay_date": "2024-10-24",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512820:2024-10-21",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512820:2024-10-18:2024-10-21:2024-10-24:per_unit-0.066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.066",
@@ -2342,16 +2442,17 @@
       "pay_date": "2024-11-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512820:2024-11-22",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512820:2024-11-21:2024-11-22:2024-11-27:per_unit-0.066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.066",
@@ -2370,16 +2471,17 @@
       "pay_date": "2024-12-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512820:2024-12-25",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512820:2024-12-24:2024-12-25:2024-12-30:per_unit-0.064",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.064",
@@ -2398,16 +2500,17 @@
       "pay_date": "2024-06-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512930.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:512930:2024-06-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:512930:2024-06-21:2024-06-24:2024-06-27:per_unit-0.054",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.054",
@@ -2426,16 +2529,17 @@
       "pay_date": "2024-09-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513600.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513600:2024-09-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513600:2024-09-13:2024-09-18:2024-09-23:per_unit-0.021",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.021",
@@ -2454,16 +2558,17 @@
       "pay_date": "2024-10-24",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513600.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513600:2024-10-21",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513600:2024-10-18:2024-10-21:2024-10-24:per_unit-0.024",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.024",
@@ -2482,16 +2587,17 @@
       "pay_date": "2024-12-20",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513690.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513690:2024-12-17",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513690:2024-12-16:2024-12-17:2024-12-20:per_unit-0.0085",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0085",
@@ -2510,16 +2616,17 @@
       "pay_date": "2024-07-29",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513820:2024-07-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513820:2024-07-23:2024-07-24:2024-07-29:per_unit-0.005",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.005",
@@ -2538,16 +2645,17 @@
       "pay_date": "2024-08-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513820:2024-08-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513820:2024-08-26:2024-08-27:2024-08-30:per_unit-0.004",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.004",
@@ -2566,16 +2674,17 @@
       "pay_date": "2024-09-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513820:2024-09-25",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513820:2024-09-24:2024-09-25:2024-09-30:per_unit-0.004",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.004",
@@ -2594,16 +2703,17 @@
       "pay_date": "2024-10-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513820:2024-10-25",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513820:2024-10-24:2024-10-25:2024-10-30:per_unit-0.004",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.004",
@@ -2622,16 +2732,17 @@
       "pay_date": "2024-11-29",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513820:2024-11-26",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513820:2024-11-25:2024-11-26:2024-11-29:per_unit-0.004",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.004",
@@ -2650,16 +2761,17 @@
       "pay_date": "2024-12-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:513820:2024-12-25",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:513820:2024-12-24:2024-12-25:2024-12-30:per_unit-0.004",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.004",
@@ -2678,16 +2790,17 @@
       "pay_date": "2024-04-02",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515080.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515080:2024-03-28",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515080:2024-03-27:2024-03-28:2024-04-02:per_unit-0.015",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.015",
@@ -2706,16 +2819,17 @@
       "pay_date": "2024-07-04",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515080.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515080:2024-07-01",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515080:2024-06-28:2024-07-01:2024-07-04:per_unit-0.02",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.02",
@@ -2734,16 +2848,17 @@
       "pay_date": "2024-09-25",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515080.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515080:2024-09-20",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515080:2024-09-19:2024-09-20:2024-09-25:per_unit-0.015",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.015",
@@ -2762,16 +2877,17 @@
       "pay_date": "2024-12-05",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515080.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515080:2024-12-02",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515080:2024-11-29:2024-12-02:2024-12-05:per_unit-0.02",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.02",
@@ -2790,16 +2906,17 @@
       "pay_date": "2024-10-23",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515180.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515180:2024-10-18",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515180:2024-10-17:2024-10-18:2024-10-23:per_unit-0.063",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.063",
@@ -2818,16 +2935,17 @@
       "pay_date": "2024-12-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515210.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515210:2024-12-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515210:2024-12-23:2024-12-24:2024-12-27:per_unit-0.06",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.06",
@@ -2846,16 +2964,17 @@
       "pay_date": "2024-12-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515220.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515220:2024-12-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515220:2024-12-23:2024-12-24:2024-12-27:per_unit-0.045",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.045",
@@ -2874,16 +2993,17 @@
       "pay_date": "2024-06-26",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515300.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515300:2024-06-21",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515300:2024-06-20:2024-06-21:2024-06-26:per_unit-0.0714",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0714",
@@ -2902,16 +3022,17 @@
       "pay_date": "2024-09-25",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515300.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515300:2024-09-20",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515300:2024-09-19:2024-09-20:2024-09-25:per_unit-0.0654",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0654",
@@ -2930,16 +3051,17 @@
       "pay_date": "2024-12-06",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515300.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515300:2024-12-03",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515300:2024-12-02:2024-12-03:2024-12-06:per_unit-0.0634",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0634",
@@ -2958,16 +3080,17 @@
       "pay_date": "2024-07-25",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515450.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515450:2024-07-22",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515450:2024-07-19:2024-07-22:2024-07-25:per_unit-0.05",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.05",
@@ -2986,16 +3109,17 @@
       "pay_date": "2024-12-20",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515450.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515450:2024-12-17",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515450:2024-12-16:2024-12-17:2024-12-20:per_unit-0.055",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.055",
@@ -3014,16 +3138,17 @@
       "pay_date": "2024-09-24",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515890.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:515890:2024-09-19",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:515890:2024-09-18:2024-09-19:2024-09-24:per_unit-0.05",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.05",
@@ -3042,16 +3167,17 @@
       "pay_date": "2024-08-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_517180.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:517180:2024-08-13",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:517180:2024-08-12:2024-08-13:2024-08-16:per_unit-0.076",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.076",
@@ -3070,16 +3196,17 @@
       "pay_date": "2024-12-19",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_520900.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:520900:2024-12-16",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:520900:2024-12-13:2024-12-16:2024-12-19:per_unit-0.0086",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0086",
@@ -3098,16 +3225,17 @@
       "pay_date": "2024-11-15",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560020.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:560020:2024-11-12",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:560020:2024-11-11:2024-11-12:2024-11-15:per_unit-0.037",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.037",
@@ -3126,16 +3254,17 @@
       "pay_date": "2024-11-15",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560070.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:560070:2024-11-12",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:560070:2024-11-11:2024-11-12:2024-11-15:per_unit-0.034",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.034",
@@ -3154,16 +3283,17 @@
       "pay_date": "2024-07-11",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560350.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:560350:2024-07-08",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:560350:2024-07-05:2024-07-08:2024-07-11:per_unit-0.0094",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0094",
@@ -3182,16 +3312,17 @@
       "pay_date": "2024-10-21",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560350.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:560350:2024-10-16",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:560350:2024-10-15:2024-10-16:2024-10-21:per_unit-0.0117",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0117",
@@ -3210,16 +3341,17 @@
       "pay_date": "2024-12-30",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560700.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:560700:2024-12-25",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:560700:2024-12-24:2024-12-25:2024-12-30:per_unit-0.0395",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0395",
@@ -3238,16 +3370,17 @@
       "pay_date": "2024-04-01",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561230.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:561230:2024-03-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:561230:2024-03-26:2024-03-27:2024-04-01:per_unit-0.0066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0066",
@@ -3266,16 +3399,17 @@
       "pay_date": "2024-06-27",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561230.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:561230:2024-06-24",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:561230:2024-06-21:2024-06-24:2024-06-27:per_unit-0.0066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0066",
@@ -3294,16 +3428,17 @@
       "pay_date": "2024-10-09",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561230.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:561230:2024-09-27",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:561230:2024-09-26:2024-09-27:2024-10-09:per_unit-0.0066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0066",
@@ -3322,16 +3457,17 @@
       "pay_date": "2024-12-26",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561230.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:561230:2024-12-23",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:561230:2024-12-20:2024-12-23:2024-12-26:per_unit-0.0066",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.0066",
@@ -3350,16 +3486,17 @@
       "pay_date": "2024-12-05",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561960.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:561960:2024-12-02",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:561960:2024-11-29:2024-12-02:2024-12-05:per_unit-0.012",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.012",
@@ -3378,16 +3515,17 @@
       "pay_date": "2024-10-31",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_562060.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:562060:2024-10-28",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:562060:2024-10-25:2024-10-28:2024-10-31:per_unit-0.046",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.046",
@@ -3406,16 +3544,17 @@
       "pay_date": "2024-06-20",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_563020.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:563020:2024-06-17",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:563020:2024-06-14:2024-06-17:2024-06-20:per_unit-0.012",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.012",
@@ -3434,16 +3573,17 @@
       "pay_date": "2024-09-19",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_563020.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:563020:2024-09-12",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:563020:2024-09-11:2024-09-12:2024-09-19:per_unit-0.016",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.016",
@@ -3462,16 +3602,17 @@
       "pay_date": "2024-12-16",
       "distribution_currency": "CNY",
       "source": "eastmoney_fund_distribution_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "source_reference_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_563020.html"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-29T12:16:52Z",
-      "source_event_reference": "eastmoney:563020:2024-12-11",
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 2,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:03:01Z",
+      "source_event_reference": "eastmoney:563020:2024-12-10:2024-12-11:2024-12-16:per_unit-0.014",
       "supersedes_event_id": null,
       "event_scope_year": 2024,
       "cash_per_unit": "0.014",

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "data_version": "2026.08.29.1",
-  "generated_at": "2026-08-29T12:16:52Z",
+  "data_version": "2026.08.30.1",
+  "generated_at": "2026-08-30T14:15:41Z",
   "minimum_app_version": "1.0.0",
   "recommended_refresh_after_hours": 12,
   "resources": [
@@ -27,9 +27,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/1996.json",
-      "sha256": "f91a9f291c94ecd8cf3c30e840984fafb6d610c210c974c8d918983e6de38fcc",
+      "sha256": "b35b318dc910d3f60dbf3abbdb2e37065c6d39d365079aa14476059acfddff6c",
       "record_count": 1,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-1997",
@@ -42,9 +42,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/1997.json",
-      "sha256": "c3679d4056a493ad0a4cca2c33c777be8cf7817e681d4780f7e936d61f909c15",
+      "sha256": "e3561ea464b15bcdec89a94ac221cca8452290044283b5e9ea80f47d047ebff4",
       "record_count": 2,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-1998",
@@ -57,9 +57,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/1998.json",
-      "sha256": "b5d01e610a52509f10d78ec40dc5013720d9aa95178c31cb5454fb2965297aba",
+      "sha256": "a6d1d8ef8d5e5892a1a8bb9f62a4c3f687c614f749ccb5b10eb277339bb80e62",
       "record_count": 1,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-1999",
@@ -72,9 +72,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/1999.json",
-      "sha256": "e6a777c301699c78c2419473d4c38b0f5a6242c1ccf50e49bb1f6fef39842df6",
+      "sha256": "94d57b251283e89f0f07cee9f5b580643793a3cc69bb3a7fc7f8847d72b8a671",
       "record_count": 3,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2000",
@@ -87,9 +87,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2000.json",
-      "sha256": "95140aab5d98306b7f36c64e291e0636cf81139f218a3018cf9e0053c8fb0f3b",
+      "sha256": "1694734d4fb5b0f034c80d25769b9f3cc8677971e466de76117f69b10b149521",
       "record_count": 1,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2001",
@@ -102,9 +102,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2001.json",
-      "sha256": "502eb2b9e16d87ca8f849dda5db1c2de813725441a7fd87c6184c109d673d7e5",
+      "sha256": "7e94d736b230e6feaf165683377a9d2e937c2658ec8585f93fd45eee0fa22d04",
       "record_count": 2,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2002",
@@ -117,9 +117,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2002.json",
-      "sha256": "c5ca0c4b778dc1d6fd3f2312289ce0ea6d4b065c63a85d38315843ffdb3ed7fa",
+      "sha256": "1a15930a14615a91a13e79bf408ab2bb3675c83d821ab3588a96661881feecda",
       "record_count": 5,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2003",
@@ -132,9 +132,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2003.json",
-      "sha256": "d3976b314ed37b2780e11cb45235d5faf143e310c2c34caa9deda00a0d0f73ff",
+      "sha256": "4ebeea0ed19b84535f53ae24962cb21122e07e8ee0d32b0827d4a33f9789b3fd",
       "record_count": 7,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2004",
@@ -147,9 +147,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2004.json",
-      "sha256": "017bffdbb660e6b00871846b624381738448d948e2a3203df5d0cdd1243e41d9",
+      "sha256": "00df8d228e073be924ab1ab154bb7144d08748e25ca0291e2622de312c6b7bda",
       "record_count": 8,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2005",
@@ -162,9 +162,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2005.json",
-      "sha256": "9d23c73ce0322e14d8a818bf5d7fcd69d0ffb77dd0e5fecfe25cc31229f747ea",
+      "sha256": "3477d55ebfd74b80358cb7d8211414f4698ad81b0a48beeab4f5744bcbfd2c50",
       "record_count": 8,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2006",
@@ -177,9 +177,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2006.json",
-      "sha256": "d43ece299437bd969e2e43126ff51a1012d0f5857d678c27d504233dcaad331a",
+      "sha256": "0c63ff688d27953bc50ac2af60a72e682b2d3932d7e9fcce7db33de51f7df439",
       "record_count": 12,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2007",
@@ -192,9 +192,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2007.json",
-      "sha256": "03af4001c85983ddd03747b89cc65ff1a68a14599d91b2ddb5c0c89c6ddf285d",
+      "sha256": "d5027b4e3aaabb20c211500bbda5fab4062228eee8ddc371b62e97b79a431474",
       "record_count": 10,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2008",
@@ -207,9 +207,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2008.json",
-      "sha256": "baef3819d5a17602399b7839b08ef594c1e64b8ac8d7d0507405af550db4bc22",
+      "sha256": "29352fbe92869e86d6aaadf44d63985b66e9c145b7335c13cdbda3f1c072be6d",
       "record_count": 12,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2009",
@@ -222,9 +222,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2009.json",
-      "sha256": "39aae68c51fc509dce9cb616be06a9e2e5afd5ce0d1dddbd949e7375901db483",
+      "sha256": "59a56381e74cdc45c860e7a5f9dda8ddd94554d446fd57620d5fc7e1f24d2f12",
       "record_count": 11,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2010",
@@ -237,9 +237,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2010.json",
-      "sha256": "d806e9c200cd9acacb2867a6161f4f4dab4294e14d988c939224a67a7bf425c2",
+      "sha256": "ceba8133c3131fd699375533860c825138247c2b69a123b903ceead4b471f901",
       "record_count": 12,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2011",
@@ -252,9 +252,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2011.json",
-      "sha256": "0a185c8f683ed7660c998bdd5f117970b43a1563b62680a537b07d0465b02d48",
+      "sha256": "771dfebd9e85bc1ffbb0c6c26bec718b98475773b02d8c0096461dc9ddcc1565",
       "record_count": 13,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2012",
@@ -267,9 +267,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2012.json",
-      "sha256": "1b931fc953af8cc4446f04dd3cbb872aafddedef618a950994b8ad209178791b",
+      "sha256": "a8ce2f721d30bec2844fe91fdc68cd95f48073d6f0d622acfeea741e63e73101",
       "record_count": 13,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2013",
@@ -282,9 +282,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2013.json",
-      "sha256": "39f8f889a17e8af838d17f3925b6399b1320e0920f6bd246c9a45a7958825666",
+      "sha256": "c84c2ccf5c90ff12bc4e08026055a26935d7d7f3e076380a2c8a28cbc87d89e4",
       "record_count": 13,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2014",
@@ -297,9 +297,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2014.json",
-      "sha256": "afd5656030e723c59036655cf472de453c124218b1fe17a1c38cf088e7fec276",
+      "sha256": "408be6d0765c1a6150c2be88fbbe0d8610be241105d8810283d25f410379b552",
       "record_count": 14,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2015",
@@ -312,9 +312,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2015.json",
-      "sha256": "58c12c3219641306a9975d6631e0e1df87cb2ec41eb13676bde67a3979f3e2b3",
+      "sha256": "135cf95218306bd26c890cc65f5b3a9cb9b62adfb34b189a2afad1e450e94a7a",
       "record_count": 14,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2016",
@@ -327,9 +327,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2016.json",
-      "sha256": "4853149239daa2039e379b594594ee289b8ed52e63ae3feb3cb9fc451ffef49f",
+      "sha256": "a1948730ac386a3dc1a98a35ab6265a44cce9e19e740a2b4cc7398a9b358fca0",
       "record_count": 13,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2017",
@@ -342,9 +342,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2017.json",
-      "sha256": "869b37f408a0ef57263fc9bf4d9b62565df6b9b25aba2a06e0188343fe132e61",
+      "sha256": "6055f9a609d232e2d9b7c92dee411f43cdc5f2f07d60c98828b135f8a59c2772",
       "record_count": 14,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2018",
@@ -357,9 +357,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2018.json",
-      "sha256": "047c6558659fea2f27a7969031ff2e4ca7494e122582d77e6f131bfbd16545c5",
+      "sha256": "61c6dd96a55758d8aefdff37db8a1e66360263ddfe90b4c1ea39ed9e2eca2bfc",
       "record_count": 15,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2019",
@@ -372,9 +372,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2019.json",
-      "sha256": "61a7c3f907cb3c93d1dea28a87be646713a78ac7af626f67ffcae44b5799c846",
+      "sha256": "810599e7ea0b52a56b313c145c2a3c45dd570555144a6b054a114b07c02d9572",
       "record_count": 15,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2020",
@@ -387,9 +387,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2020.json",
-      "sha256": "67e3a9e716cc550c72a1078e0b8ed70415929ae90b3f9861b92617e19a3919b3",
+      "sha256": "b688fadabea08e84cdb4f3cf0c77b0ef97da6763d694e3ee777fa07b90ab8a67",
       "record_count": 15,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2021",
@@ -402,9 +402,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2021.json",
-      "sha256": "1185a554c7873365ad430aef5d6266b17258d61a75e72af7539b8a5cf0a0baba",
+      "sha256": "0fc1ed9521f3388b01c967fc1cb6ca82d12b24c0771352d85e1c7890395d3646",
       "record_count": 16,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2022",
@@ -417,9 +417,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2022.json",
-      "sha256": "f14344fa1d9f2f07494e56b23e8a86d28c8a1a6edcdcf84b8c21769dedfa67d0",
+      "sha256": "1c3c432a3b5b0dc8be47083b18665004b5af799631e451fa55c416623e944a4a",
       "record_count": 21,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2023",
@@ -432,9 +432,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2023.json",
-      "sha256": "6bf721548a949963b13d30c559f408ea608d7453c9706ed3d8c8f42b575cf98a",
+      "sha256": "c4e8f0d574d1dc5596aead49851e38a2446176eb3ff9f2894821c173785f9777",
       "record_count": 21,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2024",
@@ -447,9 +447,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2024.json",
-      "sha256": "d028750d6e12759b4449f3adb55cdf606e7098499c71413f32988f73dc9264b5",
+      "sha256": "f86dd2b507cf8c2af8ae38b5307199dfa7ec354876947d7f5e7d72c7df93168b",
       "record_count": 125,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2025",
@@ -462,9 +462,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2025.json",
-      "sha256": "c88b73d6e26ecb939aea96d6be2c3bed88803e76ce613fb27d18cfd71a69165b",
+      "sha256": "1293a216e246ec3d1ae7324fc98083e9fa82ef79d5559dd86a7a6448c07bcccc",
       "record_count": 300,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     },
     {
       "resource_id": "events-2026",
@@ -477,9 +477,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2026.json",
-      "sha256": "3e6d84df2b2719932225fbdb836251e936b94fa4f05d5a22c09ed1f80c8d6d8c",
+      "sha256": "a8f7bd899952a9eadf19de138bc21333cfdf6da4fec22c899018f8cc1df2ab16",
       "record_count": 243,
-      "generated_at": "2026-08-29T12:16:52Z"
+      "generated_at": "2026-08-30T14:15:41Z"
     }
   ]
 }

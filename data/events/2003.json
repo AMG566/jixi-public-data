@@ -14,12 +14,12 @@
       "source": "akshare_cninfo_v1_import",
       "source_urls": [],
       "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_announcement_not_found"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "600887-63394ad088d1110c",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
@@ -39,15 +39,17 @@
       "pay_date": "2003-07-18",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600519&announcementId=10754984"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600519-3d803623cb04f871",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 3,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:09:41Z",
+      "source_event_reference": "cninfo:10754984",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
       "cash_per_unit": "0.2",
@@ -66,15 +68,17 @@
       "pay_date": "2003-06-26",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600050&announcementId=10728277"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600050-a168cf3b25140b70",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 3,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:09:41Z",
+      "source_event_reference": "cninfo:10728277",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
       "cash_per_unit": "0.0357",
@@ -93,15 +97,17 @@
       "pay_date": "2003-07-23",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600036&announcementId=10754893"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600036-33274c284e22ea23",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 3,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:09:41Z",
+      "source_event_reference": "cninfo:10754893",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
       "cash_per_unit": "0.12",
@@ -120,15 +126,17 @@
       "pay_date": "2003-09-30",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600028&announcementId=12710953"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-c0d33620a797cfed",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 3,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:09:41Z",
+      "source_event_reference": "cninfo:12710953",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
       "cash_per_unit": "0.03",
@@ -147,15 +155,17 @@
       "pay_date": "2003-06-30",
       "distribution_currency": "CNY",
       "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "source_url_missing",
-        "manual_review_required"
+      "source_urls": [
+        "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600028&announcementId=10736608"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
-      "source_event_reference": "600028-cc84695b8698167b",
+      "quality_flags": [
+        "source_verified",
+        "source_cninfo_implementation_announcement"
+      ],
+      "revision": 3,
+      "revision_status": "source_verified",
+      "updated_at": "2026-08-30T14:09:41Z",
+      "source_event_reference": "cninfo:10736608",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
       "cash_per_unit": "0.06",
@@ -177,12 +187,12 @@
       "source_urls": [],
       "quality_flags": [
         "cash_per_unit_missing",
-        "source_url_missing",
-        "manual_review_required"
+        "manual_review_required",
+        "source_record_incomplete"
       ],
-      "revision": 1,
-      "revision_status": "original",
-      "updated_at": "2026-08-27T03:27:27Z",
+      "revision": 2,
+      "revision_status": "source_review_pending",
+      "updated_at": "2026-08-30T14:15:41Z",
       "source_event_reference": "000858-8b366bc2ef064e35",
       "supersedes_event_id": null,
       "event_scope_year": 2003,
