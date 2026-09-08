@@ -1,0 +1,1424 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-08T13:23:43Z",
+  "snapshot": {
+    "data_version": "2026.09.08.1",
+    "resources": {
+      "assets-all": {
+        "sha256": "1ad0f4169b4b07b4a098c454f93ab8275c08abb62e764295045ed17508b5106c",
+        "record_count": 7144
+      },
+      "events-1996": {
+        "sha256": "1a46c0402c164e450fc729a327a7f36d64cf4e4425fc9fd7063a788623706f19",
+        "record_count": 0
+      },
+      "events-1997": {
+        "sha256": "1a46c0402c164e450fc729a327a7f36d64cf4e4425fc9fd7063a788623706f19",
+        "record_count": 0
+      },
+      "events-1998": {
+        "sha256": "1a46c0402c164e450fc729a327a7f36d64cf4e4425fc9fd7063a788623706f19",
+        "record_count": 0
+      },
+      "events-1999": {
+        "sha256": "1a46c0402c164e450fc729a327a7f36d64cf4e4425fc9fd7063a788623706f19",
+        "record_count": 0
+      },
+      "events-2000": {
+        "sha256": "1a46c0402c164e450fc729a327a7f36d64cf4e4425fc9fd7063a788623706f19",
+        "record_count": 0
+      },
+      "events-2001": {
+        "sha256": "1a46c0402c164e450fc729a327a7f36d64cf4e4425fc9fd7063a788623706f19",
+        "record_count": 0
+      },
+      "events-2002": {
+        "sha256": "e9617eb0dac1c8a09911b758a5da6ae855b45a21a25dc3865cc3ef54ef9b7f4a",
+        "record_count": 3
+      },
+      "events-2003": {
+        "sha256": "0525907719062d3d4da5ffb9664b3e5acc5d0e4491c29a0d609d11d6754629ba",
+        "record_count": 5
+      },
+      "events-2004": {
+        "sha256": "f0b1c01f3585ba810007463775869e5ad8a600cc8fa8ac1b793e35be64f0b313",
+        "record_count": 7
+      },
+      "events-2005": {
+        "sha256": "0d650fa7734298bb9c0129bb2ca5c9da0a2911e0f8e3473aaf0e5bbec4586fe6",
+        "record_count": 7
+      },
+      "events-2006": {
+        "sha256": "3154d7d35582b25f632365be22bff4aa2bd2e877974d143e38b9c72f88e8c89e",
+        "record_count": 8
+      },
+      "events-2007": {
+        "sha256": "b74320233866a7da92bb73870ad8d99ede318d488f4cf9e49552ff010eb14e97",
+        "record_count": 9
+      },
+      "events-2008": {
+        "sha256": "cda7dfb900548a0295fc40f880d7174890938a6c1692db47fe672a85cc379408",
+        "record_count": 10
+      },
+      "events-2009": {
+        "sha256": "8d7b1e9896f8e05b9f210ddfe7ad5ad470c5271266febe8e39863d4d321ffbcb",
+        "record_count": 9
+      },
+      "events-2010": {
+        "sha256": "5cdc5dd6acb144a64744f7fdaeef230c1c6d41acea33cce804ae8ad63c172131",
+        "record_count": 10
+      },
+      "events-2011": {
+        "sha256": "dc29e65844832483819b9452ba5e6a402ae29e80892267daf608bdaa324f813a",
+        "record_count": 11
+      },
+      "events-2012": {
+        "sha256": "f5448663f29a3f824f2e13bd262d1aefcdd2af9399eab358b6cf98ea1f97f310",
+        "record_count": 12
+      },
+      "events-2013": {
+        "sha256": "dd7a0bb9ec2c9b9dc03cbd546af5cc91f61f18b763cf7d6e7c6ae5ae333525c6",
+        "record_count": 12
+      },
+      "events-2014": {
+        "sha256": "8357c8d6c91ebdf7f0f38a80af0d231b05bb57338425a20edff642641b6a4781",
+        "record_count": 12
+      },
+      "events-2015": {
+        "sha256": "526e99cedea0467749aab0dcbb696a96438c23f0788098d987a4b52f2b5f6cbc",
+        "record_count": 13
+      },
+      "events-2016": {
+        "sha256": "c2712d06d38d0a6700fba13238f9a021405e4cebdf5d65e66362a01215101395",
+        "record_count": 12
+      },
+      "events-2017": {
+        "sha256": "3d77f11d068671c900cd2eeb116fa62683557fd383a0655b250842f073b44d81",
+        "record_count": 12
+      },
+      "events-2018": {
+        "sha256": "787271d5bb6e109791f0c5d7d0dc76d6375a1ee85cf22d94901d4aa71b81b732",
+        "record_count": 14
+      },
+      "events-2019": {
+        "sha256": "07f44bf3f767f42edc482286adf79281b72fc90fc2902d1a01937188daf0f761",
+        "record_count": 14
+      },
+      "events-2020": {
+        "sha256": "42a649f5814e3c2c5b56a64b3b1b4ec8d82e1e659da86dbce860f692367db99f",
+        "record_count": 14
+      },
+      "events-2021": {
+        "sha256": "67a1b1b59f44f19f6c9f311fa7127b14ec9d087df897f93fc6be8dc571d3736c",
+        "record_count": 15
+      },
+      "events-2022": {
+        "sha256": "c5b4e3753d4641eb4bdaa51268e54c7451666f2326e7aed4cfe0614e01dc835c",
+        "record_count": 17
+      },
+      "events-2023": {
+        "sha256": "7c4fe16fbe662c6acf58ab9dd31c0b7d24a4e03cf4208cf9f3dae2cdf59b7d51",
+        "record_count": 17
+      },
+      "events-2024": {
+        "sha256": "5146304f37bad08fd793d7b06666bf560ef3cc607f4f88bb16235428ee221f39",
+        "record_count": 122
+      },
+      "events-2025": {
+        "sha256": "c431ca774512d4f0a209fa4b51684f0e3aede1f0eb056c0d98551eada9aa0eac",
+        "record_count": 298
+      },
+      "events-2026": {
+        "sha256": "198d086d9edeae8277e5e032cf6a985149f5a2f638f68cb418d7e87e5d6ae7ca",
+        "record_count": 242
+      }
+    }
+  },
+  "integrity": {
+    "resource_count": 32,
+    "all_resource_hashes_match": true,
+    "all_resource_counts_match": true,
+    "event_count": 905,
+    "asset_count": 7144,
+    "event_ids_unique": true,
+    "invalid_asset_reference_count": 0,
+    "invalid_cash_per_unit_count": 0,
+    "negative_cash_per_unit_count": 0,
+    "chronologically_inconsistent_event_ids": [],
+    "events_without_cash_per_unit": 0,
+    "events_without_source_urls": 0,
+    "events_marked_manual_review_required": 0
+  },
+  "integrity_gate_passed": true,
+  "cross_validation": {
+    "cninfo_events": {
+      "source": "AKShare stock_dividend_cninfo / CNINFO",
+      "asset_count": 15,
+      "results": [
+        {
+          "code": "000858",
+          "name": "五 粮 液",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 25,
+          "published_event_count": 20,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600025",
+          "name": "华能水电",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 9,
+          "published_event_count": 9,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600028",
+          "name": "中国石化",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 49,
+          "published_event_count": 48,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600036",
+          "name": "招商银行",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 26,
+          "published_event_count": 25,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600050",
+          "name": "中国联通",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 28,
+          "published_event_count": 28,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600519",
+          "name": "贵州茅台",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 30,
+          "published_event_count": 27,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600887",
+          "name": "伊利股份",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 26,
+          "published_event_count": 21,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "600900",
+          "name": "长江电力",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 25,
+          "published_event_count": 25,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601088",
+          "name": "中国神华",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 21,
+          "published_event_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601225",
+          "name": "陕西煤业",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 15,
+          "published_event_count": 15,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601288",
+          "name": "农业银行",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 18,
+          "published_event_count": 17,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601398",
+          "name": "工商银行",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 22,
+          "published_event_count": 22,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601728",
+          "name": "中国电信",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 10,
+          "published_event_count": 9,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601939",
+          "name": "建设银行",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 22,
+          "published_event_count": 22,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "601988",
+          "name": "中国银行",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 22,
+          "published_event_count": 22,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        }
+      ],
+      "all_passed": true,
+      "failed_asset_count": 0
+    },
+    "etf_events": {
+      "source": "Eastmoney fund distribution history",
+      "asset_count": 110,
+      "results": [
+        {
+          "code": "159118",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159119",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159207",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159209",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 14,
+          "published_event_count": 14,
+          "matched_count": 14,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159220",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159221",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 4,
+          "matched_count": 4,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159232",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 5,
+          "matched_count": 5,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159281",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159307",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 9,
+          "published_event_count": 8,
+          "matched_count": 8,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159331",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 25,
+          "published_event_count": 24,
+          "matched_count": 24,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159332",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159333",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 13,
+          "published_event_count": 13,
+          "matched_count": 13,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159336",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159351",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159352",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159353",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159355",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 4,
+          "matched_count": 4,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159357",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159362",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159390",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 15,
+          "published_event_count": 15,
+          "matched_count": 15,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159399",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 18,
+          "published_event_count": 18,
+          "matched_count": 18,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159545",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 9,
+          "published_event_count": 9,
+          "matched_count": 9,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159547",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159569",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159576",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 9,
+          "published_event_count": 9,
+          "matched_count": 9,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159581",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 28,
+          "published_event_count": 28,
+          "matched_count": 28,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159589",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 27,
+          "published_event_count": 26,
+          "matched_count": 26,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159596",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159602",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159623",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159691",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159901",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159905",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 4,
+          "matched_count": 4,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159919",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159922",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159925",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "159960",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510050",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 18,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510100",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510180",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 17,
+          "published_event_count": 8,
+          "matched_count": 8,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510230",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510300",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 14,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510310",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510330",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 12,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510350",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510500",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 4,
+          "matched_count": 4,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510590",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510720",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 28,
+          "published_event_count": 28,
+          "matched_count": 28,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510760",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510810",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "510880",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 19,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512100",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512250",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 4,
+          "matched_count": 4,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512390",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512400",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512700",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 5,
+          "matched_count": 5,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512820",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "512930",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "513600",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "513630",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 9,
+          "published_event_count": 9,
+          "matched_count": 9,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "513690",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "513820",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 26,
+          "published_event_count": 26,
+          "matched_count": 26,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "513920",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515080",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 17,
+          "published_event_count": 10,
+          "matched_count": 10,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515100",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515180",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515210",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515220",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515300",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515450",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 9,
+          "published_event_count": 5,
+          "matched_count": 5,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "515890",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "517180",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520550",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 16,
+          "published_event_count": 16,
+          "matched_count": 16,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520660",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520810",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 8,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520900",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 8,
+          "published_event_count": 8,
+          "matched_count": 8,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520950",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520960",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "520990",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "530680",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "530880",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 16,
+          "published_event_count": 15,
+          "matched_count": 15,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560020",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560070",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560120",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560150",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560220",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560350",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 8,
+          "published_event_count": 8,
+          "matched_count": 8,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560370",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560510",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560530",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 7,
+          "published_event_count": 7,
+          "matched_count": 7,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560570",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560610",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "560700",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "561060",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "561230",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 10,
+          "published_event_count": 10,
+          "matched_count": 10,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "561580",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 17,
+          "published_event_count": 16,
+          "matched_count": 16,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "561870",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "561880",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 5,
+          "matched_count": 5,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "561960",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "562060",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "562810",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563020",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 10,
+          "published_event_count": 9,
+          "matched_count": 9,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563500",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 6,
+          "published_event_count": 6,
+          "matched_count": 6,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563660",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 5,
+          "matched_count": 5,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563700",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 5,
+          "published_event_count": 5,
+          "matched_count": 5,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563830",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 2,
+          "published_event_count": 2,
+          "matched_count": 2,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563900",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 4,
+          "published_event_count": 4,
+          "matched_count": 4,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "563980",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "588080",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "589300",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        }
+      ],
+      "all_passed": true,
+      "failed_asset_count": 0
+    }
+  },
+  "source_coverage_gate_passed": true,
+  "gate_passed": true,
+  "gate_reason": "passed"
+}

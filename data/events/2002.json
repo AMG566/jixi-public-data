@@ -64,33 +64,6 @@
       "asset_name": "中国石化",
       "asset_category": "stock",
       "event_type": "equity_dividend",
-      "announcement_date": "2002-09-17",
-      "record_date": "2002-09-20",
-      "ex_date": "2002-09-23",
-      "pay_date": "2002-09-26",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "600028-d8fdcb73fedfbd1a",
-      "supersedes_event_id": null,
-      "event_scope_year": 2002,
-      "cash_per_unit": "0.02",
-      "status": "paid",
-      "event_id": "CN:SSE:600028:equity_dividend:2002:600028-d8fdcb73fedfbd1a"
-    },
-    {
-      "asset_id": "CN:SSE:600028",
-      "asset_code": "600028",
-      "asset_name": "中国石化",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
       "announcement_date": "2002-07-16",
       "record_date": "2002-07-19",
       "ex_date": "2002-07-22",
@@ -113,33 +86,6 @@
       "cash_per_unit": "0.08",
       "status": "paid",
       "event_id": "CN:SSE:600028:equity_dividend:2002:600028-5330905217b00014"
-    },
-    {
-      "asset_id": "CN:SZSE:000858",
-      "asset_code": "000858",
-      "asset_name": "五 粮 液",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2002-04-10",
-      "record_date": "2002-04-17",
-      "ex_date": "2002-04-18",
-      "pay_date": "2002-04-18",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "000858-e37d72bbf67e143f",
-      "supersedes_event_id": null,
-      "event_scope_year": 2002,
-      "cash_per_unit": "0.025",
-      "status": "paid",
-      "event_id": "CN:SZSE:000858:equity_dividend:2002:000858-e37d72bbf67e143f"
     }
   ]
 }

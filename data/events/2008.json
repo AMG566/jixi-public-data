@@ -117,33 +117,6 @@
       "event_id": "CN:SSE:601398:equity_dividend:2008:601398-ee4b23fbe826face"
     },
     {
-      "asset_id": "CN:SSE:601088",
-      "asset_code": "601088",
-      "asset_name": "中国神华",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2008-05-29",
-      "record_date": "2008-06-03",
-      "ex_date": "2008-06-04",
-      "pay_date": "2008-06-10",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "601088-871f176c07846088",
-      "supersedes_event_id": null,
-      "event_scope_year": 2008,
-      "cash_per_unit": "0.18",
-      "status": "paid",
-      "event_id": "CN:SSE:601088:equity_dividend:2008:601088-871f176c07846088"
-    },
-    {
       "asset_id": "CN:SSE:600900",
       "asset_code": "600900",
       "asset_name": "长江电力",
@@ -171,34 +144,6 @@
       "cash_per_unit": "0.29682",
       "status": "paid",
       "event_id": "CN:SSE:600900:equity_dividend:2008:600900-0dd37f101313d5c8"
-    },
-    {
-      "asset_id": "CN:SSE:600887",
-      "asset_code": "600887",
-      "asset_name": "伊利股份",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2008-05-17",
-      "record_date": "2008-05-21",
-      "ex_date": "2008-05-22",
-      "pay_date": null,
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "cash_per_unit_missing",
-        "manual_review_required",
-        "source_record_incomplete"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "600887-1e99d5f25ee8a3a7",
-      "supersedes_event_id": null,
-      "event_scope_year": 2008,
-      "cash_per_unit": null,
-      "status": "paid",
-      "event_id": "CN:SSE:600887:equity_dividend:2008:600887-1e99d5f25ee8a3a7"
     },
     {
       "asset_id": "CN:SSE:600519",
