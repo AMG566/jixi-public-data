@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>攒息支持</title>
+  <meta name="description" content="攒息 App 的使用支持、反馈方式与常见问题。">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7fb;
+      --card: rgba(255,255,255,0.88);
+      --text: #18212f;
+      --muted: #5e6878;
+      --line: rgba(24, 33, 47, 0.10);
+      --brand: #2f6df6;
+      --brand-soft: rgba(47, 109, 246, 0.10);
+      --shadow: 0 10px 30px rgba(27, 39, 62, 0.08);
+      --radius: 20px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f141d;
+        --card: rgba(20, 27, 38, 0.92);
+        --text: #eef3fb;
+        --muted: #a9b3c4;
+        --line: rgba(238, 243, 251, 0.10);
+        --brand: #7aa2ff;
+        --brand-soft: rgba(122, 162, 255, 0.16);
+        --shadow: none;
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Helvetica Neue", Arial, sans-serif;
+      background:
+        radial-gradient(circle at top right, rgba(47, 109, 246, 0.10), transparent 28%),
+        radial-gradient(circle at top left, rgba(118, 151, 255, 0.10), transparent 22%),
+        var(--bg);
+      color: var(--text);
+      line-height: 1.75;
+    }
+
+    .container {
+      width: min(840px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 72px;
+    }
+
+    .hero,
+    section,
+    .footer {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+    }
+
+    .hero { padding: 28px 24px; }
+
+    .eyebrow {
+      display: inline-flex;
+      padding: 6px 12px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    h1 {
+      margin: 16px 0 10px;
+      font-size: clamp(32px, 4vw, 44px);
+      line-height: 1.12;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      margin: 0 0 12px;
+      font-size: 22px;
+      line-height: 1.25;
+    }
+
+    p, li { font-size: 16px; margin: 0; }
+    p + p, ul { margin-top: 12px; }
+    ul { padding-left: 1.2em; }
+    li + li { margin-top: 8px; }
+
+    .lead,
+    .meta,
+    .muted { color: var(--muted); }
+
+    .meta {
+      margin-top: 18px;
+      font-size: 14px;
+    }
+
+    section {
+      margin-top: 16px;
+      padding: 24px;
+    }
+
+    .cta {
+      display: inline-block;
+      margin-top: 18px;
+      padding: 11px 18px;
+      border-radius: 999px;
+      background: var(--brand);
+      color: #fff;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .note {
+      margin-top: 14px;
+      padding: 14px 16px;
+      border-left: 4px solid var(--brand);
+      border-radius: 12px;
+      background: var(--brand-soft);
+    }
+
+    a { color: var(--brand); }
+
+    .footer {
+      margin-top: 16px;
+      padding: 20px 24px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header class="hero">
+      <div class="eyebrow">攒息 · 支持</div>
+      <h1>我们愿意听见你的想法</h1>
+      <p class="lead">无论是使用问题、数据疑问还是功能建议，欢迎告诉我们。每一条反馈都会帮助攒息变得更好。</p>
+      <p class="meta">适用于 iPhone / iPad 版「攒息」App</p>
+    </header>
+
+    <section id="contact">
+      <h2>联系支持</h2>
+      <p>请发送邮件至 <a href="mailto:lyricly@gmail.com">lyricly@gmail.com</a>。我们会尽力阅读并回复你的来信。</p>
+      <a class="cta" href="mailto:lyricly@gmail.com?subject=%E6%94%92%E6%81%AF%E6%94%AF%E6%8C%81%E5%92%A8%E8%AF%A2">发送邮件</a>
+      <p class="note">请勿在邮件中发送账户密码、身份证号、银行卡信息等敏感内容。若需描述问题，可按需要附上截图；请先遮盖个人信息、持仓金额及交易记录。</p>
+    </section>
+
+    <section id="feedback">
+      <h2>如何反馈更有效</h2>
+      <ul>
+        <li>说明问题发生在哪个页面，以及你当时进行了什么操作。</li>
+        <li>若问题与数据有关，请提供证券代码、日期和你看到的现象；不要发送完整持仓明细。</li>
+        <li>如方便，可补充 App 版本、iOS 版本和设备型号，帮助我们定位问题。</li>
+        <li>功能建议可以描述你希望解决的场景或使用习惯。</li>
+      </ul>
+    </section>
+
+    <section id="faq">
+      <h2>常见问题</h2>
+      <p><strong>分红数据和实际到账不一致怎么办？</strong></p>
+      <p class="muted">公开数据可能存在延迟、缺失或修正。请以上市公司、基金管理人公告、券商通知和实际到账记录为准，并可通过 App 内的意见反馈告诉我们具体情况。</p>
+      <p><strong>如何管理或取消 Pro 订阅？</strong></p>
+      <p class="muted">订阅由 Apple App Store 管理。你可在 iPhone 或 iPad 的“设置”中进入 Apple 账户订阅管理，查看或取消自动续订。</p>
+      <p><strong>我的持仓数据会上传吗？</strong></p>
+      <p class="muted">攒息默认以本机保存为主。只有在你主动开启 iCloud 同步后，相关记录才会在你自己的 Apple 设备间通过 iCloud 私有数据库同步。详见<a href="privacy.html">隐私政策</a>。</p>
+    </section>
+
+    <footer class="footer">
+      隐私政策：<a href="privacy.html">https://amg566.github.io/jixi-public-data/docs/privacy.html</a><br>
+      本页可作为 App Store Connect 的 Support URL：<br>
+      <strong>https://amg566.github.io/jixi-public-data/docs/support.html</strong>
+    </footer>
+  </main>
+</body>
+</html>

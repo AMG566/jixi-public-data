@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>攒息隐私政策</title>
+  <meta name="description" content="攒息 App 隐私政策，说明本地存储、可选 iCloud 同步、公开数据访问、通知与订阅处理方式。">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7fb;
+      --card: rgba(255,255,255,0.88);
+      --text: #18212f;
+      --muted: #5e6878;
+      --line: rgba(24, 33, 47, 0.10);
+      --brand: #2f6df6;
+      --brand-soft: rgba(47, 109, 246, 0.10);
+      --shadow: 0 10px 30px rgba(27, 39, 62, 0.08);
+      --radius: 20px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f141d;
+        --card: rgba(20, 27, 38, 0.92);
+        --text: #eef3fb;
+        --muted: #a9b3c4;
+        --line: rgba(238, 243, 251, 0.10);
+        --brand: #7aa2ff;
+        --brand-soft: rgba(122, 162, 255, 0.16);
+        --shadow: none;
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Helvetica Neue", Arial, sans-serif;
+      background:
+        radial-gradient(circle at top right, rgba(47, 109, 246, 0.10), transparent 28%),
+        radial-gradient(circle at top left, rgba(118, 151, 255, 0.10), transparent 22%),
+        var(--bg);
+      color: var(--text);
+      line-height: 1.75;
+    }
+
+    .container {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 72px;
+    }
+
+    .hero,
+    section,
+    .footer {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+    }
+
+    .hero {
+      padding: 28px 24px;
+      margin-bottom: 16px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    h1 {
+      margin: 16px 0 10px;
+      font-size: clamp(32px, 4vw, 44px);
+      line-height: 1.12;
+      letter-spacing: -0.02em;
+    }
+
+    .lead {
+      margin: 0;
+      font-size: 17px;
+      color: var(--muted);
+    }
+
+    .meta {
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    nav {
+      margin: 18px 0 24px;
+      padding: 14px 16px;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 14px;
+    }
+
+    nav a {
+      color: var(--brand);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    nav a:hover { text-decoration: underline; }
+
+    section {
+      padding: 24px;
+      margin-top: 16px;
+    }
+
+    h2 {
+      margin: 0 0 12px;
+      font-size: 22px;
+      line-height: 1.25;
+    }
+
+    p,
+    li {
+      font-size: 16px;
+      margin: 0;
+    }
+
+    p + p,
+    ul,
+    ol,
+    .note,
+    .grid {
+      margin-top: 12px;
+    }
+
+    ul,
+    ol {
+      padding-left: 1.2em;
+    }
+
+    li + li {
+      margin-top: 8px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+
+    .card {
+      padding: 16px;
+      border-radius: 16px;
+      background: var(--brand-soft);
+      border: 1px solid rgba(47, 109, 246, 0.12);
+    }
+
+    .card strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 15px;
+    }
+
+    .note {
+      padding: 14px 16px;
+      border-left: 4px solid var(--brand);
+      background: var(--brand-soft);
+      border-radius: 12px;
+      color: var(--text);
+    }
+
+    a {
+      color: var(--brand);
+    }
+
+    .footer {
+      margin-top: 16px;
+      padding: 20px 24px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      background: rgba(127, 127, 127, 0.12);
+      padding: 2px 6px;
+      border-radius: 8px;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header class="hero">
+      <div class="eyebrow">攒息 · 隐私政策</div>
+      <h1>你的持仓记录，优先只属于你</h1>
+      <p class="lead">
+        攒息是一款用于记录持仓、分红与提醒的个人工具。当前版本以本机保存为主，不要求注册账户，
+        不读取你的券商账户或交易流水，也不向你展示第三方广告。
+      </p>
+      <p class="meta">生效日期：2026-08-31 · 适用于 iPhone / iPad 版「攒息」App</p>
+    </header>
+
+    <nav aria-label="目录">
+      <a href="#scope">1. 适用范围</a>
+      <a href="#data">2. 我们处理的信息</a>
+      <a href="#usage">3. 信息用途</a>
+      <a href="#storage">4. 本地存储与 iCloud</a>
+      <a href="#public-data">5. 公开数据访问</a>
+      <a href="#notifications">6. 提醒通知</a>
+      <a href="#purchase">7. 订阅与付款</a>
+      <a href="#tracking">8. 不做什么</a>
+      <a href="#choices">9. 你的选择</a>
+      <a href="#contact">10. 联系方式</a>
+    </nav>
+
+    <section id="scope">
+      <h2>1. 适用范围</h2>
+      <p>
+        本政策用于说明攒息 App 在提供持仓记录、分红展示、提醒与会员服务时，如何处理与你有关的信息。
+        如果后续版本新增新的数据处理场景，我们会同步更新本页面。
+      </p>
+    </section>
+
+    <section id="data">
+      <h2>2. 我们处理的信息</h2>
+      <div class="grid">
+        <div class="card">
+          <strong>你主动录入的信息</strong>
+          持仓代码、名称、份额、成本、买入时间、到账记录、备注及你主动编辑的分红相关内容。
+        </div>
+        <div class="card">
+          <strong>提醒偏好</strong>
+          例如是否开启提醒、提醒提前天数、部分界面与功能开关状态。
+        </div>
+        <div class="card">
+          <strong>公开市场数据</strong>
+          为展示公开分红方案，App 可能请求资产名称、分红金额、公告日、除权日、派息日等公开信息。
+        </div>
+        <div class="card">
+          <strong>订阅状态</strong>
+          如你购买或恢复 Pro，Apple 会通过 StoreKit 返回交易验证结果与订阅状态，用于判断会员权益。
+        </div>
+      </div>
+      <p class="note">
+        攒息当前版本不要求你注册账户，也不会直接读取你的券商账户、银行卡流水、身份证号或通讯录。
+      </p>
+    </section>
+
+    <section id="usage">
+      <h2>3. 我们如何使用这些信息</h2>
+      <ul>
+        <li>在 App 内生成你的持仓清单、分红记录、年度统计与日历视图。</li>
+        <li>根据你的设置安排本地提醒，减少漏看即将到来的分红节点。</li>
+        <li>在你主动开启相关能力时，提供可选的 iCloud 多设备同步。</li>
+        <li>在你购买或恢复订阅后，启用 Pro 对应权益，例如更多持仓容量、增强提醒、完整洞察与 iCloud 同步能力。</li>
+      </ul>
+    </section>
+
+    <section id="storage">
+      <h2>4. 本地存储与可选 iCloud 同步</h2>
+      <p>
+        攒息默认以本机存储为主。你录入的大部分持仓与分红记录会保存在你的设备中，用于离线查看与后续计算。
+      </p>
+      <p>
+        如果你是 Pro 用户并主动开启 <strong>iCloud 同步</strong>，相关持仓与分红记录会通过 Apple 提供的
+        iCloud / CloudKit 私有数据库，在你自己的 Apple 设备之间同步。该同步能力由 Apple 提供基础设施支持，
+        你也可以随时在 App 内关闭它。
+      </p>
+      <p class="note">
+        是否开启 iCloud 同步由你决定。未开启时，攒息继续以本地保存为主。
+      </p>
+    </section>
+
+    <section id="public-data">
+      <h2>5. 公开数据访问</h2>
+      <p>
+        为展示公开分红方案、关键日期和资产基础信息，攒息会访问公开数据源并下载对应的公开数据文件。
+      </p>
+      <p>
+        这些请求用于拉取公开市场信息，不以你的持仓明细作为上传参数，也不会因为你添加了哪只资产而把你的完整投资组合提交给开发者。
+      </p>
+      <p>
+        公开信息可能存在延迟、缺失或修正，因此 App 内展示内容仅供整理和参考；请以上市公司公告、基金管理人公告、券商通知和你的实际到账记录为准。
+      </p>
+    </section>
+
+    <section id="notifications">
+      <h2>6. 提醒通知</h2>
+      <p>
+        如果你授权通知权限，攒息会在设备本地安排与分红相关的提醒。你可以在 App 内或系统设置中随时关闭通知。
+      </p>
+      <p>
+        我们不会因为你关闭通知而限制基础记录功能的使用。
+      </p>
+    </section>
+
+    <section id="purchase">
+      <h2>7. 订阅、付款与恢复购买</h2>
+      <p>
+        攒息 Pro 订阅通过 Apple 的 StoreKit / App Store 完成购买、续订和恢复。
+        付款信息由 Apple 处理，攒息开发者不会直接接触你的银行卡号或完整支付信息。
+      </p>
+      <p>
+        我们仅根据 Apple 返回的已验证交易状态，判断你是否拥有对应会员权益。
+      </p>
+    </section>
+
+    <section id="tracking">
+      <h2>8. 我们不做什么</h2>
+      <ul>
+        <li>不做跨 App / 跨网站跟踪。</li>
+        <li>不出售你的个人信息。</li>
+        <li>不接入第三方广告 SDK 向你投放定向广告。</li>
+        <li>不要求你提供券商账户密码或交易流水登录信息。</li>
+      </ul>
+    </section>
+
+    <section id="choices">
+      <h2>9. 你的选择与控制</h2>
+      <ul>
+        <li>你可以随时修改、删除自己录入的持仓和分红记录。</li>
+        <li>你可以关闭提醒通知。</li>
+        <li>你可以在支持的范围内关闭 iCloud 同步，继续只在本地使用。</li>
+        <li>你可以在 Apple 账户订阅管理中取消 Pro 自动续订。</li>
+        <li>卸载 App、清除本地数据或关闭相关同步后，可能导致本机保存的信息被删除或不再继续同步。</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>10. 联系方式</h2>
+      <p>
+        如果你对本政策或攒息的数据处理方式有疑问，可发送邮件至：
+        <a href="mailto:lyricly@gmail.com">lyricly@gmail.com</a>。
+      </p>
+      <p>
+        你也可以访问 <a href="support.html">攒息支持页面</a>，了解反馈方式和常见问题。
+      </p>
+      <p>
+        如果本政策发生实质性变化，我们会更新本页面中的“生效日期”。
+      </p>
+    </section>
+
+    <footer class="footer">
+      本页面建议作为 App Store Connect 的 Privacy Policy URL 使用。推荐填写：
+      <code>https://amg566.github.io/jixi-public-data/docs/privacy.html</code><br>
+      支持页面：<a href="support.html">https://amg566.github.io/jixi-public-data/docs/support.html</a>
+    </footer>
+  </main>
+</body>
+</html>
