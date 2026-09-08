@@ -204,33 +204,6 @@
       "event_id": "CN:SSE:601088:equity_dividend:2026:601088-e475b7bd7132bdc4"
     },
     {
-      "asset_id": "CN:SSE:600941",
-      "asset_code": "600941",
-      "asset_name": "中国移动",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2026-05-29",
-      "record_date": "2026-06-04",
-      "ex_date": "2026-06-05",
-      "pay_date": "2026-06-05",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "600941-6598a77685590218",
-      "supersedes_event_id": null,
-      "event_scope_year": 2026,
-      "cash_per_unit": "2.2012",
-      "status": "paid",
-      "event_id": "CN:SSE:600941:equity_dividend:2026:600941-6598a77685590218"
-    },
-    {
       "asset_id": "CN:SSE:600900",
       "asset_code": "600900",
       "asset_name": "长江电力",

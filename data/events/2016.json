@@ -117,33 +117,6 @@
       "event_id": "CN:SSE:601288:equity_dividend:2016:601288-78a7667b776ca47d"
     },
     {
-      "asset_id": "CN:SSE:601088",
-      "asset_code": "601088",
-      "asset_name": "中国神华",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2016-06-25",
-      "record_date": "2016-07-01",
-      "ex_date": "2016-07-04",
-      "pay_date": "2016-07-04",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "601088-d6801cce965d87c4",
-      "supersedes_event_id": null,
-      "event_scope_year": 2016,
-      "cash_per_unit": "0.32",
-      "status": "paid",
-      "event_id": "CN:SSE:601088:equity_dividend:2016:601088-d6801cce965d87c4"
-    },
-    {
       "asset_id": "CN:SSE:600900",
       "asset_code": "600900",
       "asset_name": "长江电力",

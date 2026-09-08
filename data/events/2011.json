@@ -117,33 +117,6 @@
       "event_id": "CN:SSE:601288:equity_dividend:2011:601288-89f2153eb6ca16a3"
     },
     {
-      "asset_id": "CN:SSE:601088",
-      "asset_code": "601088",
-      "asset_name": "中国神华",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2011-06-03",
-      "record_date": "2011-06-10",
-      "ex_date": "2011-06-13",
-      "pay_date": "2011-06-17",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "601088-5608cf5d47ad7707",
-      "supersedes_event_id": null,
-      "event_scope_year": 2011,
-      "cash_per_unit": "0.75",
-      "status": "paid",
-      "event_id": "CN:SSE:601088:equity_dividend:2011:601088-5608cf5d47ad7707"
-    },
-    {
       "asset_id": "CN:SSE:600900",
       "asset_code": "600900",
       "asset_name": "长江电力",
@@ -171,34 +144,6 @@
       "cash_per_unit": "0.25579",
       "status": "paid",
       "event_id": "CN:SSE:600900:equity_dividend:2011:600900-4b3136eff3891253"
-    },
-    {
-      "asset_id": "CN:SSE:600887",
-      "asset_code": "600887",
-      "asset_name": "伊利股份",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2011-06-03",
-      "record_date": "2011-06-10",
-      "ex_date": "2011-06-13",
-      "pay_date": null,
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "cash_per_unit_missing",
-        "manual_review_required",
-        "source_record_incomplete"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "600887-035917a660c99ba9",
-      "supersedes_event_id": null,
-      "event_scope_year": 2011,
-      "cash_per_unit": null,
-      "status": "paid",
-      "event_id": "CN:SSE:600887:equity_dividend:2011:600887-035917a660c99ba9"
     },
     {
       "asset_id": "CN:SSE:600519",

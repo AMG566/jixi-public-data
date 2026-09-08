@@ -88,33 +88,6 @@
       "event_id": "CN:SSE:601398:equity_dividend:2009:601398-e283a51be1c36628"
     },
     {
-      "asset_id": "CN:SSE:601088",
-      "asset_code": "601088",
-      "asset_name": "中国神华",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2009-06-16",
-      "record_date": "2009-06-19",
-      "ex_date": "2009-06-22",
-      "pay_date": "2009-06-30",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "601088-bd6e611fa52a9f64",
-      "supersedes_event_id": null,
-      "event_scope_year": 2009,
-      "cash_per_unit": "0.46",
-      "status": "paid",
-      "event_id": "CN:SSE:601088:equity_dividend:2009:601088-bd6e611fa52a9f64"
-    },
-    {
       "asset_id": "CN:SSE:600900",
       "asset_code": "600900",
       "asset_name": "长江电力",
@@ -287,33 +260,6 @@
       "cash_per_unit": "0.09",
       "status": "paid",
       "event_id": "CN:SSE:600028:equity_dividend:2009:600028-ee63e80a32519e83"
-    },
-    {
-      "asset_id": "CN:SZSE:000858",
-      "asset_code": "000858",
-      "asset_name": "五 粮 液",
-      "asset_category": "stock",
-      "event_type": "equity_dividend",
-      "announcement_date": "2009-05-04",
-      "record_date": "2009-05-08",
-      "ex_date": "2009-05-11",
-      "pay_date": "2009-05-11",
-      "distribution_currency": "CNY",
-      "source": "akshare_cninfo_v1_import",
-      "source_urls": [],
-      "quality_flags": [
-        "manual_review_required",
-        "source_announcement_not_found"
-      ],
-      "revision": 2,
-      "revision_status": "source_review_pending",
-      "updated_at": "2026-08-30T14:15:41Z",
-      "source_event_reference": "000858-4b09cf3791f8203d",
-      "supersedes_event_id": null,
-      "event_scope_year": 2009,
-      "cash_per_unit": "0.05",
-      "status": "paid",
-      "event_id": "CN:SZSE:000858:equity_dividend:2009:000858-4b09cf3791f8203d"
     }
   ]
 }
