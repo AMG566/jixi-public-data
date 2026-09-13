@@ -1,10 +1,10 @@
 {
   "dividend_record_count": 369,
   "dividend_watchlist_count": 16,
-  "generated_at": "2026-09-12T00:28:02Z",
+  "generated_at": "2026-09-13T00:08:11Z",
   "schema_version": 1,
   "stock_library_count": 5562,
-  "version": "20260912-002802",
+  "version": "20260913-000811",
   "warning_count": 1,
   "warnings": [
     "601288 农业银行：分红日期先后关系异常（记录 601288-0ab745ff4f20bea0），已保留原始公开数据供人工核验"
