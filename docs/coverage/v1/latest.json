@@ -1,12 +1,14 @@
 {
-  "dividend_record_count": 369,
+  "dividend_record_count": 326,
   "dividend_watchlist_count": 16,
-  "generated_at": "2026-09-17T00:46:47Z",
+  "generated_at": "2026-09-18T00:38:14Z",
   "schema_version": 1,
   "stock_library_count": 5565,
-  "version": "20260917-004647",
-  "warning_count": 1,
+  "version": "20260918-003814",
+  "warning_count": 3,
   "warnings": [
+    "601988 中国银行：抓取失败（JSONDecodeError）",
+    "601088 中国神华：抓取失败（JSONDecodeError）",
     "601288 农业银行：分红日期先后关系异常（记录 601288-0ab745ff4f20bea0），已保留原始公开数据供人工核验"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "dividend_added_count": 0,
-  "dividend_changed_count": 369,
-  "dividend_record_count": 369,
-  "dividend_removed_count": 0,
-  "generated_at": "2026-09-17T00:46:47Z",
+  "dividend_changed_count": 326,
+  "dividend_record_count": 326,
+  "dividend_removed_count": 43,
+  "generated_at": "2026-09-18T00:38:14Z",
   "message": "由 GitHub Actions 自动生成",
   "schema_version": 1,
-  "stock_added_count": 2,
+  "stock_added_count": 0,
   "stock_library_count": 5565,
   "stock_removed_count": 0,
-  "version": "20260917-004647"
+  "version": "20260918-003814"
 }
