@@ -28,6 +28,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 240
+    # 脚本位于私有主仓库，运行时复制到本仓库；显式指定数据快照根目录。
+    env:
+      JIXI_PUBLIC_DATA_ROOT: ${{ github.workspace }}
     steps:
       - name: Checkout public data repo
         uses: actions/checkout@v4
@@ -45,6 +48,7 @@ jobs:
         run: |
           mkdir -p data-tools
           cp app-repo/data-tools/backfill_recent_dividends.py data-tools/
+          cp app-repo/data-tools/backfill_etf_dividends.py data-tools/
           cp app-repo/data-tools/cross_validate_published_data.py data-tools/
 
       - name: Set up Python
@@ -55,18 +59,40 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Backfill recent stock dividends (apply, draft)
+      # 先干跑，避免无新事件时 --apply 仍改写 manifest 为草稿、产生假版本。
+      - name: Check for new stock dividends
+        id: stock_changes
+        run: |
+          python3 data-tools/backfill_recent_dividends.py
+          NEW=$(python3 -c "import json; print(json.load(open('data-tools/recent_backfill_report.json'))['events_added'])")
+          echo "count=$NEW" >> "$GITHUB_OUTPUT"
+          echo "股票新事件：$NEW"
+
+      - name: Check for new ETF distributions
+        id: etf_changes
+        run: |
+          python3 data-tools/backfill_etf_dividends.py
+          NEW=$(python3 -c "import json; print(json.load(open('data-tools/recent_etf_backfill_report.json'))['events_added'])")
+          echo "count=$NEW" >> "$GITHUB_OUTPUT"
+          echo "ETF 新事件：$NEW"
+
+      - name: Apply new stock dividends (draft)
+        if: steps.stock_changes.outputs.count != '0'
         run: python3 data-tools/backfill_recent_dividends.py --apply
+
+      - name: Apply new ETF distributions (draft)
+        if: steps.etf_changes.outputs.count != '0'
+        run: python3 data-tools/backfill_etf_dividends.py --apply
 
       - name: Detect new events
         id: new_events
         run: |
-          if git diff --quiet -- data/events/; then
-            echo "new=false" >> "$GITHUB_OUTPUT"
-            echo "ℹ️ 无新分红事件"
-          else
+          if [ "${{ steps.stock_changes.outputs.count }}" != "0" ] || [ "${{ steps.etf_changes.outputs.count }}" != "0" ]; then
             echo "new=true" >> "$GITHUB_OUTPUT"
             echo "🆕 检测到新分红事件"
+          else
+            echo "new=false" >> "$GITHUB_OUTPUT"
+            echo "ℹ️ 无新分红事件"
           fi
 
       - name: Cross-validate and release gate
@@ -80,7 +106,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/events docs/manifest/v2.json docs/audit/latest.json
           VERSION=$(python3 -c "import json;print(json.load(open('docs/manifest/v2.json'))['data_version'])")
-          git commit -m "data: ${VERSION} - auto stock dividend update (backfill + gate)"
+          git commit -m "data: ${VERSION} - auto dividend update (stock + ETF; backfill + gate)"
           # 运行期间可能有其他提交（如 v1 bot），rebase 后再推
           git pull --rebase origin main
           git push origin main
