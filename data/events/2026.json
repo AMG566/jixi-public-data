@@ -132897,6 +132897,1180 @@
       "cash_per_unit": "0.09",
       "status": "paid",
       "event_id": "CN:SSE:920992:equity_dividend:2026:eastmoney-fb95f3f71de4"
+    },
+    {
+      "asset_id": "CN:SZSE:002597",
+      "asset_code": "002597",
+      "asset_name": "金禾实业",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-28",
+      "ex_date": "2026-09-29",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002597.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:002597:report-2026-06-30:ex-2026-09-29",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.15",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002597:equity_dividend:2026:eastmoney-10e85e389218"
+    },
+    {
+      "asset_id": "CN:SZSE:300095",
+      "asset_code": "300095",
+      "asset_name": "华伍股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-18",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300095.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:300095:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.12",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300095:equity_dividend:2026:eastmoney-1174da6a365f"
+    },
+    {
+      "asset_id": "CN:SZSE:301138",
+      "asset_code": "301138",
+      "asset_name": "华研精机",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-18",
+      "record_date": "2026-09-28",
+      "ex_date": "2026-09-29",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/301138.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:301138:report-2026-06-30:ex-2026-09-29",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.7",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:301138:equity_dividend:2026:eastmoney-8e2983e91a75"
+    },
+    {
+      "asset_id": "CN:SZSE:301181",
+      "asset_code": "301181",
+      "asset_name": "标榜股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-18",
+      "record_date": "2026-09-28",
+      "ex_date": "2026-09-29",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/301181.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:301181:report-2026-06-30:ex-2026-09-29",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.25",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:301181:equity_dividend:2026:eastmoney-658d285cd0d9"
+    },
+    {
+      "asset_id": "CN:SSE:600549",
+      "asset_code": "600549",
+      "asset_name": "厦门钨业",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600549.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:600549:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.42",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600549:equity_dividend:2026:eastmoney-80c6f3beb27f"
+    },
+    {
+      "asset_id": "CN:SSE:600693",
+      "asset_code": "600693",
+      "asset_name": "东百集团",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-28",
+      "ex_date": "2026-09-29",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600693.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:600693:report-2026-06-30:ex-2026-09-29",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.04",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600693:equity_dividend:2026:eastmoney-9eee076e368b"
+    },
+    {
+      "asset_id": "CN:SSE:600926",
+      "asset_code": "600926",
+      "asset_name": "杭州银行",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600926.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:600926:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.46",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600926:equity_dividend:2026:eastmoney-aef87885583f"
+    },
+    {
+      "asset_id": "CN:SSE:603027",
+      "asset_code": "603027",
+      "asset_name": "千禾味业",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603027.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:603027:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.1",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603027:equity_dividend:2026:eastmoney-75d141b61ec1"
+    },
+    {
+      "asset_id": "CN:SSE:603390",
+      "asset_code": "603390",
+      "asset_name": "通达电气",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603390.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:603390:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.1",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603390:equity_dividend:2026:eastmoney-4b4994720233"
+    },
+    {
+      "asset_id": "CN:SSE:603661",
+      "asset_code": "603661",
+      "asset_name": "恒林股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603661.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:603661:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.36",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603661:equity_dividend:2026:eastmoney-d4667757d57d"
+    },
+    {
+      "asset_id": "CN:SSE:605011",
+      "asset_code": "605011",
+      "asset_name": "杭州热电",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/605011.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:605011:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SSE:605011:equity_dividend:2026:eastmoney-9c1433999a09"
+    },
+    {
+      "asset_id": "CN:SSE:688285",
+      "asset_code": "688285",
+      "asset_name": "高铁电气",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/688285.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:688285:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.009",
+      "status": "scheduled",
+      "event_id": "CN:SSE:688285:equity_dividend:2026:eastmoney-b50f5beb38c3"
+    },
+    {
+      "asset_id": "CN:SSE:688692",
+      "asset_code": "688692",
+      "asset_name": "达梦数据",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-19",
+      "record_date": "2026-09-24",
+      "ex_date": "2026-09-28",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/688692.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:688692:report-2026-06-30:ex-2026-09-28",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.7",
+      "status": "scheduled",
+      "event_id": "CN:SSE:688692:equity_dividend:2026:eastmoney-7bf10c211550"
+    },
+    {
+      "asset_id": "CN:SSE:920000",
+      "asset_code": "920000",
+      "asset_name": "安徽凤凰",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-18",
+      "record_date": "2026-09-29",
+      "ex_date": "2026-09-30",
+      "pay_date": "2026-09-30",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/920000.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:14Z",
+      "source_event_reference": "eastmoney:920000:report-2026-06-30:ex-2026-09-30",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.07",
+      "status": "scheduled",
+      "event_id": "CN:SSE:920000:equity_dividend:2026:eastmoney-7f883856ab73"
+    },
+    {
+      "asset_id": "CN:SZSE:159119",
+      "asset_code": "159119",
+      "asset_name": "800现金流ETF招商",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-14",
+      "ex_date": "2026-09-15",
+      "pay_date": "2026-09-17",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159119.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159119:2026-09-14:2026-09-15:2026-09-17:per_unit-0.003",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.003",
+      "status": "paid",
+      "event_id": "CN:SZSE:159119:fund_distribution:2026:eastmoney-b6b7d6c5c969"
+    },
+    {
+      "asset_id": "CN:SZSE:159209",
+      "asset_code": "159209",
+      "asset_name": "红利质量ETF招商",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-14",
+      "ex_date": "2026-09-15",
+      "pay_date": "2026-09-17",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159209.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159209:2026-09-14:2026-09-15:2026-09-17:per_unit-0.003",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.003",
+      "status": "paid",
+      "event_id": "CN:SZSE:159209:fund_distribution:2026:eastmoney-cc94a64ebebe"
+    },
+    {
+      "asset_id": "CN:SZSE:159307",
+      "asset_code": "159307",
+      "asset_name": "红利低波100ETF博时",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-11",
+      "ex_date": "2026-09-14",
+      "pay_date": "2026-09-16",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159307.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159307:2026-09-11:2026-09-14:2026-09-16:per_unit-0.011",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.011",
+      "status": "paid",
+      "event_id": "CN:SZSE:159307:fund_distribution:2026:eastmoney-1423b7e6515b"
+    },
+    {
+      "asset_id": "CN:SZSE:159331",
+      "asset_code": "159331",
+      "asset_name": "红利港股ETF国泰",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-03",
+      "ex_date": "2026-09-04",
+      "pay_date": "2026-09-08",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159331.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159331:2026-09-03:2026-09-04:2026-09-08:per_unit-0.0033",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0033",
+      "status": "paid",
+      "event_id": "CN:SZSE:159331:fund_distribution:2026:eastmoney-5defd6303d8c"
+    },
+    {
+      "asset_id": "CN:SZSE:159333",
+      "asset_code": "159333",
+      "asset_name": "港股央企红利ETF万家",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-14",
+      "ex_date": "2026-09-15",
+      "pay_date": "2026-09-17",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159333.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159333:2026-09-14:2026-09-15:2026-09-17:per_unit-0.004",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.004",
+      "status": "paid",
+      "event_id": "CN:SZSE:159333:fund_distribution:2026:eastmoney-7f67af080639"
+    },
+    {
+      "asset_id": "CN:SZSE:159399",
+      "asset_code": "159399",
+      "asset_name": "现金流ETF国泰",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-15",
+      "ex_date": "2026-09-16",
+      "pay_date": "2026-09-18",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159399.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159399:2026-09-15:2026-09-16:2026-09-18:per_unit-0.003",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.003",
+      "status": "paid",
+      "event_id": "CN:SZSE:159399:fund_distribution:2026:eastmoney-1ea1c4ea5fe2"
+    },
+    {
+      "asset_id": "CN:SZSE:159547",
+      "asset_code": "159547",
+      "asset_name": "红利低波ETF华夏",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-11",
+      "ex_date": "2026-09-14",
+      "pay_date": "2026-09-16",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159547.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159547:2026-09-11:2026-09-14:2026-09-16:per_unit-0.012",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.012",
+      "status": "paid",
+      "event_id": "CN:SZSE:159547:fund_distribution:2026:eastmoney-d49275c76a6f"
+    },
+    {
+      "asset_id": "CN:SZSE:159581",
+      "asset_code": "159581",
+      "asset_name": "红利ETF万家",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-14",
+      "ex_date": "2026-09-15",
+      "pay_date": "2026-09-17",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159581.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159581:2026-09-14:2026-09-15:2026-09-17:per_unit-0.004",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.004",
+      "status": "paid",
+      "event_id": "CN:SZSE:159581:fund_distribution:2026:eastmoney-1d2c4eef9487"
+    },
+    {
+      "asset_id": "CN:SZSE:159589",
+      "asset_code": "159589",
+      "asset_name": "红利ETF广发",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-11",
+      "ex_date": "2026-09-14",
+      "pay_date": "2026-09-16",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159589.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:159589:2026-09-11:2026-09-14:2026-09-16:per_unit-0.0023",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0023",
+      "status": "paid",
+      "event_id": "CN:SZSE:159589:fund_distribution:2026:eastmoney-ece57fe7e4f4"
+    },
+    {
+      "asset_id": "CN:SSE:510720",
+      "asset_code": "510720",
+      "asset_name": "红利国企ETF国泰",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-14",
+      "ex_date": "2026-09-15",
+      "pay_date": "2026-09-18",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_510720.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:510720:2026-09-14:2026-09-15:2026-09-18:per_unit-0.0032",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0032",
+      "status": "paid",
+      "event_id": "CN:SSE:510720:fund_distribution:2026:eastmoney-cf8880f491b6"
+    },
+    {
+      "asset_id": "CN:SSE:512400",
+      "asset_code": "512400",
+      "asset_name": "有色金属ETF南方",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-08",
+      "ex_date": "2026-09-09",
+      "pay_date": "2026-09-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_512400.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:512400:2026-09-08:2026-09-09:2026-09-14:per_unit-0.08",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.08",
+      "status": "paid",
+      "event_id": "CN:SSE:512400:fund_distribution:2026:eastmoney-8735905105c2"
+    },
+    {
+      "asset_id": "CN:SSE:513630",
+      "asset_code": "513630",
+      "asset_name": "港股低波红利ETF摩根",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-17",
+      "ex_date": "2026-09-18",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513630.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:513630:2026-09-17:2026-09-18:2026-09-28:per_unit-0.002",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.002",
+      "status": "scheduled",
+      "event_id": "CN:SSE:513630:fund_distribution:2026:eastmoney-de7eeb5bdd9b"
+    },
+    {
+      "asset_id": "CN:SSE:513820",
+      "asset_code": "513820",
+      "asset_name": "港股通红利ETF汇添富",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-22",
+      "ex_date": "2026-09-23",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_513820.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:513820:2026-09-22:2026-09-23:2026-09-29:per_unit-0.004",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.004",
+      "status": "scheduled",
+      "event_id": "CN:SSE:513820:fund_distribution:2026:eastmoney-767e96ef91c6"
+    },
+    {
+      "asset_id": "CN:SSE:515080",
+      "asset_code": "515080",
+      "asset_name": "中证红利ETF招商",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-15",
+      "ex_date": "2026-09-16",
+      "pay_date": "2026-09-21",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515080.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:515080:2026-09-15:2026-09-16:2026-09-21:per_unit-0.015",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.015",
+      "status": "scheduled",
+      "event_id": "CN:SSE:515080:fund_distribution:2026:eastmoney-76322b3e90a7"
+    },
+    {
+      "asset_id": "CN:SSE:515450",
+      "asset_code": "515450",
+      "asset_name": "红利低波50ETF南方",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-08",
+      "ex_date": "2026-09-09",
+      "pay_date": "2026-09-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_515450.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:515450:2026-09-08:2026-09-09:2026-09-14:per_unit-0.015",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.015",
+      "status": "paid",
+      "event_id": "CN:SSE:515450:fund_distribution:2026:eastmoney-123b2561cd9e"
+    },
+    {
+      "asset_id": "CN:SSE:520550",
+      "asset_code": "520550",
+      "asset_name": "港股红利低波ETF招商",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-14",
+      "ex_date": "2026-09-15",
+      "pay_date": "2026-09-18",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_520550.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:520550:2026-09-14:2026-09-15:2026-09-18:per_unit-0.004",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.004",
+      "status": "paid",
+      "event_id": "CN:SSE:520550:fund_distribution:2026:eastmoney-f8ae38b7d110"
+    },
+    {
+      "asset_id": "CN:SSE:520810",
+      "asset_code": "520810",
+      "asset_name": "港股通红利ETF易方达",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-10",
+      "ex_date": "2026-09-11",
+      "pay_date": "2026-09-16",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_520810.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:520810:2026-09-10:2026-09-11:2026-09-16:per_unit-0.003",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.003",
+      "status": "paid",
+      "event_id": "CN:SSE:520810:fund_distribution:2026:eastmoney-af6ea0d8cb40"
+    },
+    {
+      "asset_id": "CN:SSE:530880",
+      "asset_code": "530880",
+      "asset_name": "红利国企ETF银河",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-08",
+      "ex_date": "2026-09-09",
+      "pay_date": "2026-09-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_530880.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:530880:2026-09-08:2026-09-09:2026-09-14:per_unit-0.003",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.003",
+      "status": "paid",
+      "event_id": "CN:SSE:530880:fund_distribution:2026:eastmoney-03c3743cac66"
+    },
+    {
+      "asset_id": "CN:SSE:560570",
+      "asset_code": "560570",
+      "asset_name": "A500红利ETF国联安",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-17",
+      "ex_date": "2026-09-18",
+      "pay_date": "2026-09-23",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560570.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:560570:2026-09-17:2026-09-18:2026-09-23:per_unit-0.005",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.005",
+      "status": "scheduled",
+      "event_id": "CN:SSE:560570:fund_distribution:2026:eastmoney-e858781bdcff"
+    },
+    {
+      "asset_id": "CN:SSE:560720",
+      "asset_code": "560720",
+      "asset_name": "红利低波100ETF工银",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-22",
+      "ex_date": "2026-09-23",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_560720.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:560720:2026-09-22:2026-09-23:2026-09-29:per_unit-0.01",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.01",
+      "status": "scheduled",
+      "event_id": "CN:SSE:560720:fund_distribution:2026:eastmoney-8c0870dbe61f"
+    },
+    {
+      "asset_id": "CN:SSE:561230",
+      "asset_code": "561230",
+      "asset_name": "中证A50ETF工银",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-22",
+      "ex_date": "2026-09-23",
+      "pay_date": "2026-09-29",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561230.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:561230:2026-09-22:2026-09-23:2026-09-29:per_unit-0.0066",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0066",
+      "status": "scheduled",
+      "event_id": "CN:SSE:561230:fund_distribution:2026:eastmoney-882495c811be"
+    },
+    {
+      "asset_id": "CN:SSE:561580",
+      "asset_code": "561580",
+      "asset_name": "央企红利ETF华泰柏瑞",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-11",
+      "ex_date": "2026-09-14",
+      "pay_date": "2026-09-17",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561580.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:561580:2026-09-11:2026-09-14:2026-09-17:per_unit-0.005",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.005",
+      "status": "paid",
+      "event_id": "CN:SSE:561580:fund_distribution:2026:eastmoney-deb3f742735c"
+    },
+    {
+      "asset_id": "CN:SSE:561870",
+      "asset_code": "561870",
+      "asset_name": "现金流全指ETF华富",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-21",
+      "ex_date": "2026-09-22",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561870.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:561870:2026-09-21:2026-09-22:2026-09-28:per_unit-0.0095",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0095",
+      "status": "scheduled",
+      "event_id": "CN:SSE:561870:fund_distribution:2026:eastmoney-9a0798b220ea"
+    },
+    {
+      "asset_id": "CN:SSE:561880",
+      "asset_code": "561880",
+      "asset_name": "A100ETF华富",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-21",
+      "ex_date": "2026-09-22",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_561880.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:561880:2026-09-21:2026-09-22:2026-09-28:per_unit-0.0065",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0065",
+      "status": "scheduled",
+      "event_id": "CN:SSE:561880:fund_distribution:2026:eastmoney-e76b46de77b3"
+    },
+    {
+      "asset_id": "CN:SSE:563020",
+      "asset_code": "563020",
+      "asset_name": "红利低波ETF易方达",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-10",
+      "ex_date": "2026-09-11",
+      "pay_date": "2026-09-16",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_563020.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:563020:2026-09-10:2026-09-11:2026-09-16:per_unit-0.012",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.012",
+      "status": "paid",
+      "event_id": "CN:SSE:563020:fund_distribution:2026:eastmoney-dbfab5f412a4"
+    },
+    {
+      "asset_id": "CN:SSE:563980",
+      "asset_code": "563980",
+      "asset_name": "800红利低波ETF鑫元",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-09-21",
+      "ex_date": "2026-09-22",
+      "pay_date": "2026-09-28",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_563980.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-09-18T15:09:15Z",
+      "source_event_reference": "eastmoney:563980:2026-09-21:2026-09-22:2026-09-28:per_unit-0.003",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.003",
+      "status": "scheduled",
+      "event_id": "CN:SSE:563980:fund_distribution:2026:eastmoney-b21843646fdc"
     }
   ]
 }

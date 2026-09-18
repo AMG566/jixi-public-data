@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-18T04:01:31Z",
+  "generated_at": "2026-09-18T15:09:16Z",
   "snapshot": {
-    "data_version": "2026.09.18.1",
+    "data_version": "2026.09.18.3",
     "resources": {
       "assets-all": {
         "sha256": "1ad0f4169b4b07b4a098c454f93ab8275c08abb62e764295045ed17508b5106c",
@@ -129,8 +129,8 @@
         "record_count": 5122
       },
       "events-2026": {
-        "sha256": "06d14c60b582612c8805302ecc188f1b646476aea385fd554ae90c434896d869",
-        "record_count": 4438
+        "sha256": "ce3d5ffad48ca989e3f4a898406e6b1376d9080063c40b5ceaade9c4e9e17996",
+        "record_count": 4478
       }
     }
   },
@@ -138,7 +138,7 @@
     "resource_count": 32,
     "all_resource_hashes_match": true,
     "all_resource_counts_match": true,
-    "event_count": 14631,
+    "event_count": 14671,
     "asset_count": 7144,
     "event_ids_unique": true,
     "invalid_asset_reference_count": 0,
@@ -8775,8 +8775,8 @@
           "name": "金禾实业",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 15,
-          "published_event_count": 3,
+          "source_complete_record_count": 16,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -12889,8 +12889,8 @@
           "name": "华伍股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 14,
-          "published_event_count": 2,
+          "source_complete_record_count": 15,
+          "published_event_count": 3,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -21480,8 +21480,8 @@
           "name": "华研精机",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 7,
-          "published_event_count": 3,
+          "source_complete_record_count": 8,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -21810,8 +21810,8 @@
           "name": "标榜股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 7,
-          "published_event_count": 5,
+          "source_complete_record_count": 8,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -28300,8 +28300,8 @@
           "name": "厦门钨业",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 25,
-          "published_event_count": 4,
+          "source_complete_record_count": 26,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -29224,8 +29224,8 @@
           "name": "东百集团",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 19,
-          "published_event_count": 5,
+          "source_complete_record_count": 20,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -30720,8 +30720,8 @@
           "name": "杭州银行",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 5,
+          "source_complete_record_count": 13,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -33668,8 +33668,8 @@
           "name": "千禾味业",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 13,
-          "published_event_count": 4,
+          "source_complete_record_count": 14,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -36627,8 +36627,8 @@
           "name": "通达电气",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 7,
-          "published_event_count": 5,
+          "source_complete_record_count": 8,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -37727,8 +37727,8 @@
           "name": "恒林股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 2,
+          "source_complete_record_count": 9,
+          "published_event_count": 3,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -39630,8 +39630,8 @@
           "name": "杭州热电",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 7,
-          "published_event_count": 4,
+          "source_complete_record_count": 8,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -42776,8 +42776,8 @@
           "name": "高铁电气",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 7,
-          "published_event_count": 5,
+          "source_complete_record_count": 8,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -45427,8 +45427,8 @@
           "name": "达梦数据",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 5,
-          "published_event_count": 4,
+          "source_complete_record_count": 6,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -46010,8 +46010,8 @@
           "name": "安徽凤凰",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 14,
-          "published_event_count": 5,
+          "source_complete_record_count": 15,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -49212,7 +49212,7 @@
     },
     "etf_events": {
       "source": "Eastmoney fund distribution history",
-      "asset_count": 110,
+      "asset_count": 111,
       "results": [
         {
           "code": "159118",
@@ -49229,8 +49229,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 8,
-          "published_event_count": 7,
-          "matched_count": 7,
+          "published_event_count": 8,
+          "matched_count": 8,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49249,8 +49249,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 15,
-          "published_event_count": 14,
-          "matched_count": 14,
+          "published_event_count": 15,
+          "matched_count": 15,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49299,8 +49299,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 9,
-          "published_event_count": 8,
-          "matched_count": 8,
+          "published_event_count": 9,
+          "matched_count": 9,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49309,8 +49309,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 25,
-          "published_event_count": 24,
-          "matched_count": 24,
+          "published_event_count": 25,
+          "matched_count": 25,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49329,8 +49329,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 14,
-          "published_event_count": 13,
-          "matched_count": 13,
+          "published_event_count": 14,
+          "matched_count": 14,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49419,8 +49419,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 19,
-          "published_event_count": 18,
-          "matched_count": 18,
+          "published_event_count": 19,
+          "matched_count": 19,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49439,8 +49439,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 3,
-          "published_event_count": 2,
-          "matched_count": 2,
+          "published_event_count": 3,
+          "matched_count": 3,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49469,8 +49469,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 29,
-          "published_event_count": 28,
-          "matched_count": 28,
+          "published_event_count": 29,
+          "matched_count": 29,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49479,8 +49479,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 27,
-          "published_event_count": 26,
-          "matched_count": 26,
+          "published_event_count": 27,
+          "matched_count": 27,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49689,8 +49689,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 29,
-          "published_event_count": 28,
-          "matched_count": 28,
+          "published_event_count": 29,
+          "matched_count": 29,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49759,8 +49759,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 3,
-          "published_event_count": 2,
-          "matched_count": 2,
+          "published_event_count": 3,
+          "matched_count": 3,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49809,8 +49809,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 10,
-          "published_event_count": 9,
-          "matched_count": 9,
+          "published_event_count": 10,
+          "matched_count": 10,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49829,8 +49829,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 27,
-          "published_event_count": 26,
-          "matched_count": 26,
+          "published_event_count": 27,
+          "matched_count": 27,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49849,8 +49849,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 18,
-          "published_event_count": 10,
-          "matched_count": 10,
+          "published_event_count": 11,
+          "matched_count": 11,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49909,8 +49909,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 9,
-          "published_event_count": 5,
-          "matched_count": 5,
+          "published_event_count": 6,
+          "matched_count": 6,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49939,8 +49939,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 17,
-          "published_event_count": 16,
-          "matched_count": 16,
+          "published_event_count": 17,
+          "matched_count": 17,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -49959,8 +49959,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 8,
-          "published_event_count": 7,
-          "matched_count": 7,
+          "published_event_count": 8,
+          "matched_count": 8,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50019,8 +50019,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 16,
-          "published_event_count": 15,
-          "matched_count": 15,
+          "published_event_count": 16,
+          "matched_count": 16,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50119,8 +50119,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 4,
-          "published_event_count": 3,
-          "matched_count": 3,
+          "published_event_count": 4,
+          "matched_count": 4,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50145,6 +50145,16 @@
           "unmatched_event_ids": []
         },
         {
+          "code": "560720",
+          "outcome": "matched",
+          "passed": true,
+          "source_row_count": 1,
+          "published_event_count": 1,
+          "matched_count": 1,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
           "code": "561060",
           "outcome": "matched",
           "passed": true,
@@ -50159,8 +50169,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 11,
-          "published_event_count": 10,
-          "matched_count": 10,
+          "published_event_count": 11,
+          "matched_count": 11,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50169,8 +50179,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 17,
-          "published_event_count": 16,
-          "matched_count": 16,
+          "published_event_count": 17,
+          "matched_count": 17,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50179,8 +50189,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 4,
-          "published_event_count": 3,
-          "matched_count": 3,
+          "published_event_count": 4,
+          "matched_count": 4,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50189,8 +50199,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 6,
-          "published_event_count": 5,
-          "matched_count": 5,
+          "published_event_count": 6,
+          "matched_count": 6,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50229,8 +50239,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 10,
-          "published_event_count": 9,
-          "matched_count": 9,
+          "published_event_count": 10,
+          "matched_count": 10,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
@@ -50289,8 +50299,8 @@
           "outcome": "matched",
           "passed": true,
           "source_row_count": 4,
-          "published_event_count": 3,
-          "matched_count": 3,
+          "published_event_count": 4,
+          "matched_count": 4,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },
