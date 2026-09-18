@@ -1,0 +1,95 @@
+name: Dividend data update
+
+# 自动数据管道：A 股分红回填 → 全量门禁 → 通过后自动发布。
+# 脚本来自私有主仓库 AMG566/Jixi 的 data-tools/（只读 PAT 拉取，单一数据源）。
+# 安全设计：门禁不通过则退出非零、不推送；无新事件则不产生空版本提交。
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_full_gate:
+        description: "即使没有新事件也跑完整门禁（日常再复核，不发布）"
+        type: boolean
+        default: false
+  schedule:
+    # 每周二、六 16:00（北京时间）= 08:00 UTC；避开每日 v1 bot 的 00:39 UTC 发布
+    - cron: "0 8 * * 2,6"
+
+# 同一时间只允许一个数据更新任务，避免重叠抓取与推送冲突
+concurrency:
+  group: dividend-data-update
+  cancel-in-progress: false
+
+# GITHUB_TOKEN 需要写权限才能推回本仓库（公开仓库 Actions 免费且不限时长）
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - name: Checkout public data repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout app repo for data-tools scripts
+        uses: actions/checkout@v4
+        with:
+          repository: AMG566/Jixi
+          path: app-repo
+          token: ${{ secrets.JIXI_APP_REPO_PAT }}
+
+      - name: Stage scripts next to data snapshot
+        run: |
+          mkdir -p data-tools
+          cp app-repo/data-tools/backfill_recent_dividends.py data-tools/
+          cp app-repo/data-tools/cross_validate_published_data.py data-tools/
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Backfill recent stock dividends (apply, draft)
+        run: python3 data-tools/backfill_recent_dividends.py --apply
+
+      - name: Detect new events
+        id: new_events
+        run: |
+          if git diff --quiet -- data/events/; then
+            echo "new=false" >> "$GITHUB_OUTPUT"
+            echo "ℹ️ 无新分红事件"
+          else
+            echo "new=true" >> "$GITHUB_OUTPUT"
+            echo "🆕 检测到新分红事件"
+          fi
+
+      - name: Cross-validate and release gate
+        if: steps.new_events.outputs.new == 'true' || inputs.force_full_gate == true
+        run: python3 data-tools/cross_validate_published_data.py
+
+      - name: Commit and publish
+        if: steps.new_events.outputs.new == 'true'
+        run: |
+          git config user.name "jixi-data-pipeline"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events docs/manifest/v2.json docs/audit/latest.json
+          VERSION=$(python3 -c "import json;print(json.load(open('docs/manifest/v2.json'))['data_version'])")
+          git commit -m "data: ${VERSION} - auto stock dividend update (backfill + gate)"
+          # 运行期间可能有其他提交（如 v1 bot），rebase 后再推
+          git pull --rebase origin main
+          git push origin main
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ "${{ steps.new_events.outputs.new }}" = "true" ]; then
+            echo "✅ 新事件已通过门禁并发布（如上一步成功）"
+          else
+            echo "ℹ️ 本轮无新事件，未发布新版本"
+          fi
