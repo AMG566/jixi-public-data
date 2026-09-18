@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "data_version": "2026.09.08.1",
-  "generated_at": "2026-09-08T13:20:39Z",
+  "data_version": "2026.09.18.1",
+  "generated_at": "2026-09-18T03:28:42Z",
   "minimum_app_version": "1.0.0",
   "recommended_refresh_after_hours": 12,
   "release_ready": true,
@@ -448,9 +448,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2024.json",
-      "sha256": "5146304f37bad08fd793d7b06666bf560ef3cc607f4f88bb16235428ee221f39",
-      "record_count": 122,
-      "generated_at": "2026-09-08T13:20:39Z"
+      "sha256": "5d9844adb5e7a74cd622990d7751c1755afd6024f949d58cd27ea3503623ba3d",
+      "record_count": 4828,
+      "generated_at": "2026-09-18T03:28:42Z"
     },
     {
       "resource_id": "events-2025",
@@ -463,9 +463,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2025.json",
-      "sha256": "c431ca774512d4f0a209fa4b51684f0e3aede1f0eb056c0d98551eada9aa0eac",
-      "record_count": 298,
-      "generated_at": "2026-09-08T13:20:39Z"
+      "sha256": "f05c434fdb74a1ed60d25c32c529abb5c9ae84f657cc5ca2868fd5a2f7cf59ac",
+      "record_count": 5122,
+      "generated_at": "2026-09-18T03:28:42Z"
     },
     {
       "resource_id": "events-2026",
@@ -478,9 +478,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2026.json",
-      "sha256": "198d086d9edeae8277e5e032cf6a985149f5a2f638f68cb418d7e87e5d6ae7ca",
-      "record_count": 242,
-      "generated_at": "2026-09-08T13:20:39Z"
+      "sha256": "06d14c60b582612c8805302ecc188f1b646476aea385fd554ae90c434896d869",
+      "record_count": 4438,
+      "generated_at": "2026-09-18T03:28:42Z"
     },
     {
       "resource_id": "audit-report",
@@ -525,9 +525,9 @@
       "fallback_urls": [
         "https://cdn.jsdelivr.net/gh/AMG566/jixi-public-data@main/docs/audit/latest.json"
       ],
-      "sha256": "229aa5e1b91904dd5147ea2a70905e15582757cd4a4e1d3e6a1aecace1e1a849",
+      "sha256": "c0f4af728963e2926a30b2c985d208a8785daa2bca76840164cce0f44184ca29",
       "record_count": 1,
-      "generated_at": "2026-09-08T13:23:43Z"
+      "generated_at": "2026-09-18T04:01:31Z"
     }
   ],
   "audit_required": true
