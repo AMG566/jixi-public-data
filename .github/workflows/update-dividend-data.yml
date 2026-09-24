@@ -98,6 +98,21 @@ jobs:
       - name: Cross-validate and release gate
         if: steps.new_events.outputs.new == 'true' || inputs.force_full_gate == true
         run: python3 data-tools/cross_validate_published_data.py
+      - name: Cross-validate and release gate
+        if: steps.new_events.outputs.new == 'true' || inputs.force_full_gate == true
+        run: python3 data-tools/cross_validate_published_data.py
+
+      # 门禁报告留档：失败时无需翻 2 小时日志，直接下载 JSON 看未通过资产与原因。
+      - name: Upload gate report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cross-validation-report
+          path: data-tools/cross_validation_report.json
+          if-no-files-found: ignore
+
+      - name: Commit and publish
+        if: steps.new_events.outputs.new == 'true'
 
       - name: Commit and publish
         if: steps.new_events.outputs.new == 'true'
