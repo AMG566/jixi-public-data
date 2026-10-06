@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-24T06:19:09Z",
+  "generated_at": "2026-10-06T14:47:06Z",
   "snapshot": {
-    "data_version": "2026.09.24.2",
+    "data_version": "2026.10.06.2",
     "resources": {
       "assets-all": {
         "sha256": "1ad0f4169b4b07b4a098c454f93ab8275c08abb62e764295045ed17508b5106c",
@@ -129,8 +129,8 @@
         "record_count": 5122
       },
       "events-2026": {
-        "sha256": "d99caa83344945fc53df448ba669ee09b013ff37ea0751b96884b78204e6de15",
-        "record_count": 4561
+        "sha256": "bd0f2e05a29fdf6efab9294535e82b68c85478d0e75bd4eff69efc1143be1606",
+        "record_count": 4623
       }
     }
   },
@@ -138,7 +138,7 @@
     "resource_count": 32,
     "all_resource_hashes_match": true,
     "all_resource_counts_match": true,
-    "event_count": 14754,
+    "event_count": 14816,
     "asset_count": 7144,
     "event_ids_unique": true,
     "invalid_asset_reference_count": 0,
@@ -153,8 +153,8 @@
   "cross_validation": {
     "stock_events": {
       "source": "Eastmoney datacenter RPT_SHAREBONUS_DET per-code query (same-source re-validation; NOT an independent vendor cross-check)",
-      "asset_count": 4465,
-      "field_matched_asset_count": 4450,
+      "asset_count": 4468,
+      "field_matched_asset_count": 4453,
       "grandfathered_asset_count": 15,
       "results": [
         {
@@ -701,8 +701,8 @@
           "name": "胜利股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 17,
-          "published_event_count": 4,
+          "source_complete_record_count": 18,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -767,8 +767,8 @@
           "name": "湖北宜化",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 23,
-          "published_event_count": 3,
+          "source_complete_record_count": 24,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -866,8 +866,8 @@
           "name": "丽珠集团",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 28,
-          "published_event_count": 3,
+          "source_complete_record_count": 29,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -1240,8 +1240,8 @@
           "name": "威孚高科",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 30,
-          "published_event_count": 5,
+          "source_complete_record_count": 31,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -1559,8 +1559,8 @@
           "name": "山推股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 20,
-          "published_event_count": 5,
+          "source_complete_record_count": 21,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -1977,8 +1977,8 @@
           "name": "广发证券",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 21,
-          "published_event_count": 5,
+          "source_complete_record_count": 22,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -2098,8 +2098,8 @@
           "name": "英洛华",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 4,
+          "source_complete_record_count": 9,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -2285,8 +2285,8 @@
           "name": "鲁西化工",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 19,
-          "published_event_count": 3,
+          "source_complete_record_count": 20,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -3825,8 +3825,8 @@
           "name": "德明利",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 4,
-          "published_event_count": 3,
+          "source_complete_record_count": 5,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -4848,8 +4848,8 @@
           "name": "横店东磁",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 20,
-          "published_event_count": 4,
+          "source_complete_record_count": 21,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -6520,8 +6520,8 @@
           "name": "保龄宝",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 17,
-          "published_event_count": 4,
+          "source_complete_record_count": 18,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -6685,8 +6685,8 @@
           "name": "川发龙蟒",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 11,
-          "published_event_count": 3,
+          "source_complete_record_count": 12,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -7048,8 +7048,8 @@
           "name": "隆基机械",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 18,
-          "published_event_count": 4,
+          "source_complete_record_count": 19,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -7895,8 +7895,8 @@
           "name": "双环传动",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 18,
-          "published_event_count": 4,
+          "source_complete_record_count": 19,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -8104,8 +8104,8 @@
           "name": "老板电器",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 18,
-          "published_event_count": 5,
+          "source_complete_record_count": 19,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -8324,8 +8324,8 @@
           "name": "亚太科技",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 21,
-          "published_event_count": 5,
+          "source_complete_record_count": 22,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -10018,8 +10018,8 @@
           "name": "众兴菌业",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 4,
+          "source_complete_record_count": 13,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -13714,8 +13714,8 @@
           "name": "上海钢联",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 3,
+          "source_complete_record_count": 13,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -14231,8 +14231,8 @@
           "name": "中际旭创",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 17,
-          "published_event_count": 4,
+          "source_complete_record_count": 18,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -15309,8 +15309,8 @@
           "name": "中密控股",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 16,
-          "published_event_count": 5,
+          "source_complete_record_count": 17,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -16035,8 +16035,8 @@
           "name": "乐心医疗",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 5,
+          "source_complete_record_count": 13,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -16189,8 +16189,8 @@
           "name": "贝斯特",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 5,
+          "source_complete_record_count": 13,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -16288,8 +16288,8 @@
           "name": "移为通信",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 10,
-          "published_event_count": 3,
+          "source_complete_record_count": 11,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -17729,8 +17729,8 @@
           "name": "金力永磁",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 10,
-          "published_event_count": 5,
+          "source_complete_record_count": 11,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -18719,8 +18719,8 @@
           "name": "图南股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 5,
+          "source_complete_record_count": 9,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -19643,8 +19643,8 @@
           "name": "恒辉安防",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 4,
+          "source_complete_record_count": 9,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -20424,8 +20424,8 @@
           "name": "鼎熔岩",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 5,
+          "source_complete_record_count": 9,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -20457,8 +20457,8 @@
           "name": "中熔电气",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 7,
-          "published_event_count": 5,
+          "source_complete_record_count": 8,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -25143,8 +25143,8 @@
           "name": "上港集团",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 27,
-          "published_event_count": 5,
+          "source_complete_record_count": 28,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -25748,8 +25748,8 @@
           "name": "永鼎股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 23,
-          "published_event_count": 4,
+          "source_complete_record_count": 24,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -25869,8 +25869,8 @@
           "name": "铁龙物流",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 26,
-          "published_event_count": 4,
+          "source_complete_record_count": 27,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -26397,8 +26397,8 @@
           "name": "南山铝业",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 27,
-          "published_event_count": 6,
+          "source_complete_record_count": 28,
+          "published_event_count": 7,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -26936,8 +26936,8 @@
           "name": "振华重工",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 17,
-          "published_event_count": 4,
+          "source_complete_record_count": 18,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -26947,8 +26947,8 @@
           "name": "瀚蓝环境",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 27,
-          "published_event_count": 4,
+          "source_complete_record_count": 28,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -27244,8 +27244,8 @@
           "name": "西南证券",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 22,
-          "published_event_count": 7,
+          "source_complete_record_count": 23,
+          "published_event_count": 8,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -27387,8 +27387,8 @@
           "name": "五矿资本",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 18,
-          "published_event_count": 4,
+          "source_complete_record_count": 19,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -28707,8 +28707,8 @@
           "name": "金杯汽车",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 4,
-          "published_event_count": 1,
+          "source_complete_record_count": 5,
+          "published_event_count": 2,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -28729,8 +28729,8 @@
           "name": "老凤祥",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 28,
-          "published_event_count": 4,
+          "source_complete_record_count": 29,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -31193,8 +31193,8 @@
           "name": "晋亿实业",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 11,
-          "published_event_count": 3,
+          "source_complete_record_count": 12,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -31303,8 +31303,8 @@
           "name": "山东出版",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 10,
-          "published_event_count": 4,
+          "source_complete_record_count": 11,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -32205,8 +32205,8 @@
           "name": "兴业证券",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 19,
-          "published_event_count": 5,
+          "source_complete_record_count": 20,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -33602,8 +33602,8 @@
           "name": "中衡设计",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 3,
+          "source_complete_record_count": 13,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -33954,8 +33954,8 @@
           "name": "倍加洁",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 3,
+          "source_complete_record_count": 9,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -34526,8 +34526,8 @@
           "name": "肯特催化",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 1,
-          "published_event_count": 1,
+          "source_complete_record_count": 2,
+          "published_event_count": 2,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -35186,8 +35186,8 @@
           "name": "快克智能",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 10,
-          "published_event_count": 3,
+          "source_complete_record_count": 11,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -35945,8 +35945,8 @@
           "name": "得邦照明",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 11,
-          "published_event_count": 4,
+          "source_complete_record_count": 12,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -35978,8 +35978,8 @@
           "name": "扬州金泉",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 6,
-          "published_event_count": 5,
+          "source_complete_record_count": 7,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -37826,8 +37826,8 @@
           "name": "火炬电子",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 14,
-          "published_event_count": 5,
+          "source_complete_record_count": 15,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -38068,8 +38068,8 @@
           "name": "家家悦",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 11,
-          "published_event_count": 5,
+          "source_complete_record_count": 12,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -38497,8 +38497,8 @@
           "name": "福斯特",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 12,
-          "published_event_count": 3,
+          "source_complete_record_count": 13,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -38761,8 +38761,8 @@
           "name": "白云电器",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 11,
-          "published_event_count": 4,
+          "source_complete_record_count": 12,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -39069,8 +39069,8 @@
           "name": "国茂股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 9,
-          "published_event_count": 5,
+          "source_complete_record_count": 10,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -39113,8 +39113,8 @@
           "name": "金徽酒",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 11,
-          "published_event_count": 4,
+          "source_complete_record_count": 12,
+          "published_event_count": 5,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -39839,8 +39839,8 @@
           "name": "九丰能源",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 9,
-          "published_event_count": 5,
+          "source_complete_record_count": 10,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -39916,8 +39916,8 @@
           "name": "德业股份",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 5,
+          "source_complete_record_count": 9,
+          "published_event_count": 6,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -41247,8 +41247,8 @@
           "name": "拓荆科技",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 5,
-          "published_event_count": 3,
+          "source_complete_record_count": 6,
+          "published_event_count": 4,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -41568,6 +41568,17 @@
           "passed": true,
           "source_complete_record_count": 7,
           "published_event_count": 4,
+          "legacy_cninfo_verified_event_count": 0,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "688110",
+          "name": "东芯股份",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 3,
+          "published_event_count": 1,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -41951,8 +41962,8 @@
           "name": "威高骨科",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 8,
-          "published_event_count": 6,
+          "source_complete_record_count": 9,
+          "published_event_count": 7,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -46347,6 +46358,17 @@
           "unmatched_event_ids": []
         },
         {
+          "code": "920038",
+          "name": "森合高科",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 1,
+          "published_event_count": 1,
+          "legacy_cninfo_verified_event_count": 0,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
           "code": "920039",
           "name": "国义招标",
           "outcome": "matched",
@@ -46769,8 +46791,8 @@
           "name": "巴兰仕",
           "outcome": "matched",
           "passed": true,
-          "source_complete_record_count": 2,
-          "published_event_count": 2,
+          "source_complete_record_count": 3,
+          "published_event_count": 3,
           "legacy_cninfo_verified_event_count": 0,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
@@ -46844,6 +46866,17 @@
         {
           "code": "920124",
           "name": "南特科技",
+          "outcome": "matched",
+          "passed": true,
+          "source_complete_record_count": 1,
+          "published_event_count": 1,
+          "legacy_cninfo_verified_event_count": 0,
+          "skipped_incomplete_event_ids": [],
+          "unmatched_event_ids": []
+        },
+        {
+          "code": "920125",
+          "name": "鸿仕达",
           "outcome": "matched",
           "passed": true,
           "source_complete_record_count": 1,
@@ -49555,9 +49588,9 @@
           "code": "159596",
           "outcome": "matched",
           "passed": true,
-          "source_row_count": 2,
-          "published_event_count": 2,
-          "matched_count": 2,
+          "source_row_count": 3,
+          "published_event_count": 3,
+          "matched_count": 3,
           "skipped_incomplete_event_ids": [],
           "unmatched_event_ids": []
         },

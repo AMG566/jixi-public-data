@@ -136560,6 +136560,1865 @@
       "cash_per_unit": "0.0032",
       "status": "scheduled",
       "event_id": "CN:SZSE:159331:fund_distribution:2026:eastmoney-9ada4be11651"
+    },
+    {
+      "asset_id": "CN:SZSE:000407",
+      "asset_code": "000407",
+      "asset_name": "胜利股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000407.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000407:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.015",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000407:equity_dividend:2026:eastmoney-293dcaaf78d5"
+    },
+    {
+      "asset_id": "CN:SZSE:000422",
+      "asset_code": "000422",
+      "asset_name": "湖北宜化",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-08",
+      "ex_date": "2026-10-09",
+      "pay_date": "2026-10-09",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000422.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000422:report-2026-06-30:ex-2026-10-09",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000422:equity_dividend:2026:eastmoney-10cd1abb6c9e"
+    },
+    {
+      "asset_id": "CN:SZSE:000513",
+      "asset_code": "000513",
+      "asset_name": "丽珠集团",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000513.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000513:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "1.02",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000513:equity_dividend:2026:eastmoney-302e362a7c74"
+    },
+    {
+      "asset_id": "CN:SZSE:000581",
+      "asset_code": "000581",
+      "asset_name": "威孚高科",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000581.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000581:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.3",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000581:equity_dividend:2026:eastmoney-c6553af7fa37"
+    },
+    {
+      "asset_id": "CN:SZSE:000680",
+      "asset_code": "000680",
+      "asset_name": "山推股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-08",
+      "ex_date": "2026-10-09",
+      "pay_date": "2026-10-09",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000680.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000680:report-2026-06-30:ex-2026-10-09",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.1",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000680:equity_dividend:2026:eastmoney-9d5321e152b8"
+    },
+    {
+      "asset_id": "CN:SZSE:000776",
+      "asset_code": "000776",
+      "asset_name": "广发证券",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000776.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000776:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.25",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000776:equity_dividend:2026:eastmoney-310f319a540c"
+    },
+    {
+      "asset_id": "CN:SZSE:000795",
+      "asset_code": "000795",
+      "asset_name": "英洛华",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000795.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000795:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.047",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000795:equity_dividend:2026:eastmoney-312106186551"
+    },
+    {
+      "asset_id": "CN:SZSE:000830",
+      "asset_code": "000830",
+      "asset_name": "鲁西化工",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/000830.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:000830:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.1",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:000830:equity_dividend:2026:eastmoney-81446ef771a4"
+    },
+    {
+      "asset_id": "CN:SZSE:001309",
+      "asset_code": "001309",
+      "asset_name": "德明利",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/001309.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:001309:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "1.5",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:001309:equity_dividend:2026:eastmoney-6f0538135dd0"
+    },
+    {
+      "asset_id": "CN:SZSE:002056",
+      "asset_code": "002056",
+      "asset_name": "横店东磁",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002056.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002056:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.2299934",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002056:equity_dividend:2026:eastmoney-c924bd6a4cd8"
+    },
+    {
+      "asset_id": "CN:SZSE:002286",
+      "asset_code": "002286",
+      "asset_name": "保龄宝",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002286.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002286:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.03",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002286:equity_dividend:2026:eastmoney-7eb3eb294a9b"
+    },
+    {
+      "asset_id": "CN:SZSE:002312",
+      "asset_code": "002312",
+      "asset_name": "川发龙蟒",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002312.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002312:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002312:equity_dividend:2026:eastmoney-9e26f124d9b1"
+    },
+    {
+      "asset_id": "CN:SZSE:002363",
+      "asset_code": "002363",
+      "asset_name": "隆基机械",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002363.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002363:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.03",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002363:equity_dividend:2026:eastmoney-67ea8d8c8196"
+    },
+    {
+      "asset_id": "CN:SZSE:002472",
+      "asset_code": "002472",
+      "asset_name": "双环传动",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002472.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002472:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.12",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002472:equity_dividend:2026:eastmoney-311b0078f65b"
+    },
+    {
+      "asset_id": "CN:SZSE:002508",
+      "asset_code": "002508",
+      "asset_name": "老板电器",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002508.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002508:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.5",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002508:equity_dividend:2026:eastmoney-0313adf6365c"
+    },
+    {
+      "asset_id": "CN:SZSE:002540",
+      "asset_code": "002540",
+      "asset_name": "亚太科技",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002540.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002540:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.04",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002540:equity_dividend:2026:eastmoney-b0f87650c7ed"
+    },
+    {
+      "asset_id": "CN:SZSE:002772",
+      "asset_code": "002772",
+      "asset_name": "众兴菌业",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/002772.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:002772:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.15",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:002772:equity_dividend:2026:eastmoney-cf3847dfe12d"
+    },
+    {
+      "asset_id": "CN:SZSE:300226",
+      "asset_code": "300226",
+      "asset_name": "上海钢联",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300226.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300226:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300226:equity_dividend:2026:eastmoney-e77f06ba8006"
+    },
+    {
+      "asset_id": "CN:SZSE:300308",
+      "asset_code": "300308",
+      "asset_name": "中际旭创",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300308.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300308:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "1.2",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300308:equity_dividend:2026:eastmoney-c1ce96ce1825"
+    },
+    {
+      "asset_id": "CN:SZSE:300470",
+      "asset_code": "300470",
+      "asset_name": "中密控股",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300470.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300470:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.5",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300470:equity_dividend:2026:eastmoney-131e54826508"
+    },
+    {
+      "asset_id": "CN:SZSE:300562",
+      "asset_code": "300562",
+      "asset_name": "乐心医疗",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300562.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300562:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.13",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300562:equity_dividend:2026:eastmoney-24682f234a5b"
+    },
+    {
+      "asset_id": "CN:SZSE:300580",
+      "asset_code": "300580",
+      "asset_name": "贝斯特",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-10-01",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300580.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300580:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.03",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300580:equity_dividend:2026:eastmoney-d5aa590b5919"
+    },
+    {
+      "asset_id": "CN:SZSE:300590",
+      "asset_code": "300590",
+      "asset_name": "移为通信",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-24",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300590.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300590:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.1",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300590:equity_dividend:2026:eastmoney-0acd0c6f7c11"
+    },
+    {
+      "asset_id": "CN:SZSE:300748",
+      "asset_code": "300748",
+      "asset_name": "金力永磁",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300748.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300748:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.25",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300748:equity_dividend:2026:eastmoney-fb6397e91a3c"
+    },
+    {
+      "asset_id": "CN:SZSE:300855",
+      "asset_code": "300855",
+      "asset_name": "图南股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300855.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300855:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.15",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300855:equity_dividend:2026:eastmoney-c68684206ced"
+    },
+    {
+      "asset_id": "CN:SZSE:300952",
+      "asset_code": "300952",
+      "asset_name": "恒辉安防",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/300952.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:300952:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.06",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:300952:equity_dividend:2026:eastmoney-09cd8c2c40f7"
+    },
+    {
+      "asset_id": "CN:SZSE:301028",
+      "asset_code": "301028",
+      "asset_name": "鼎熔岩",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/301028.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:301028:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.1",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:301028:equity_dividend:2026:eastmoney-a8f7b64a16e9"
+    },
+    {
+      "asset_id": "CN:SZSE:301031",
+      "asset_code": "301031",
+      "asset_name": "中熔电气",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/301031.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:301031:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.047",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:301031:equity_dividend:2026:eastmoney-2c98ed6f4478"
+    },
+    {
+      "asset_id": "CN:SSE:600018",
+      "asset_code": "600018",
+      "asset_name": "上港集团",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600018.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600018:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600018:equity_dividend:2026:eastmoney-78d23c12419c"
+    },
+    {
+      "asset_id": "CN:SSE:600105",
+      "asset_code": "600105",
+      "asset_name": "永鼎股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600105.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600105:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.035",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600105:equity_dividend:2026:eastmoney-d3266741ded0"
+    },
+    {
+      "asset_id": "CN:SSE:600125",
+      "asset_code": "600125",
+      "asset_name": "铁龙物流",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600125.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600125:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600125:equity_dividend:2026:eastmoney-2b96d0742027"
+    },
+    {
+      "asset_id": "CN:SSE:600219",
+      "asset_code": "600219",
+      "asset_name": "南山铝业",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600219.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600219:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.265",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600219:equity_dividend:2026:eastmoney-c09fa9d79ab6"
+    },
+    {
+      "asset_id": "CN:SSE:600320",
+      "asset_code": "600320",
+      "asset_name": "振华重工",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-10-01",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600320.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600320:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.025",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600320:equity_dividend:2026:eastmoney-fd15fd378227"
+    },
+    {
+      "asset_id": "CN:SSE:600323",
+      "asset_code": "600323",
+      "asset_name": "瀚蓝环境",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600323.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600323:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.28",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600323:equity_dividend:2026:eastmoney-6709edd80ab9"
+    },
+    {
+      "asset_id": "CN:SSE:600369",
+      "asset_code": "600369",
+      "asset_name": "西南证券",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600369.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600369:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.02",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600369:equity_dividend:2026:eastmoney-5483e37aff43"
+    },
+    {
+      "asset_id": "CN:SSE:600390",
+      "asset_code": "600390",
+      "asset_name": "五矿资本",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600390.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600390:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.015",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600390:equity_dividend:2026:eastmoney-5b5baea5c9ab"
+    },
+    {
+      "asset_id": "CN:SSE:600609",
+      "asset_code": "600609",
+      "asset_name": "金杯汽车",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600609.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600609:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.01",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600609:equity_dividend:2026:eastmoney-e850b58c9d3c"
+    },
+    {
+      "asset_id": "CN:SSE:600612",
+      "asset_code": "600612",
+      "asset_name": "老凤祥",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/600612.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:600612:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.2",
+      "status": "scheduled",
+      "event_id": "CN:SSE:600612:equity_dividend:2026:eastmoney-71ecb49d3b75"
+    },
+    {
+      "asset_id": "CN:SSE:601002",
+      "asset_code": "601002",
+      "asset_name": "晋亿实业",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/601002.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:601002:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SSE:601002:equity_dividend:2026:eastmoney-87dc9f1bbfa8"
+    },
+    {
+      "asset_id": "CN:SSE:601019",
+      "asset_code": "601019",
+      "asset_name": "山东出版",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/601019.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:601019:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.06",
+      "status": "scheduled",
+      "event_id": "CN:SSE:601019:equity_dividend:2026:eastmoney-f94f5c20bfb5"
+    },
+    {
+      "asset_id": "CN:SSE:601377",
+      "asset_code": "601377",
+      "asset_name": "兴业证券",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/601377.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:601377:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.05",
+      "status": "scheduled",
+      "event_id": "CN:SSE:601377:equity_dividend:2026:eastmoney-30686d8b4357"
+    },
+    {
+      "asset_id": "CN:SSE:603017",
+      "asset_code": "603017",
+      "asset_name": "中衡设计",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603017.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603017:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.2",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603017:equity_dividend:2026:eastmoney-e5e22ebef4cc"
+    },
+    {
+      "asset_id": "CN:SSE:603059",
+      "asset_code": "603059",
+      "asset_name": "倍加洁",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603059.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603059:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.18",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603059:equity_dividend:2026:eastmoney-786ddbe1e251"
+    },
+    {
+      "asset_id": "CN:SSE:603120",
+      "asset_code": "603120",
+      "asset_name": "肯特催化",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603120.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603120:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.4",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603120:equity_dividend:2026:eastmoney-24eb3501bf64"
+    },
+    {
+      "asset_id": "CN:SSE:603203",
+      "asset_code": "603203",
+      "asset_name": "快克智能",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603203.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603203:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.07",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603203:equity_dividend:2026:eastmoney-9b32cb2983a0"
+    },
+    {
+      "asset_id": "CN:SSE:603303",
+      "asset_code": "603303",
+      "asset_name": "得邦照明",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-25",
+      "record_date": "2026-10-08",
+      "ex_date": "2026-10-09",
+      "pay_date": "2026-10-09",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603303.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603303:report-2026-06-30:ex-2026-10-09",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.049",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603303:equity_dividend:2026:eastmoney-05c5ef353692"
+    },
+    {
+      "asset_id": "CN:SSE:603307",
+      "asset_code": "603307",
+      "asset_name": "扬州金泉",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-25",
+      "record_date": "2026-10-08",
+      "ex_date": "2026-10-09",
+      "pay_date": "2026-10-09",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603307.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603307:report-2026-06-30:ex-2026-10-09",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.4",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603307:equity_dividend:2026:eastmoney-cad1d874c79a"
+    },
+    {
+      "asset_id": "CN:SSE:603678",
+      "asset_code": "603678",
+      "asset_name": "火炬电子",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603678.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603678:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.13",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603678:equity_dividend:2026:eastmoney-10a3d0779a65"
+    },
+    {
+      "asset_id": "CN:SSE:603708",
+      "asset_code": "603708",
+      "asset_name": "家家悦",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603708.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603708:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.16",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603708:equity_dividend:2026:eastmoney-a067e6d62b6c"
+    },
+    {
+      "asset_id": "CN:SSE:603806",
+      "asset_code": "603806",
+      "asset_name": "福斯特",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603806.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603806:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.12",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603806:equity_dividend:2026:eastmoney-95ca8da76872"
+    },
+    {
+      "asset_id": "CN:SSE:603861",
+      "asset_code": "603861",
+      "asset_name": "白云电器",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603861.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603861:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.02",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603861:equity_dividend:2026:eastmoney-78359925c257"
+    },
+    {
+      "asset_id": "CN:SSE:603915",
+      "asset_code": "603915",
+      "asset_name": "国茂股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603915.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603915:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.12",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603915:equity_dividend:2026:eastmoney-d56a0f5a3303"
+    },
+    {
+      "asset_id": "CN:SSE:603919",
+      "asset_code": "603919",
+      "asset_name": "金徽酒",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/603919.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:603919:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.2",
+      "status": "scheduled",
+      "event_id": "CN:SSE:603919:equity_dividend:2026:eastmoney-1f0c237b6c3d"
+    },
+    {
+      "asset_id": "CN:SSE:605090",
+      "asset_code": "605090",
+      "asset_name": "九丰能源",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/605090.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:605090:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.2",
+      "status": "scheduled",
+      "event_id": "CN:SSE:605090:equity_dividend:2026:eastmoney-de43ff4daf97"
+    },
+    {
+      "asset_id": "CN:SSE:605117",
+      "asset_code": "605117",
+      "asset_name": "德业股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-13",
+      "ex_date": "2026-10-14",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/605117.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:605117:report-2026-06-30:ex-2026-10-14",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "1.6",
+      "status": "scheduled",
+      "event_id": "CN:SSE:605117:equity_dividend:2026:eastmoney-97d4537de808"
+    },
+    {
+      "asset_id": "CN:SSE:688072",
+      "asset_code": "688072",
+      "asset_name": "拓荆科技",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/688072.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:688072:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.35",
+      "status": "scheduled",
+      "event_id": "CN:SSE:688072:equity_dividend:2026:eastmoney-eb0862a4ad85"
+    },
+    {
+      "asset_id": "CN:SSE:688110",
+      "asset_code": "688110",
+      "asset_name": "东芯股份",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-12",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/688110.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:688110:report-2026-06-30:ex-2026-10-12",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.6",
+      "status": "scheduled",
+      "event_id": "CN:SSE:688110:equity_dividend:2026:eastmoney-272a1bc43abf"
+    },
+    {
+      "asset_id": "CN:SSE:688161",
+      "asset_code": "688161",
+      "asset_name": "威高骨科",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-29",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/688161.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:688161:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.09",
+      "status": "scheduled",
+      "event_id": "CN:SSE:688161:equity_dividend:2026:eastmoney-0d137c2dc5c0"
+    },
+    {
+      "asset_id": "CN:SSE:920038",
+      "asset_code": "920038",
+      "asset_name": "森合高科",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-30",
+      "record_date": "2026-10-14",
+      "ex_date": "2026-10-15",
+      "pay_date": "2026-10-15",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/920038.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:920038:report-2026-06-30:ex-2026-10-15",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.5",
+      "status": "scheduled",
+      "event_id": "CN:SSE:920038:equity_dividend:2026:eastmoney-7f25d46ee620"
+    },
+    {
+      "asset_id": "CN:SSE:920112",
+      "asset_code": "920112",
+      "asset_name": "巴兰仕",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-24",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/920112.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:920112:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.3",
+      "status": "scheduled",
+      "event_id": "CN:SSE:920112:equity_dividend:2026:eastmoney-a97e1f5e51c5"
+    },
+    {
+      "asset_id": "CN:SSE:920125",
+      "asset_code": "920125",
+      "asset_name": "鸿仕达",
+      "asset_category": "stock",
+      "event_type": "equity_dividend",
+      "announcement_date": "2026-09-28",
+      "record_date": "2026-10-12",
+      "ex_date": "2026-10-13",
+      "pay_date": "2026-10-13",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_sharebonus_backfill",
+      "source_urls": [
+        "https://data.eastmoney.com/yjfp/detail/920125.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_sharebonus",
+        "pay_date_approx_ex_date"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:920125:report-2026-06-30:ex-2026-10-13",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.3",
+      "status": "scheduled",
+      "event_id": "CN:SSE:920125:equity_dividend:2026:eastmoney-73fab5b25d54"
+    },
+    {
+      "asset_id": "CN:SZSE:159596",
+      "asset_code": "159596",
+      "asset_name": "A50ETF华宝",
+      "asset_category": "etf",
+      "event_type": "fund_distribution",
+      "announcement_date": null,
+      "record_date": "2026-10-09",
+      "ex_date": "2026-10-12",
+      "pay_date": "2026-10-14",
+      "distribution_currency": "CNY",
+      "source": "eastmoney_fund_distribution_import",
+      "source_urls": [
+        "https://fundf10.eastmoney.com/fhsp_159596.html"
+      ],
+      "quality_flags": [
+        "source_verified",
+        "source_eastmoney_fund_history"
+      ],
+      "revision": 1,
+      "revision_status": "source_verified",
+      "updated_at": "2026-10-06T14:47:05Z",
+      "source_event_reference": "eastmoney:159596:2026-10-09:2026-10-12:2026-10-14:per_unit-0.0196",
+      "supersedes_event_id": null,
+      "event_scope_year": 2026,
+      "cash_per_unit": "0.0196",
+      "status": "scheduled",
+      "event_id": "CN:SZSE:159596:fund_distribution:2026:eastmoney-f5ec23b2fd0c"
     }
   ]
 }

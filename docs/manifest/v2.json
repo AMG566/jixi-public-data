@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "data_version": "2026.09.24.2",
-  "generated_at": "2026-09-24T06:19:09Z",
+  "data_version": "2026.10.06.2",
+  "generated_at": "2026-10-06T14:47:05Z",
   "minimum_app_version": "1.0.0",
   "recommended_refresh_after_hours": 12,
   "release_ready": true,
@@ -478,9 +478,9 @@
         "assets-all"
       ],
       "url": "https://raw.githubusercontent.com/AMG566/jixi-public-data/main/data/events/2026.json",
-      "sha256": "d99caa83344945fc53df448ba669ee09b013ff37ea0751b96884b78204e6de15",
-      "record_count": 4561,
-      "generated_at": "2026-09-24T06:19:09Z"
+      "sha256": "bd0f2e05a29fdf6efab9294535e82b68c85478d0e75bd4eff69efc1143be1606",
+      "record_count": 4623,
+      "generated_at": "2026-10-06T14:47:05Z"
     },
     {
       "resource_id": "audit-report",
@@ -525,9 +525,9 @@
       "fallback_urls": [
         "https://cdn.jsdelivr.net/gh/AMG566/jixi-public-data@main/docs/audit/latest.json"
       ],
-      "sha256": "9efbff5215ec603f90b5f989e269a428fb334a17eee56a83e7f433464041ccee",
+      "sha256": "6648dab327df647fbd764ce51471e6457cb884f4181e966e6cbad566b00fab73",
       "record_count": 1,
-      "generated_at": "2026-09-24T06:19:09Z"
+      "generated_at": "2026-10-06T14:47:06Z"
     }
   ],
   "audit_required": true
