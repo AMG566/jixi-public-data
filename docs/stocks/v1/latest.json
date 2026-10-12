@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:09:14Z",
+  "generated_at": "2026-10-12T01:33:37Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -22001,7 +22001,7 @@
       "code": "600323",
       "exchange": "SSE",
       "market": "A",
-      "name": "瀚蓝环境",
+      "name": "XD瀚蓝环",
       "status": "listed"
     },
     {
@@ -27188,7 +27188,7 @@
       "code": "603006",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD联明股",
+      "name": "联明股份",
       "status": "listed"
     },
     {
@@ -27265,7 +27265,7 @@
       "code": "603017",
       "exchange": "SSE",
       "market": "A",
-      "name": "中衡设计",
+      "name": "XD中衡设",
       "status": "listed"
     },
     {
@@ -28868,7 +28868,7 @@
       "code": "603303",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD得邦照",
+      "name": "得邦照明",
       "status": "listed"
     },
     {
@@ -28889,7 +28889,7 @@
       "code": "603307",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD扬州金",
+      "name": "扬州金泉",
       "status": "listed"
     },
     {
@@ -28924,7 +28924,7 @@
       "code": "603312",
       "exchange": "SSE",
       "market": "A",
-      "name": "西典新能",
+      "name": "XD西典新",
       "status": "listed"
     },
     {
@@ -29092,7 +29092,7 @@
       "code": "603337",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD杰克科",
+      "name": "杰克科技",
       "status": "listed"
     },
     {
@@ -29736,7 +29736,7 @@
       "code": "603551",
       "exchange": "SSE",
       "market": "A",
-      "name": "奥普科技",
+      "name": "XD奥普科",
       "status": "listed"
     },
     {
@@ -31115,7 +31115,7 @@
       "code": "603915",
       "exchange": "SSE",
       "market": "A",
-      "name": "国茂股份",
+      "name": "XD国茂股",
       "status": "listed"
     },
     {
@@ -31647,7 +31647,7 @@
       "code": "605090",
       "exchange": "SSE",
       "market": "A",
-      "name": "九丰能源",
+      "name": "XD九丰能",
       "status": "listed"
     },
     {
@@ -32683,7 +32683,7 @@
       "code": "688072",
       "exchange": "SSE",
       "market": "A",
-      "name": "拓荆科技",
+      "name": "XD拓荆科",
       "status": "listed"
     },
     {
@@ -32921,7 +32921,7 @@
       "code": "688110",
       "exchange": "SSE",
       "market": "A",
-      "name": "东芯股份",
+      "name": "DR东芯股",
       "status": "listed"
     },
     {
@@ -37282,7 +37282,7 @@
       "code": "920157",
       "exchange": "SSE",
       "market": "A",
-      "name": "N宇特",
+      "name": "宇特光电",
       "status": "listed"
     },
     {
@@ -39015,5 +39015,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261011-010914"
+  "version": "20261012-013337"
 }
