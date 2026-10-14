@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:06:50Z",
+  "generated_at": "2026-10-14T01:19:35Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -3136,7 +3136,7 @@
       "code": "001246",
       "exchange": "SZSE",
       "market": "A",
-      "name": "C力勤资源",
+      "name": "力勤资源",
       "status": "listed"
     },
     {
@@ -20181,7 +20181,7 @@
       "code": "301660",
       "exchange": "SZSE",
       "market": "A",
-      "name": "N粤芯半导体-U",
+      "name": "C粤芯半导体-U",
       "status": "listed"
     },
     {
@@ -20860,7 +20860,7 @@
       "code": "600105",
       "exchange": "SSE",
       "market": "A",
-      "name": "永鼎股份",
+      "name": "XD永鼎股",
       "status": "listed"
     },
     {
@@ -20979,7 +20979,7 @@
       "code": "600125",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD铁龙物",
+      "name": "铁龙物流",
       "status": "listed"
     },
     {
@@ -21994,7 +21994,7 @@
       "code": "600320",
       "exchange": "SSE",
       "market": "A",
-      "name": "振华重工",
+      "name": "XD振华重",
       "status": "listed"
     },
     {
@@ -22260,7 +22260,7 @@
       "code": "600369",
       "exchange": "SSE",
       "market": "A",
-      "name": "西南证券",
+      "name": "XD西南证",
       "status": "listed"
     },
     {
@@ -22421,7 +22421,7 @@
       "code": "600398",
       "exchange": "SSE",
       "market": "A",
-      "name": "海澜之家",
+      "name": "XD海澜之",
       "status": "listed"
     },
     {
@@ -23492,7 +23492,7 @@
       "code": "600609",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD金杯汽",
+      "name": "金杯汽车",
       "status": "listed"
     },
     {
@@ -23513,7 +23513,7 @@
       "code": "600612",
       "exchange": "SSE",
       "market": "A",
-      "name": "老凤祥",
+      "name": "XD老凤祥",
       "status": "listed"
     },
     {
@@ -25676,7 +25676,7 @@
       "code": "601019",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD山东出",
+      "name": "山东出版",
       "status": "listed"
     },
     {
@@ -27902,7 +27902,7 @@
       "code": "603120",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD肯特催",
+      "name": "肯特催化",
       "status": "listed"
     },
     {
@@ -28357,7 +28357,7 @@
       "code": "603203",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD快克智",
+      "name": "快克智能",
       "status": "listed"
     },
     {
@@ -28651,7 +28651,7 @@
       "code": "603262",
       "exchange": "SSE",
       "market": "A",
-      "name": "技源集团",
+      "name": "XD技源集",
       "status": "listed"
     },
     {
@@ -30226,7 +30226,7 @@
       "code": "603678",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD火炬电",
+      "name": "火炬电子",
       "status": "listed"
     },
     {
@@ -30380,7 +30380,7 @@
       "code": "603708",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD家家悦",
+      "name": "家家悦",
       "status": "listed"
     },
     {
@@ -30688,7 +30688,7 @@
       "code": "603806",
       "exchange": "SSE",
       "market": "A",
-      "name": "福斯特",
+      "name": "XD福斯特",
       "status": "listed"
     },
     {
@@ -31150,7 +31150,7 @@
       "code": "603919",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD金徽酒",
+      "name": "金徽酒",
       "status": "listed"
     },
     {
@@ -31444,7 +31444,7 @@
       "code": "603995",
       "exchange": "SSE",
       "market": "A",
-      "name": "甬金股份",
+      "name": "XD甬金股",
       "status": "listed"
     },
     {
@@ -31703,7 +31703,7 @@
       "code": "605117",
       "exchange": "SSE",
       "market": "A",
-      "name": "德业股份",
+      "name": "XD德业股",
       "status": "listed"
     },
     {
@@ -33229,7 +33229,7 @@
       "code": "688161",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD威高骨",
+      "name": "威高骨科",
       "status": "listed"
     },
     {
@@ -37135,7 +37135,7 @@
       "code": "920112",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD巴兰仕",
+      "name": "巴兰仕",
       "status": "listed"
     },
     {
@@ -37198,7 +37198,7 @@
       "code": "920125",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD鸿仕达",
+      "name": "鸿仕达",
       "status": "listed"
     },
     {
@@ -39022,5 +39022,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261013-030650"
+  "version": "20261014-011935"
 }
