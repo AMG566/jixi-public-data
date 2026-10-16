@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:43:46Z",
+  "generated_at": "2026-10-16T00:34:59Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -19859,7 +19859,7 @@
       "code": "301569",
       "exchange": "SZSE",
       "market": "A",
-      "name": "N联亚药业",
+      "name": "C联亚药业",
       "status": "listed"
     },
     {
@@ -20433,7 +20433,7 @@
       "code": "600018",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD上港集",
+      "name": "上港集团",
       "status": "listed"
     },
     {
@@ -20566,7 +20566,7 @@
       "code": "600039",
       "exchange": "SSE",
       "market": "A",
-      "name": "四川路桥",
+      "name": "XD四川路",
       "status": "listed"
     },
     {
@@ -21259,7 +21259,7 @@
       "code": "600176",
       "exchange": "SSE",
       "market": "A",
-      "name": "中国巨石",
+      "name": "XD中国巨",
       "status": "listed"
     },
     {
@@ -21490,7 +21490,7 @@
       "code": "600219",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD南山铝",
+      "name": "南山铝业",
       "status": "listed"
     },
     {
@@ -21959,7 +21959,7 @@
       "code": "600312",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD平高电",
+      "name": "平高电气",
       "status": "listed"
     },
     {
@@ -21973,7 +21973,7 @@
       "code": "600315",
       "exchange": "SSE",
       "market": "A",
-      "name": "上海家化",
+      "name": "XD上海家",
       "status": "listed"
     },
     {
@@ -22379,14 +22379,14 @@
       "code": "600389",
       "exchange": "SSE",
       "market": "A",
-      "name": "江山股份",
+      "name": "XD江山股",
       "status": "listed"
     },
     {
       "code": "600390",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD五矿资",
+      "name": "五矿资本",
       "status": "listed"
     },
     {
@@ -22582,7 +22582,7 @@
       "code": "600436",
       "exchange": "SSE",
       "market": "A",
-      "name": "片仔癀",
+      "name": "XD片仔癀",
       "status": "listed"
     },
     {
@@ -22652,7 +22652,7 @@
       "code": "600458",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD时代新",
+      "name": "时代新材",
       "status": "listed"
     },
     {
@@ -22764,7 +22764,7 @@
       "code": "600482",
       "exchange": "SSE",
       "market": "A",
-      "name": "中国动力",
+      "name": "XD中国动",
       "status": "listed"
     },
     {
@@ -23072,7 +23072,7 @@
       "code": "600535",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD天士力",
+      "name": "天士力",
       "status": "listed"
     },
     {
@@ -23191,7 +23191,7 @@
       "code": "600558",
       "exchange": "SSE",
       "market": "A",
-      "name": "大西洋",
+      "name": "XD大西洋",
       "status": "listed"
     },
     {
@@ -23884,7 +23884,7 @@
       "code": "600681",
       "exchange": "SSE",
       "market": "A",
-      "name": "百川能源",
+      "name": "XD百川能",
       "status": "listed"
     },
     {
@@ -25137,7 +25137,7 @@
       "code": "600895",
       "exchange": "SSE",
       "market": "A",
-      "name": "张江高科",
+      "name": "XD张江高",
       "status": "listed"
     },
     {
@@ -25207,7 +25207,7 @@
       "code": "600917",
       "exchange": "SSE",
       "market": "A",
-      "name": "重庆燃气",
+      "name": "XD重庆燃",
       "status": "listed"
     },
     {
@@ -25242,7 +25242,7 @@
       "code": "600927",
       "exchange": "SSE",
       "market": "A",
-      "name": "永安期货",
+      "name": "XD永安期",
       "status": "listed"
     },
     {
@@ -25291,7 +25291,7 @@
       "code": "600938",
       "exchange": "SSE",
       "market": "A",
-      "name": "中国海油",
+      "name": "XD中国海",
       "status": "listed"
     },
     {
@@ -25592,7 +25592,7 @@
       "code": "601002",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD晋亿实",
+      "name": "晋亿实业",
       "status": "listed"
     },
     {
@@ -25844,14 +25844,14 @@
       "code": "601100",
       "exchange": "SSE",
       "market": "A",
-      "name": "恒立液压",
+      "name": "XD恒立液",
       "status": "listed"
     },
     {
       "code": "601101",
       "exchange": "SSE",
       "market": "A",
-      "name": "昊华能源",
+      "name": "XD昊华能",
       "status": "listed"
     },
     {
@@ -26110,7 +26110,7 @@
       "code": "601211",
       "exchange": "SSE",
       "market": "A",
-      "name": "国泰海通",
+      "name": "XD国泰海",
       "status": "listed"
     },
     {
@@ -26320,7 +26320,7 @@
       "code": "601377",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD兴业证",
+      "name": "兴业证券",
       "status": "listed"
     },
     {
@@ -26705,7 +26705,7 @@
       "code": "601766",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国中",
+      "name": "中国中车",
       "status": "listed"
     },
     {
@@ -27034,7 +27034,7 @@
       "code": "601952",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD苏垦农",
+      "name": "苏垦农发",
       "status": "listed"
     },
     {
@@ -27083,7 +27083,7 @@
       "code": "601969",
       "exchange": "SSE",
       "market": "A",
-      "name": "海南矿业",
+      "name": "XD海南矿",
       "status": "listed"
     },
     {
@@ -27524,7 +27524,7 @@
       "code": "603059",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD倍加洁",
+      "name": "倍加洁",
       "status": "listed"
     },
     {
@@ -27839,7 +27839,7 @@
       "code": "603109",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD神驰机",
+      "name": "神驰机电",
       "status": "listed"
     },
     {
@@ -27881,7 +27881,7 @@
       "code": "603116",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD红蜻蜓",
+      "name": "红蜻蜓",
       "status": "listed"
     },
     {
@@ -28000,7 +28000,7 @@
       "code": "603135",
       "exchange": "SSE",
       "market": "A",
-      "name": "中重科技",
+      "name": "XD中重科",
       "status": "listed"
     },
     {
@@ -28357,7 +28357,7 @@
       "code": "603202",
       "exchange": "SSE",
       "market": "A",
-      "name": "天有为",
+      "name": "XD天有为",
       "status": "listed"
     },
     {
@@ -28434,7 +28434,7 @@
       "code": "603214",
       "exchange": "SSE",
       "market": "A",
-      "name": "爱婴室",
+      "name": "XD爱婴室",
       "status": "listed"
     },
     {
@@ -29232,7 +29232,7 @@
       "code": "603365",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD水星家",
+      "name": "水星家纺",
       "status": "listed"
     },
     {
@@ -29946,7 +29946,7 @@
       "code": "603605",
       "exchange": "SSE",
       "market": "A",
-      "name": "珀莱雅",
+      "name": "XD珀莱雅",
       "status": "listed"
     },
     {
@@ -30534,7 +30534,7 @@
       "code": "603755",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD日辰股",
+      "name": "日辰股份",
       "status": "listed"
     },
     {
@@ -30891,7 +30891,7 @@
       "code": "603861",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD白云电",
+      "name": "白云电器",
       "status": "listed"
     },
     {
@@ -31773,7 +31773,7 @@
       "code": "605155",
       "exchange": "SSE",
       "market": "A",
-      "name": "西大门",
+      "name": "XD西大门",
       "status": "listed"
     },
     {
@@ -32956,7 +32956,7 @@
       "code": "688113",
       "exchange": "SSE",
       "market": "A",
-      "name": "联测科技",
+      "name": "XD联测科",
       "status": "listed"
     },
     {
@@ -33404,7 +33404,7 @@
       "code": "688187",
       "exchange": "SSE",
       "market": "A",
-      "name": "时代电气",
+      "name": "XD时代电",
       "status": "listed"
     },
     {
@@ -33425,7 +33425,7 @@
       "code": "688190",
       "exchange": "SSE",
       "market": "A",
-      "name": "云路股份",
+      "name": "XD云路股",
       "status": "listed"
     },
     {
@@ -34006,7 +34006,7 @@
       "code": "688289",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD圣湘生",
+      "name": "圣湘生物",
       "status": "listed"
     },
     {
@@ -34076,7 +34076,7 @@
       "code": "688300",
       "exchange": "SSE",
       "market": "A",
-      "name": "联瑞新材",
+      "name": "XR联瑞新",
       "status": "listed"
     },
     {
@@ -34398,7 +34398,7 @@
       "code": "688353",
       "exchange": "SSE",
       "market": "A",
-      "name": "华盛锂电",
+      "name": "XD华盛锂",
       "status": "listed"
     },
     {
@@ -35336,7 +35336,7 @@
       "code": "688566",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD吉贝尔",
+      "name": "吉贝尔",
       "status": "listed"
     },
     {
@@ -36148,7 +36148,7 @@
       "code": "688718",
       "exchange": "SSE",
       "market": "A",
-      "name": "唯赛勃",
+      "name": "XD唯赛勃",
       "status": "listed"
     },
     {
@@ -39036,5 +39036,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261015-004346"
+  "version": "20261016-003459"
 }
