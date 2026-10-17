@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:34:59Z",
+  "generated_at": "2026-10-17T00:41:22Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -36729,7 +36729,7 @@
       "code": "920022",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD世昌股",
+      "name": "世昌股份",
       "status": "listed"
     },
     {
@@ -36813,7 +36813,7 @@
       "code": "920038",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD森合高",
+      "name": "森合高科",
       "status": "listed"
     },
     {
@@ -37331,7 +37331,7 @@
       "code": "920162",
       "exchange": "SSE",
       "market": "A",
-      "name": "N莫森",
+      "name": "莫森泰克",
       "status": "listed"
     },
     {
@@ -37514,6 +37514,13 @@
       "exchange": "SSE",
       "market": "A",
       "name": "三祥科技",
+      "status": "listed"
+    },
+    {
+      "code": "920196",
+      "exchange": "SSE",
+      "market": "A",
+      "name": "N南乳",
       "status": "listed"
     },
     {
@@ -39036,5 +39043,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261016-003459"
+  "version": "20261017-004122"
 }
