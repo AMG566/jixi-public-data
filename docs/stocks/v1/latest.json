@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:27:13Z",
+  "generated_at": "2026-10-26T00:34:00Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -20468,7 +20468,7 @@
       "code": "600023",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD浙能电",
+      "name": "浙能电力",
       "status": "listed"
     },
     {
@@ -21105,7 +21105,7 @@
       "code": "600150",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国船",
+      "name": "中国船舶",
       "status": "listed"
     },
     {
@@ -22547,7 +22547,7 @@
       "code": "600426",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华鲁恒",
+      "name": "华鲁恒升",
       "status": "listed"
     },
     {
@@ -23919,7 +23919,7 @@
       "code": "600686",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD金龙汽",
+      "name": "金龙汽车",
       "status": "listed"
     },
     {
@@ -24066,7 +24066,7 @@
       "code": "600714",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD金瑞矿",
+      "name": "金瑞矿业",
       "status": "listed"
     },
     {
@@ -25165,7 +25165,7 @@
       "code": "600903",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD贵州燃",
+      "name": "贵州燃气",
       "status": "listed"
     },
     {
@@ -25795,7 +25795,7 @@
       "code": "601088",
       "exchange": "SSE",
       "market": "A",
-      "name": "中国神华",
+      "name": "XD中国神",
       "status": "listed"
     },
     {
@@ -26299,7 +26299,7 @@
       "code": "601375",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中原证",
+      "name": "中原证券",
       "status": "listed"
     },
     {
@@ -26460,14 +26460,14 @@
       "code": "601600",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国铝",
+      "name": "中国铝业",
       "status": "listed"
     },
     {
       "code": "601601",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国太",
+      "name": "中国太保",
       "status": "listed"
     },
     {
@@ -26614,7 +26614,7 @@
       "code": "601688",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华泰证",
+      "name": "华泰证券",
       "status": "listed"
     },
     {
@@ -26838,7 +26838,7 @@
       "code": "601866",
       "exchange": "SSE",
       "market": "A",
-      "name": "中远海发",
+      "name": "XD中远海",
       "status": "listed"
     },
     {
@@ -26859,7 +26859,7 @@
       "code": "601872",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD招商轮",
+      "name": "招商轮船",
       "status": "listed"
     },
     {
@@ -26943,7 +26943,7 @@
       "code": "601901",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD方正证",
+      "name": "方正证券",
       "status": "listed"
     },
     {
@@ -26971,7 +26971,7 @@
       "code": "601919",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中远海",
+      "name": "中远海控",
       "status": "listed"
     },
     {
@@ -26985,7 +26985,7 @@
       "code": "601928",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD凤凰传",
+      "name": "凤凰传媒",
       "status": "listed"
     },
     {
@@ -27083,7 +27083,7 @@
       "code": "601985",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国核",
+      "name": "中国核电",
       "status": "listed"
     },
     {
@@ -27097,7 +27097,7 @@
       "code": "601990",
       "exchange": "SSE",
       "market": "A",
-      "name": "南京证券",
+      "name": "XD南京证",
       "status": "listed"
     },
     {
@@ -29652,7 +29652,7 @@
       "code": "603517",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD绝味食",
+      "name": "绝味食品",
       "status": "listed"
     },
     {
@@ -29904,7 +29904,7 @@
       "code": "603599",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD广信股",
+      "name": "广信股份",
       "status": "listed"
     },
     {
@@ -30044,7 +30044,7 @@
       "code": "603629",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD利通电",
+      "name": "利通电子",
       "status": "listed"
     },
     {
@@ -30919,7 +30919,7 @@
       "code": "603871",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD嘉友国",
+      "name": "嘉友国际",
       "status": "listed"
     },
     {
@@ -31241,7 +31241,7 @@
       "code": "603949",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD雪龙集",
+      "name": "雪龙集团",
       "status": "listed"
     },
     {
@@ -32298,7 +32298,7 @@
       "code": "688008",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD澜起科",
+      "name": "澜起科技",
       "status": "listed"
     },
     {
@@ -32431,7 +32431,7 @@
       "code": "688029",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD南微医",
+      "name": "南微医学",
       "status": "listed"
     },
     {
@@ -33005,7 +33005,7 @@
       "code": "688122",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD西部超",
+      "name": "西部超导",
       "status": "listed"
     },
     {
@@ -33747,7 +33747,7 @@
       "code": "688247",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD宣泰医",
+      "name": "宣泰医药",
       "status": "listed"
     },
     {
@@ -34412,7 +34412,7 @@
       "code": "688358",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD祥生医",
+      "name": "祥生医疗",
       "status": "listed"
     },
     {
@@ -34545,7 +34545,7 @@
       "code": "688379",
       "exchange": "SSE",
       "market": "A",
-      "name": "华光新材",
+      "name": "XD华光新",
       "status": "listed"
     },
     {
@@ -34650,7 +34650,7 @@
       "code": "688396",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华润微",
+      "name": "华润微",
       "status": "listed"
     },
     {
@@ -35014,7 +35014,7 @@
       "code": "688507",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD索辰科",
+      "name": "索辰科技",
       "status": "listed"
     },
     {
@@ -36470,7 +36470,7 @@
       "code": "688809",
       "exchange": "SSE",
       "market": "A",
-      "name": "XR强一股",
+      "name": "强一股份",
       "status": "listed"
     },
     {
@@ -39043,5 +39043,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261025-002713"
+  "version": "20261026-003400"
 }
