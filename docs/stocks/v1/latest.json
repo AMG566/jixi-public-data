@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:34:00Z",
+  "generated_at": "2026-10-27T01:34:38Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -20426,7 +20426,7 @@
       "code": "600017",
       "exchange": "SSE",
       "market": "A",
-      "name": "日照港",
+      "name": "XD日照港",
       "status": "listed"
     },
     {
@@ -22211,7 +22211,7 @@
       "code": "600360",
       "exchange": "SSE",
       "market": "A",
-      "name": "华微电子",
+      "name": "XD华微电",
       "status": "listed"
     },
     {
@@ -22743,7 +22743,7 @@
       "code": "600479",
       "exchange": "SSE",
       "market": "A",
-      "name": "千金药业",
+      "name": "XD千金药",
       "status": "listed"
     },
     {
@@ -25795,7 +25795,7 @@
       "code": "601088",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国神",
+      "name": "中国神华",
       "status": "listed"
     },
     {
@@ -26152,7 +26152,7 @@
       "code": "601229",
       "exchange": "SSE",
       "market": "A",
-      "name": "上海银行",
+      "name": "XD上海银",
       "status": "listed"
     },
     {
@@ -26838,7 +26838,7 @@
       "code": "601866",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中远海",
+      "name": "中远海发",
       "status": "listed"
     },
     {
@@ -27097,7 +27097,7 @@
       "code": "601990",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD南京证",
+      "name": "南京证券",
       "status": "listed"
     },
     {
@@ -34020,7 +34020,7 @@
       "code": "688293",
       "exchange": "SSE",
       "market": "A",
-      "name": "奥浦迈",
+      "name": "XD奥浦迈",
       "status": "listed"
     },
     {
@@ -34545,7 +34545,7 @@
       "code": "688379",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华光新",
+      "name": "华光新材",
       "status": "listed"
     },
     {
@@ -37597,7 +37597,7 @@
       "code": "920220",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD朗信电",
+      "name": "朗信电气",
       "status": "listed"
     },
     {
@@ -37821,7 +37821,7 @@
       "code": "920285",
       "exchange": "SSE",
       "market": "A",
-      "name": "N远大",
+      "name": "远大健科",
       "status": "listed"
     },
     {
@@ -39043,5 +39043,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261026-003400"
+  "version": "20261027-013438"
 }
