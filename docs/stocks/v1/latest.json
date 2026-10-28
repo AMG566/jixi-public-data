@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:34:38Z",
+  "generated_at": "2026-10-28T01:33:04Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -17903,13 +17903,6 @@
       "status": "listed"
     },
     {
-      "code": "301139",
-      "exchange": "SZSE",
-      "market": "A",
-      "name": "元道退",
-      "status": "listed"
-    },
-    {
       "code": "301141",
       "exchange": "SZSE",
       "market": "A",
@@ -20426,7 +20419,7 @@
       "code": "600017",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD日照港",
+      "name": "日照港",
       "status": "listed"
     },
     {
@@ -22211,7 +22204,7 @@
       "code": "600360",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华微电",
+      "name": "华微电子",
       "status": "listed"
     },
     {
@@ -22743,7 +22736,7 @@
       "code": "600479",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD千金药",
+      "name": "千金药业",
       "status": "listed"
     },
     {
@@ -26152,7 +26145,7 @@
       "code": "601229",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD上海银",
+      "name": "上海银行",
       "status": "listed"
     },
     {
@@ -26201,7 +26194,7 @@
       "code": "601298",
       "exchange": "SSE",
       "market": "A",
-      "name": "青岛港",
+      "name": "XD青岛港",
       "status": "listed"
     },
     {
@@ -27104,7 +27097,7 @@
       "code": "601991",
       "exchange": "SSE",
       "market": "A",
-      "name": "大唐发电",
+      "name": "XD大唐发",
       "status": "listed"
     },
     {
@@ -30289,7 +30282,7 @@
       "code": "603689",
       "exchange": "SSE",
       "market": "A",
-      "name": "皖天然气",
+      "name": "XD皖天然",
       "status": "listed"
     },
     {
@@ -32774,7 +32767,7 @@
       "code": "688087",
       "exchange": "SSE",
       "market": "A",
-      "name": "英科再生",
+      "name": "XD英科再",
       "status": "listed"
     },
     {
@@ -34020,7 +34013,7 @@
       "code": "688293",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD奥浦迈",
+      "name": "奥浦迈",
       "status": "listed"
     },
     {
@@ -39043,5 +39036,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261027-013438"
+  "version": "20261028-013304"
 }
