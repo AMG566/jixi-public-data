@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:33:04Z",
+  "generated_at": "2026-10-29T01:54:42Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -20328,7 +20328,7 @@
       "code": "301718",
       "exchange": "SZSE",
       "market": "A",
-      "name": "C通则康威",
+      "name": "通则康威",
       "status": "listed"
     },
     {
@@ -26194,7 +26194,7 @@
       "code": "601298",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD青岛港",
+      "name": "青岛港",
       "status": "listed"
     },
     {
@@ -27097,7 +27097,7 @@
       "code": "601991",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD大唐发",
+      "name": "大唐发电",
       "status": "listed"
     },
     {
@@ -29855,7 +29855,7 @@
       "code": "603588",
       "exchange": "SSE",
       "market": "A",
-      "name": "高能环境",
+      "name": "高能时代",
       "status": "listed"
     },
     {
@@ -30282,7 +30282,7 @@
       "code": "603689",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD皖天然",
+      "name": "皖天然气",
       "status": "listed"
     },
     {
@@ -32767,7 +32767,7 @@
       "code": "688087",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD英科再",
+      "name": "英科再生",
       "status": "listed"
     },
     {
@@ -35301,7 +35301,7 @@
       "code": "688563",
       "exchange": "SSE",
       "market": "A",
-      "name": "航材股份",
+      "name": "XD航材股",
       "status": "listed"
     },
     {
@@ -37867,6 +37867,13 @@
       "status": "listed"
     },
     {
+      "code": "920306",
+      "exchange": "SSE",
+      "market": "A",
+      "name": "N天元",
+      "status": "listed"
+    },
+    {
       "code": "920339",
       "exchange": "SSE",
       "market": "A",
@@ -39036,5 +39043,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261028-013304"
+  "version": "20261029-015442"
 }
