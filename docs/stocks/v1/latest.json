@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:54:42Z",
+  "generated_at": "2026-10-30T02:05:28Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -26866,7 +26866,7 @@
       "code": "601878",
       "exchange": "SSE",
       "market": "A",
-      "name": "浙商证券",
+      "name": "XD浙商证",
       "status": "listed"
     },
     {
@@ -30044,7 +30044,7 @@
       "code": "603630",
       "exchange": "SSE",
       "market": "A",
-      "name": "拉芳家化",
+      "name": "XD拉芳家",
       "status": "listed"
     },
     {
@@ -34692,7 +34692,7 @@
       "code": "688409",
       "exchange": "SSE",
       "market": "A",
-      "name": "富创精密",
+      "name": "XD富创精",
       "status": "listed"
     },
     {
@@ -35301,7 +35301,7 @@
       "code": "688563",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD航材股",
+      "name": "航材股份",
       "status": "listed"
     },
     {
@@ -37870,7 +37870,7 @@
       "code": "920306",
       "exchange": "SSE",
       "market": "A",
-      "name": "N天元",
+      "name": "天元重工",
       "status": "listed"
     },
     {
@@ -39043,5 +39043,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261029-015442"
+  "version": "20261030-020528"
 }
