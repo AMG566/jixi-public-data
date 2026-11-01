@@ -1,27 +1,18 @@
 {
-  "dividend_record_count": 0,
+  "dividend_record_count": 238,
   "dividend_watchlist_count": 16,
-  "generated_at": "2026-10-31T01:44:06Z",
+  "generated_at": "2026-11-01T01:21:31Z",
   "schema_version": 1,
   "stock_library_count": 5577,
-  "version": "20261031-014406",
-  "warning_count": 16,
+  "version": "20261101-012131",
+  "warning_count": 7,
   "warnings": [
-    "600036 招商银行：抓取失败（ConnectTimeout）",
-    "600900 长江电力：抓取失败（ConnectTimeout）",
-    "600519 贵州茅台：抓取失败（ConnectTimeout）",
-    "601398 工商银行：抓取失败（ConnectTimeout）",
-    "601288 农业银行：抓取失败（ConnectTimeout）",
-    "601939 建设银行：抓取失败（ConnectTimeout）",
-    "601988 中国银行：抓取失败（ConnectTimeout）",
-    "600028 中国石化：抓取失败（ConnectTimeout）",
-    "601088 中国神华：抓取失败（ConnectTimeout）",
-    "601225 陕西煤业：抓取失败（ConnectTimeout）",
-    "600887 伊利股份：抓取失败（ConnectTimeout）",
-    "000858 五粮液：抓取失败（ConnectTimeout）",
-    "600050 中国联通：抓取失败（ConnectTimeout）",
-    "601728 中国电信：抓取失败（ConnectTimeout）",
-    "600941 中国移动：抓取失败（ConnectTimeout）",
-    "600025 华能水电：抓取失败（ConnectTimeout）"
+    "601288 农业银行：抓取失败（JSONDecodeError）",
+    "601939 建设银行：抓取失败（JSONDecodeError）",
+    "601225 陕西煤业：抓取失败（JSONDecodeError）",
+    "600887 伊利股份：抓取失败（JSONDecodeError）",
+    "000858 五粮液：抓取失败（JSONDecodeError）",
+    "601728 中国电信：抓取失败（JSONDecodeError）",
+    "600941 中国移动：抓取失败（JSONDecodeError）"
   ]
 }
