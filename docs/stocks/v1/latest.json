@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:41:40Z",
+  "generated_at": "2026-11-03T03:37:13Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -3606,6 +3606,13 @@
       "exchange": "SZSE",
       "market": "A",
       "name": "华纬科技",
+      "status": "listed"
+    },
+    {
+      "code": "001381",
+      "exchange": "SZSE",
+      "market": "A",
+      "name": "N皇冠新材",
       "status": "listed"
     },
     {
@@ -31815,7 +31822,7 @@
       "code": "605179",
       "exchange": "SSE",
       "market": "A",
-      "name": "一鸣食品",
+      "name": "XD一鸣食",
       "status": "listed"
     },
     {
@@ -31997,7 +32004,7 @@
       "code": "605300",
       "exchange": "SSE",
       "market": "A",
-      "name": "佳禾食品",
+      "name": "XD佳禾食",
       "status": "listed"
     },
     {
@@ -35210,7 +35217,7 @@
       "code": "688548",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD广钢气",
+      "name": "广钢气体",
       "status": "listed"
     },
     {
@@ -39043,5 +39050,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261102-014140"
+  "version": "20261103-033713"
 }
