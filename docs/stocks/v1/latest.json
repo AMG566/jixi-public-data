@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:42:10Z",
+  "generated_at": "2026-11-09T01:50:43Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -22659,7 +22659,7 @@
       "code": "600459",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD贵研铂",
+      "name": "贵研铂业",
       "status": "listed"
     },
     {
@@ -22960,7 +22960,7 @@
       "code": "600516",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD方大炭",
+      "name": "方大炭素",
       "status": "listed"
     },
     {
@@ -23163,7 +23163,7 @@
       "code": "600551",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD时代出",
+      "name": "时代出版",
       "status": "listed"
     },
     {
@@ -26222,7 +26222,7 @@
       "code": "601319",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国人",
+      "name": "中国人保",
       "status": "listed"
     },
     {
@@ -26628,7 +26628,7 @@
       "code": "601696",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中银证",
+      "name": "中银证券",
       "status": "listed"
     },
     {
@@ -27846,7 +27846,7 @@
       "code": "603112",
       "exchange": "SSE",
       "market": "A",
-      "name": "华翔股份",
+      "name": "XD华翔股",
       "status": "listed"
     },
     {
@@ -30233,7 +30233,7 @@
       "code": "603680",
       "exchange": "SSE",
       "market": "A",
-      "name": "今创集团",
+      "name": "XD今创集",
       "status": "listed"
     },
     {
@@ -30961,7 +30961,7 @@
       "code": "603881",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD数据港",
+      "name": "数据港",
       "status": "listed"
     },
     {
@@ -33628,7 +33628,7 @@
       "code": "688225",
       "exchange": "SSE",
       "market": "A",
-      "name": "亚信安全",
+      "name": "亚信集团",
       "status": "listed"
     },
     {
@@ -34300,7 +34300,7 @@
       "code": "688336",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD三生国",
+      "name": "三生国健",
       "status": "listed"
     },
     {
@@ -37002,7 +37002,7 @@
       "code": "920085",
       "exchange": "SSE",
       "market": "A",
-      "name": "N森峰",
+      "name": "森峰激光",
       "status": "listed"
     },
     {
@@ -38661,7 +38661,7 @@
       "code": "920779",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD武汉蓝",
+      "name": "武汉蓝电",
       "status": "listed"
     },
     {
@@ -39057,5 +39057,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261108-014210"
+  "version": "20261109-015043"
 }
