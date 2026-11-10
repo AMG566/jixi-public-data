@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:50:43Z",
+  "generated_at": "2026-11-10T04:15:08Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -3612,7 +3612,7 @@
       "code": "001381",
       "exchange": "SZSE",
       "market": "A",
-      "name": "C皇冠新材",
+      "name": "皇冠新材",
       "status": "listed"
     },
     {
@@ -21658,7 +21658,7 @@
       "code": "600251",
       "exchange": "SSE",
       "market": "A",
-      "name": "冠农股份",
+      "name": "新疆冠农",
       "status": "listed"
     },
     {
@@ -26747,7 +26747,7 @@
       "code": "601801",
       "exchange": "SSE",
       "market": "A",
-      "name": "皖新传媒",
+      "name": "XD皖新传",
       "status": "listed"
     },
     {
@@ -26761,7 +26761,7 @@
       "code": "601811",
       "exchange": "SSE",
       "market": "A",
-      "name": "新华文轩",
+      "name": "XD新华文",
       "status": "listed"
     },
     {
@@ -26852,7 +26852,7 @@
       "code": "601869",
       "exchange": "SSE",
       "market": "A",
-      "name": "长飞光纤",
+      "name": "XD长飞光",
       "status": "listed"
     },
     {
@@ -27846,7 +27846,7 @@
       "code": "603112",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华翔股",
+      "name": "华翔股份",
       "status": "listed"
     },
     {
@@ -28903,7 +28903,7 @@
       "code": "603309",
       "exchange": "SSE",
       "market": "A",
-      "name": "维力医疗",
+      "name": "XD维力医",
       "status": "listed"
     },
     {
@@ -29890,7 +29890,7 @@
       "code": "603596",
       "exchange": "SSE",
       "market": "A",
-      "name": "伯特利",
+      "name": "XR伯特利",
       "status": "listed"
     },
     {
@@ -30233,7 +30233,7 @@
       "code": "603680",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD今创集",
+      "name": "今创集团",
       "status": "listed"
     },
     {
@@ -31549,7 +31549,7 @@
       "code": "605033",
       "exchange": "SSE",
       "market": "A",
-      "name": "美邦股份",
+      "name": "XD美邦股",
       "status": "listed"
     },
     {
@@ -36530,6 +36530,13 @@
       "status": "listed"
     },
     {
+      "code": "688827",
+      "exchange": "SSE",
+      "market": "A",
+      "name": "N钶锐",
+      "status": "listed"
+    },
+    {
       "code": "688828",
       "exchange": "SSE",
       "market": "A",
@@ -39057,5 +39064,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261109-015043"
+  "version": "20261110-041508"
 }
