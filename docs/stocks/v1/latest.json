@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T04:15:08Z",
+  "generated_at": "2026-11-11T02:05:28Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -26747,7 +26747,7 @@
       "code": "601801",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD皖新传",
+      "name": "皖新传媒",
       "status": "listed"
     },
     {
@@ -26761,7 +26761,7 @@
       "code": "601811",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD新华文",
+      "name": "新华文轩",
       "status": "listed"
     },
     {
@@ -26852,7 +26852,7 @@
       "code": "601869",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD长飞光",
+      "name": "长飞光纤",
       "status": "listed"
     },
     {
@@ -28735,7 +28735,7 @@
       "code": "603279",
       "exchange": "SSE",
       "market": "A",
-      "name": "景津装备",
+      "name": "XD景津装",
       "status": "listed"
     },
     {
@@ -28903,7 +28903,7 @@
       "code": "603309",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD维力医",
+      "name": "维力医疗",
       "status": "listed"
     },
     {
@@ -29890,7 +29890,7 @@
       "code": "603596",
       "exchange": "SSE",
       "market": "A",
-      "name": "XR伯特利",
+      "name": "伯特利",
       "status": "listed"
     },
     {
@@ -31549,7 +31549,7 @@
       "code": "605033",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD美邦股",
+      "name": "美邦股份",
       "status": "listed"
     },
     {
@@ -32060,7 +32060,7 @@
       "code": "605338",
       "exchange": "SSE",
       "market": "A",
-      "name": "巴比食品",
+      "name": "XD巴比食",
       "status": "listed"
     },
     {
@@ -32564,7 +32564,7 @@
       "code": "688053",
       "exchange": "SSE",
       "market": "A",
-      "name": "ST思科瑞",
+      "name": "思科瑞",
       "status": "listed"
     },
     {
@@ -36533,7 +36533,7 @@
       "code": "688827",
       "exchange": "SSE",
       "market": "A",
-      "name": "N钶锐",
+      "name": "C钶锐",
       "status": "listed"
     },
     {
@@ -39064,5 +39064,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261110-041508"
+  "version": "20261111-020528"
 }
