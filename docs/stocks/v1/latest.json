@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:14:17Z",
+  "generated_at": "2026-11-13T02:48:13Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -8492,13 +8492,6 @@
       "exchange": "SZSE",
       "market": "A",
       "name": "电光科技",
-      "status": "listed"
-    },
-    {
-      "code": "002731",
-      "exchange": "SZSE",
-      "market": "A",
-      "name": "萃华退",
       "status": "listed"
     },
     {
@@ -22400,7 +22393,7 @@
       "code": "600392",
       "exchange": "SSE",
       "market": "A",
-      "name": "盛和资源",
+      "name": "XD盛和资",
       "status": "listed"
     },
     {
@@ -25130,7 +25123,7 @@
       "code": "600894",
       "exchange": "SSE",
       "market": "A",
-      "name": "广日股份",
+      "name": "XD广日股",
       "status": "listed"
     },
     {
@@ -25942,7 +25935,7 @@
       "code": "601128",
       "exchange": "SSE",
       "market": "A",
-      "name": "常熟银行",
+      "name": "XD常熟银",
       "status": "listed"
     },
     {
@@ -29498,7 +29491,7 @@
       "code": "603444",
       "exchange": "SSE",
       "market": "A",
-      "name": "吉比特",
+      "name": "XD吉比特",
       "status": "listed"
     },
     {
@@ -31451,7 +31444,7 @@
       "code": "603998",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD方盛制",
+      "name": "方盛制药",
       "status": "listed"
     },
     {
@@ -36302,7 +36295,7 @@
       "code": "688777",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中控技",
+      "name": "中控技术",
       "status": "listed"
     },
     {
@@ -39064,5 +39057,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261112-031417"
+  "version": "20261113-024813"
 }
