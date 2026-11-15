@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:36:36Z",
+  "generated_at": "2026-11-15T02:02:32Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -39057,5 +39057,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261114-023636"
+  "version": "20261115-020232"
 }
