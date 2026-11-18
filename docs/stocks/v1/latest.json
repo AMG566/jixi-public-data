@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:02:32Z",
+  "generated_at": "2026-11-18T03:46:55Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -22393,7 +22393,7 @@
       "code": "600392",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD盛和资",
+      "name": "盛和资源",
       "status": "listed"
     },
     {
@@ -25123,7 +25123,7 @@
       "code": "600894",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD广日股",
+      "name": "广日股份",
       "status": "listed"
     },
     {
@@ -25774,7 +25774,7 @@
       "code": "601083",
       "exchange": "SSE",
       "market": "A",
-      "name": "锦江航运",
+      "name": "XD锦江航",
       "status": "listed"
     },
     {
@@ -25935,7 +25935,7 @@
       "code": "601128",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD常熟银",
+      "name": "常熟银行",
       "status": "listed"
     },
     {
@@ -26138,7 +26138,7 @@
       "code": "601228",
       "exchange": "SSE",
       "market": "A",
-      "name": "广州港",
+      "name": "XD广州港",
       "status": "listed"
     },
     {
@@ -26495,7 +26495,7 @@
       "code": "601611",
       "exchange": "SSE",
       "market": "A",
-      "name": "中国核建",
+      "name": "XD中国核",
       "status": "listed"
     },
     {
@@ -29491,7 +29491,7 @@
       "code": "603444",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD吉比特",
+      "name": "吉比特",
       "status": "listed"
     },
     {
@@ -29841,7 +29841,7 @@
       "code": "603586",
       "exchange": "SSE",
       "market": "A",
-      "name": "金麒麟",
+      "name": "XD金麒麟",
       "status": "listed"
     },
     {
@@ -36526,7 +36526,7 @@
       "code": "688827",
       "exchange": "SSE",
       "market": "A",
-      "name": "C钶锐",
+      "name": "钶锐锶",
       "status": "listed"
     },
     {
@@ -37888,6 +37888,13 @@
       "status": "listed"
     },
     {
+      "code": "920309",
+      "exchange": "SSE",
+      "market": "A",
+      "name": "菊乐股份",
+      "status": "listed"
+    },
+    {
       "code": "920339",
       "exchange": "SSE",
       "market": "A",
@@ -39057,5 +39064,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261115-020232"
+  "version": "20261118-034655"
 }
