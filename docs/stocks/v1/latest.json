@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:45:33Z",
+  "generated_at": "2026-11-20T03:39:03Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -21070,7 +21070,7 @@
       "code": "600141",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD兴发集",
+      "name": "兴发集团",
       "status": "listed"
     },
     {
@@ -26901,7 +26901,7 @@
       "code": "601888",
       "exchange": "SSE",
       "market": "A",
-      "name": "中国中免",
+      "name": "XD中国中",
       "status": "listed"
     },
     {
@@ -27132,7 +27132,7 @@
       "code": "601998",
       "exchange": "SSE",
       "market": "A",
-      "name": "中信银行",
+      "name": "XD中信银",
       "status": "listed"
     },
     {
@@ -27426,7 +27426,7 @@
       "code": "603043",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD广州酒",
+      "name": "广州酒家",
       "status": "listed"
     },
     {
@@ -28105,7 +28105,7 @@
       "code": "603167",
       "exchange": "SSE",
       "market": "A",
-      "name": "渤海轮渡",
+      "name": "XD渤海轮",
       "status": "listed"
     },
     {
@@ -30373,7 +30373,7 @@
       "code": "603709",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中源家",
+      "name": "中源家居",
       "status": "listed"
     },
     {
@@ -30884,7 +30884,7 @@
       "code": "603866",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD桃李面",
+      "name": "桃李面包",
       "status": "listed"
     },
     {
@@ -33327,7 +33327,7 @@
       "code": "688179",
       "exchange": "SSE",
       "market": "A",
-      "name": "阿拉丁",
+      "name": "XD阿拉丁",
       "status": "listed"
     },
     {
@@ -37394,7 +37394,7 @@
       "code": "920176",
       "exchange": "SSE",
       "market": "A",
-      "name": "维琪科技",
+      "name": "XD维琪科",
       "status": "listed"
     },
     {
@@ -37541,7 +37541,7 @@
       "code": "920201",
       "exchange": "SSE",
       "market": "A",
-      "name": "百瑞吉",
+      "name": "XD百瑞吉",
       "status": "listed"
     },
     {
@@ -39064,5 +39064,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261119-034533"
+  "version": "20261120-033903"
 }
