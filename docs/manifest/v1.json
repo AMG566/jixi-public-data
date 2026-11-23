@@ -7,17 +7,17 @@
     "url": "https://amg566.github.io/jixi-public-data/docs/coverage/v1/latest.json"
   },
   "dataset": {
-    "sha256": "d46cbc7b1085bc4f89a8ad97f76942e3260f0db184c3da02db5714ddf4734c23",
+    "sha256": "014674492131d34a9277ba0ae3eb569e79fb46be6cdbe96cdb9d6038a74e7092",
     "url": "https://amg566.github.io/jixi-public-data/docs/datasets/v1/latest.json",
-    "versioned_url": "https://amg566.github.io/jixi-public-data/docs/datasets/v1/20261122-023048.json"
+    "versioned_url": "https://amg566.github.io/jixi-public-data/docs/datasets/v1/20261123-025805.json"
   },
-  "generated_at": "2026-11-22T02:30:48Z",
-  "latest_version": "20261122-023048",
+  "generated_at": "2026-11-23T02:58:05Z",
+  "latest_version": "20261123-025805",
   "minimum_app_version": "1.0.0",
   "recommended_refresh_after_hours": 12,
   "schema_version": 1,
   "stocks": {
-    "sha256": "b4e643febfa488d0ea4766da6007a48015ed938efcbbb9c1974f4dc060854928",
+    "sha256": "e8bc2c2d2fcde5b90e4aced23d8c85e0dad812f2506c5408258f9e654a7a53bc",
     "url": "https://amg566.github.io/jixi-public-data/docs/stocks/v1/latest.json"
   }
 }

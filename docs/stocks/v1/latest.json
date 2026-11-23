@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:30:48Z",
+  "generated_at": "2026-11-23T02:58:05Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -4529,7 +4529,7 @@
       "code": "002122",
       "exchange": "SZSE",
       "market": "A",
-      "name": "ST汇洲",
+      "name": "汇洲智能",
       "status": "listed"
     },
     {
@@ -12705,7 +12705,7 @@
       "code": "300351",
       "exchange": "SZSE",
       "market": "A",
-      "name": "永贵电器",
+      "name": "永贵智能",
       "status": "listed"
     },
     {
@@ -26901,7 +26901,7 @@
       "code": "601888",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国中",
+      "name": "中国中免",
       "status": "listed"
     },
     {
@@ -27132,7 +27132,7 @@
       "code": "601998",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中信银",
+      "name": "中信银行",
       "status": "listed"
     },
     {
@@ -27405,7 +27405,7 @@
       "code": "603040",
       "exchange": "SSE",
       "market": "A",
-      "name": "新坐标",
+      "name": "XD新坐标",
       "status": "listed"
     },
     {
@@ -28105,7 +28105,7 @@
       "code": "603167",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD渤海轮",
+      "name": "渤海轮渡",
       "status": "listed"
     },
     {
@@ -31248,7 +31248,7 @@
       "code": "603955",
       "exchange": "SSE",
       "market": "A",
-      "name": "大千生态",
+      "name": "灵动股份",
       "status": "listed"
     },
     {
@@ -33327,7 +33327,7 @@
       "code": "688179",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD阿拉丁",
+      "name": "阿拉丁",
       "status": "listed"
     },
     {
@@ -36908,6 +36908,13 @@
       "status": "listed"
     },
     {
+      "code": "920067",
+      "exchange": "SSE",
+      "market": "A",
+      "name": "N华晟",
+      "status": "listed"
+    },
+    {
       "code": "920068",
       "exchange": "SSE",
       "market": "A",
@@ -37394,7 +37401,7 @@
       "code": "920176",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD维琪科",
+      "name": "维琪科技",
       "status": "listed"
     },
     {
@@ -37541,7 +37548,7 @@
       "code": "920201",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD百瑞吉",
+      "name": "百瑞吉",
       "status": "listed"
     },
     {
@@ -39025,7 +39032,7 @@
       "code": "920976",
       "exchange": "SSE",
       "market": "A",
-      "name": "视声智能",
+      "name": "XD视声智",
       "status": "listed"
     },
     {
@@ -39064,5 +39071,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261122-023048"
+  "version": "20261123-025805"
 }
