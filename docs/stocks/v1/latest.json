@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:58:05Z",
+  "generated_at": "2026-11-24T06:16:18Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -2359,7 +2359,7 @@
       "code": "000892",
       "exchange": "SZSE",
       "market": "A",
-      "name": "欢瑞世纪",
+      "name": "ST欢瑞",
       "status": "listed"
     },
     {
@@ -9359,7 +9359,7 @@
       "code": "002872",
       "exchange": "SZSE",
       "market": "A",
-      "name": "ST天圣",
+      "name": "天圣制药",
       "status": "listed"
     },
     {
@@ -13678,7 +13678,7 @@
       "code": "300500",
       "exchange": "SZSE",
       "market": "A",
-      "name": "启迪设计",
+      "name": "ST启设",
       "status": "listed"
     },
     {
@@ -22260,7 +22260,7 @@
       "code": "600369",
       "exchange": "SSE",
       "market": "A",
-      "name": "西南证券",
+      "name": "XD西南证",
       "status": "listed"
     },
     {
@@ -22708,7 +22708,7 @@
       "code": "600475",
       "exchange": "SSE",
       "market": "A",
-      "name": "华光环能",
+      "name": "XD华光环",
       "status": "listed"
     },
     {
@@ -27405,7 +27405,7 @@
       "code": "603040",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD新坐标",
+      "name": "新坐标",
       "status": "listed"
     },
     {
@@ -36911,7 +36911,7 @@
       "code": "920067",
       "exchange": "SSE",
       "market": "A",
-      "name": "N华晟",
+      "name": "华晟智能",
       "status": "listed"
     },
     {
@@ -39032,7 +39032,7 @@
       "code": "920976",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD视声智",
+      "name": "视声智能",
       "status": "listed"
     },
     {
@@ -39071,5 +39071,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261123-025805"
+  "version": "20261124-061618"
 }
