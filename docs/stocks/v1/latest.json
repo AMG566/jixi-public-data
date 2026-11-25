@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:16:18Z",
+  "generated_at": "2026-11-25T04:58:49Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -22260,7 +22260,7 @@
       "code": "600369",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD西南证",
+      "name": "西南证券",
       "status": "listed"
     },
     {
@@ -22708,7 +22708,7 @@
       "code": "600475",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD华光环",
+      "name": "华光环能",
       "status": "listed"
     },
     {
@@ -24374,7 +24374,7 @@
       "code": "600763",
       "exchange": "SSE",
       "market": "A",
-      "name": "通策医疗",
+      "name": "XD通策医",
       "status": "listed"
     },
     {
@@ -25179,7 +25179,7 @@
       "code": "600908",
       "exchange": "SSE",
       "market": "A",
-      "name": "无锡银行",
+      "name": "XD无锡银",
       "status": "listed"
     },
     {
@@ -25347,7 +25347,7 @@
       "code": "600962",
       "exchange": "SSE",
       "market": "A",
-      "name": "国投中鲁",
+      "name": "国投电子",
       "status": "listed"
     },
     {
@@ -25627,7 +25627,7 @@
       "code": "601009",
       "exchange": "SSE",
       "market": "A",
-      "name": "南京银行",
+      "name": "XD南京银",
       "status": "listed"
     },
     {
@@ -27594,7 +27594,7 @@
       "code": "603073",
       "exchange": "SSE",
       "market": "A",
-      "name": "彩蝶实业",
+      "name": "XD彩蝶实",
       "status": "listed"
     },
     {
@@ -30198,7 +30198,7 @@
       "code": "603676",
       "exchange": "SSE",
       "market": "A",
-      "name": "卫信康",
+      "name": "XD卫信康",
       "status": "listed"
     },
     {
@@ -37065,7 +37065,7 @@
       "code": "920093",
       "exchange": "SSE",
       "market": "A",
-      "name": "信胜科技",
+      "name": "XD信胜科",
       "status": "listed"
     },
     {
@@ -39071,5 +39071,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261124-061618"
+  "version": "20261125-045849"
 }
