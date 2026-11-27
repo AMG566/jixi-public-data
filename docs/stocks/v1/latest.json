@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:15:55Z",
+  "generated_at": "2026-11-27T04:25:21Z",
   "schema_version": 1,
   "source": "AKShare / 巨潮资讯公开信息",
   "stocks": [
@@ -20825,7 +20825,7 @@
       "code": "600099",
       "exchange": "SSE",
       "market": "A",
-      "name": "林海股份",
+      "name": "XD林海股",
       "status": "listed"
     },
     {
@@ -20846,7 +20846,7 @@
       "code": "600103",
       "exchange": "SSE",
       "market": "A",
-      "name": "青山纸业",
+      "name": "XD青山纸",
       "status": "listed"
     },
     {
@@ -21021,7 +21021,7 @@
       "code": "600131",
       "exchange": "SSE",
       "market": "A",
-      "name": "国网信通",
+      "name": "XD国网信",
       "status": "listed"
     },
     {
@@ -25053,7 +25053,7 @@
       "code": "600882",
       "exchange": "SSE",
       "market": "A",
-      "name": "妙可蓝多",
+      "name": "XD妙可蓝",
       "status": "listed"
     },
     {
@@ -25557,7 +25557,7 @@
       "code": "600998",
       "exchange": "SSE",
       "market": "A",
-      "name": "九州通",
+      "name": "XD九州通",
       "status": "listed"
     },
     {
@@ -26516,7 +26516,7 @@
       "code": "601618",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD中国中",
+      "name": "中国中冶",
       "status": "listed"
     },
     {
@@ -28833,7 +28833,7 @@
       "code": "603298",
       "exchange": "SSE",
       "market": "A",
-      "name": "杭叉集团",
+      "name": "XD杭叉集",
       "status": "listed"
     },
     {
@@ -30492,7 +30492,7 @@
       "code": "603737",
       "exchange": "SSE",
       "market": "A",
-      "name": "三棵树",
+      "name": "XD三棵树",
       "status": "listed"
     },
     {
@@ -30982,7 +30982,7 @@
       "code": "603886",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD元祖股",
+      "name": "元祖股份",
       "status": "listed"
     },
     {
@@ -32928,7 +32928,7 @@
       "code": "688112",
       "exchange": "SSE",
       "market": "A",
-      "name": "鼎阳科技",
+      "name": "XD鼎阳科",
       "status": "listed"
     },
     {
@@ -34482,7 +34482,7 @@
       "code": "688370",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD丛麟科",
+      "name": "丛麟科技",
       "status": "listed"
     },
     {
@@ -36981,7 +36981,7 @@
       "code": "920080",
       "exchange": "SSE",
       "market": "A",
-      "name": "奥美森",
+      "name": "XD奥美森",
       "status": "listed"
     },
     {
@@ -37114,7 +37114,7 @@
       "code": "920107",
       "exchange": "SSE",
       "market": "A",
-      "name": "XD恒兴股",
+      "name": "恒兴股份",
       "status": "listed"
     },
     {
@@ -37415,7 +37415,7 @@
       "code": "920178",
       "exchange": "SSE",
       "market": "A",
-      "name": "锐翔智能",
+      "name": "XD锐翔智",
       "status": "listed"
     },
     {
@@ -38801,7 +38801,7 @@
       "code": "920837",
       "exchange": "SSE",
       "market": "A",
-      "name": "华原股份",
+      "name": "XD华原股",
       "status": "listed"
     },
     {
@@ -39071,5 +39071,5 @@
       "status": "listed"
     }
   ],
-  "version": "20261126-041555"
+  "version": "20261127-042521"
 }
